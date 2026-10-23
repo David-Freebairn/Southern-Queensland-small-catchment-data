@@ -54,4 +54,4 @@ calibration/            reference Watbal2026 calibration (parameters, statistics
 - Ghahramani A, Freebairn DM, Sena DR, Cutajar JL, Silburn DM (2020) A pragmatic parameterisation and calibration approach to model hydrology and water quality of agricultural landscapes and catchments. Environ Model Softw 130, 104733.
 
 ## Version
-Version 1.0 (draft), October 2026. Compiled by David Freebairn.
+Version 1.0, October 2026. Compiled by David Freebairn.

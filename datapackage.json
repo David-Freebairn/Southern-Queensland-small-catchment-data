@@ -1,7 +1,7 @@
 {
  "name": "qld-contour-bay-catchment-benchmarks",
  "title": "Queensland contour bay catchment benchmark data: Greenmount, Greenwood and Wallumbilla",
- "version": "1.0-draft",
+ "version": "1.0",
  "created": "2026-10-23T00:00:00Z",
  "description": "Daily climate, runoff, soil movement, suspended sediment, and episodic soil water, surface cover and wheat yield from contour bay catchments under contrasting stubble and tillage management, southern Queensland, 1976-2000.",
  "licenses": [
