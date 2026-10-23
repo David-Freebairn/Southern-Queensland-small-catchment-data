@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoilDataTemplate>
+  <SoilType href="Z:\Documents\Projects\Howleaky\Project data\HL projects\Greenmount 2020\Soil\Black earth 4 layer.soil" text="Black Earth" Description="Black Earth" Comments="Greenmount black earth 4 layer soil description&#xA;Based on PAW using mean LL and DUL PAWC 288mm&#xA;&#xA;DMF 17/1/2012 adjusted 28/2/2021">
+    <HorizonCount LastModified="04/05/2011">4</HorizonCount>
+    <SoilCaptions>Lay1</SoilCaptions>
+    <LayerDepth Count="4" value1="100" value2="300" value3="900" value4="1500" Units="mm" LastModified="17/01/2012"/>
+    <InSituAirDryMoist Count="4" value1="11" value2="12" value3="36" value4="37" Units="%Vol" LastModified="12/01/2021"/>
+    <WiltingPoint Count="4" value1="30" value2="35" value3="36" value4="37" Units="%Vol" LastModified="17/01/2012"/>
+    <FieldCapacity Count="4" value1="50" value2="58" value3="59" value4="51" Units="%Vol" LastModified="17/01/2012"/>
+    <SatWaterCont Count="4" value1="68" value2="68" value3="68" value4="61" Units="%Vol" LastModified="12/01/2021"/>
+    <MaxDailyDrainRate Count="4" value1="100" value2="50" value3="50" value4="12" Units="mm/day" LastModified="17/01/2012"/>
+    <BulkDensity Count="4" value1="1" value2="1.2" value3="1.4" value4="1.4" Units="g/cm^3" LastModified="04/05/2011"/>
+    <PAWC Count="4" value1="20" value2="46" value3="138" value4="84" Units="mm" Comments=" (Total = 288mm)"/>
+    <MaxDailyDrainVolume Count="4" value1="18" value2="20" value3="54" value4="60" Units="mm"/>
+    <Stage2SoilEvap_Cona LastModified="28/01/2021">4</Stage2SoilEvap_Cona>
+    <Stage1SoilEvap_U Comments="Set to zero as removes one variable and no data to support another value&#xA;DMF 19/1/2012" LastModified="28/01/2021">4</Stage1SoilEvap_U>
+    <RunoffCurveNumber LastModified="28/01/2021">83</RunoffCurveNumber>
+    <RedInCNAtFullCover LastModified="28/01/2021">15</RedInCNAtFullCover>
+    <MaxRedInCNDueToTill Comments="Set to zero as removes one variable &#xA;DMF 19/1/2012" LastModified="28/01/2021">0</MaxRedInCNDueToTill>
+    <RainToRemoveRough LastModified="28/01/2021">0</RainToRemoveRough>
+    <USLE_K LastModified="28/01/2021">0.35</USLE_K>
+    <USLE_P Comments="Set to 1 as removes one variable and no data to support another value&#xA;DMF 19/1/2012" LastModified="28/01/2021">1</USLE_P>
+    <FieldSlope LastModified="28/01/2021">7</FieldSlope>
+    <SlopeLength LastModified="28/01/2021">60</SlopeLength>
+    <RillRatio Comments="Set to 1as removes one variable and no data to support another value&#xA;DMF 19/1/2012" LastModified="28/01/2021">1</RillRatio>
+    <SoilCrack state="false" Comments="Turned off to remove a variable.  Could be used to improve runoff predictions&#xA;DMF 19/1/2012" LastModified="16/05/2006"/>
+    <MaxInfiltIntoCracks LastModified="28/01/2021">11</MaxInfiltIntoCracks>
+    <SedDelivRatio Comments="Based on previous analysis where suspended sediment was 14% of total soil movement, and fits the rationale that sediment sizes that are highly transportable  ( silts and clays) cobnsitute ~ 14% of detached soil ( Silburn, Rattray, Hairsine)&#xA;DMF 19/1/2012" LastModified="28/01/2021">0.14</SedDelivRatio>
+  </SoilType>
+</SoilDataTemplate>

@@ -1,0 +1,59 @@
+Plant harvest crop yield Greenmount catchment study 1976-90
+//Data type:  Planting and Harvest dates for cropped catchments Plant Flag =9, Harvest flag=99,  Wheat yield  kg/ha.  Discontinuous data on dates of observation
+//Data source: Data was compiled from field notes and hydrologic databases (RRUMS, Hydstra) by David Freebairn and Graeme Wockner, Queensland Department of Natural Resources 2007 and revised in 2021
+//
+//This datafile is based on or contains data provided by the State of Queensland (Department of Environment and Resource Management) 2012.
+//© The State of Queensland (Department of Environment and Resource Management) 2012
+Date,Plant_9_Harvest_99,Burnt_yield_kg_ha,Incorp_yield_kg_ha,Mulch_yield_kg_ha,ZT_yield_kg_ha
+5/08/1976,0,,,,
+6/08/1976,9,,,,
+7/12/1976,0,,,,
+8/12/1976,99,,,,
+14/06/1977,0,,,,
+15/06/1977,9,,,,
+16/11/1977,0,,,,
+17/11/1977,99,,,,
+26/07/1978,0,,,,
+27/07/1978,9,,,,
+8/12/1978,0,,,,
+9/12/1978,99,,,,
+3/06/1979,0,,,,
+4/06/1979,9,,,,
+19/11/1979,0,,,,
+20/11/1979,99,3200,3300,3500,3200
+8/06/1980,0,,,,
+9/06/1980,9,,,,
+31/10/1980,0,,,,
+1/11/1980,99,1980,2320,2580,2380
+22/06/1981,0,,,,
+23/06/1981,9,,,,
+7/12/1981,0,,,,
+8/12/1981,99,3200,3200,2900,3000
+20/05/1982,0,,,,
+21/05/1982,9,,,,
+15/11/1982,0,,,,
+16/11/1982,99,2870,2700,3450,2200
+9/06/1983,0,,,,
+10/06/1983,9,,,,
+8/12/1983,0,,,,
+9/12/1983,99,2830,2600,3230,3000
+1/05/1984,0,,,,
+2/05/1984,9,,,,
+21/11/1984,0,,,,
+22/11/1984,99,,,,
+3/06/1985,0,,,,
+4/06/1985,9,,,,
+29/11/1985,0,,,,
+30/11/1985,99,,,,
+17/06/1986,0,,,,
+18/06/1986,9,,,,
+19/11/1986,0,,,,
+20/11/1986,99,,,,
+25/05/1987,0,,,,
+26/05/1987,9,,,,
+16/11/1987,0,,,,
+17/11/1987,99,,,,
+24/06/1988,0,,,,
+25/06/1988,9,,,,
+13/11/1988,0,,,,
+14/11/1988,99,,,,

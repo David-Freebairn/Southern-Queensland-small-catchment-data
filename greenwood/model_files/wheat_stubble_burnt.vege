@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoverVegTemplate>
+  <VegetationType href="Z:\Documents\Projects\Howleaky\Project data\HL projects\Greenwood\Vegetation\wheat stubble burnt.vege" text="Wheat stubble burnt" Description="Wheat stubble burnt">
+    <ModelType index="1"/>
+    <TimeSeriesList>undefined</TimeSeriesList>
+    <PanPlantDay LastModified="24/01/2021">150</PanPlantDay>
+    <SWPropForNoStress LastModified="24/01/2021">0.2</SWPropForNoStress>
+    <DaysPlantingToHarvest LastModified="24/01/2021">150</DaysPlantingToHarvest>
+    <CoverInputOptions index="0" text="User-defined"/>
+    <CropFactorMatrix Count="14">
+      <Data x="1" y="0" z="2" a="0"/>
+      <Data x="31" y="0" z="2" a="0"/>
+      <Data x="61" y="0" z="2" a="0"/>
+      <Data x="91" y="0" z="2" a="0"/>
+      <Data x="121" y="0" z="2" a="0"/>
+      <Data x="152" y="0" z="2" a="0"/>
+      <Data x="162" y="0" z="2" a="0"/>
+      <Data x="212" y="30" z="2" a="450"/>
+      <Data x="243" y="85" z="2" a="1200"/>
+      <Data x="273" y="95" z="2" a="1500"/>
+      <Data x="305" y="95" z="2" a="1500"/>
+      <Data x="320" y="0" z="95" a="0"/>
+      <Data x="335" y="0" z="2" a="0"/>
+      <Data x="365" y="0" z="2" a="0"/>
+    </CropFactorMatrix>
+    <SourceData index="0" text="undefined"/>
+    <LinkToGreenCover index="0" text="undefined"/>
+    <GreenBioMassToCoverFactor LastModified="24/01/2021">1</GreenBioMassToCoverFactor>
+    <LinkToResidueCover index="0" text="undefined"/>
+    <ResidueBioMassToCoverFactor LastModified="24/01/2021">1</ResidueBioMassToCoverFactor>
+    <LinkToRootDepth index="0" text="undefined"/>
+    <RootBioMassToDepthFactor LastModified="24/01/2021">1</RootBioMassToDepthFactor>
+    <MaxAllowTotalCover LastModified="24/01/2021">1</MaxAllowTotalCover>
+    <MaxRootDepth LastModified="24/01/2021">1</MaxRootDepth>
+    <WaterUseEffic LastModified="24/01/2021">30</WaterUseEffic>
+    <PanHarvestIndex LastModified="24/01/2021">0.4</PanHarvestIndex>
+  </VegetationType>
+</CoverVegTemplate>

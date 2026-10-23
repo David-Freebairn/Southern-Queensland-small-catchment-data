@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoilDataTemplate>
+  <SoilType href="Z:\Documents\Projects\Howleaky\Project data\HL projects\Greenwood\Soil\Greenwood Grey clay.soil" text="Greenwood Grey clay" Description="Greenwood Grey clay" Comments="6 layer profile Based on measured soil water 1978 -1984&#xA;PAWC 240 mm&#xA;Measured using gravimetric soil cores to 150 cm depth in 0-10, 10,30, 30-60, 60-90,90-120, 120-150 cm increments&#xA;DMF 16/1/2012">
+    <HorizonCount Comments="Nuimber of layers in soil sampling" LastModified="16/01/2012">6</HorizonCount>
+    <SoilCaptions>Lay1</SoilCaptions>
+    <LayerDepth Count="6" value1="150" value2="300" value3="600" value4="900" value5="1200" value6="1500" Units="mm" LastModified="16/01/2012"/>
+    <InSituAirDryMoist Count="6" value1="8" value2="8" value3="25" value4="23" value5="22" value6="23" Units="%Vol" LastModified="23/01/2021"/>
+    <WiltingPoint Count="6" value1="21" value2="25" value3="25" value4="23" value5="22" value6="23" Units="%Vol" Comments="Measured" LastModified="16/01/2012"/>
+    <FieldCapacity Count="6" value1="43" value2="43" value3="43" value4="43" value5="39" value6="34" Units="%Vol" Comments="measured" LastModified="23/01/2021"/>
+    <SatWaterCont Count="6" value1="53" value2="53" value3="53" value4="53" value5="49" value6="44" Units="%Vol" Comments="Guestimate" LastModified="23/01/2021"/>
+    <MaxDailyDrainRate Count="6" value1="100" value2="100" value3="100" value4="100" value5="100" value6="12" Units="mm/day" Comments="Guestimate" LastModified="16/01/2012"/>
+    <BulkDensity Count="6" value1="1" value2="1.2" value3="1.4" value4="1.5" value5="1.5" value6="1.5" Units="g/cm^3" Comments="Measureedd  - site mean" LastModified="16/01/2012"/>
+    <PAWC Count="6" value1="33" value2="27" value3="54" value4="60" value5="51" value6="33" Units="mm" Comments=" (Total = 258mm)"/>
+    <MaxDailyDrainVolume Count="6" value1="15" value2="15" value3="30" value4="30" value5="30" value6="30" Units="mm"/>
+    <Stage2SoilEvap_Cona LastModified="25/01/2021">6</Stage2SoilEvap_Cona>
+    <Stage1SoilEvap_U Comments="Set to zero intially to a) remove a parameter and b) no evidence that stage 1 really exists" LastModified="25/01/2021">0</Stage1SoilEvap_U>
+    <RunoffCurveNumber Comments="base value for greenmount  to be optimised" LastModified="25/01/2021">86</RunoffCurveNumber>
+    <RedInCNAtFullCover Comments="base value for greenmount" LastModified="25/01/2021">15</RedInCNAtFullCover>
+    <MaxRedInCNDueToTill Comments="No evidence to set to any value other than zero" LastModified="25/01/2021">0</MaxRedInCNDueToTill>
+    <RainToRemoveRough Comments="No evidence to set to any value other than zero" LastModified="25/01/2021">0</RainToRemoveRough>
+    <USLE_K LastModified="25/01/2021">0.4</USLE_K>
+    <USLE_P Comments="No evidence to set to any value other than zero" LastModified="25/01/2021">1</USLE_P>
+    <FieldSlope Comments="Site mean" LastModified="25/01/2021">5</FieldSlope>
+    <SlopeLength Comments="Site mean" LastModified="25/01/2021">35</SlopeLength>
+    <RillRatio Comments="max value" LastModified="25/01/2021">1</RillRatio>
+    <SoilCrack state="false" Comments="While may improve fit, set to zero to reduce parameter overload"/>
+    <MaxInfiltIntoCracks LastModified="25/01/2021">15</MaxInfiltIntoCracks>
+    <SedDelivRatio LastModified="25/01/2021">0.14</SedDelivRatio>
+  </SoilType>
+</SoilDataTemplate>

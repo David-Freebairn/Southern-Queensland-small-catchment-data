@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoverVegTemplate>
+  <VegetationType text="Wheat fallow slower roots Wallumbilla" Description="Based on wheat chisel tillage fallow with slower root growth; Oct 2026 Watbal2026 pooled Wallumbilla calibration: PAW no-stress 0.75, TUE 33.4, fallow weeds 6% green cover with 600 mm roots (about 40 mm/yr transpiration); weeds controlled at sowing (DOY 144 to 145)">
+    <ModelType index="1"/>
+    <PanPlantDay>145</PanPlantDay>
+    <SWPropForNoStress>0.75</SWPropForNoStress>
+    <DaysPlantingToHarvest>150</DaysPlantingToHarvest>
+    <CoverInputOptions index="0" text="User-defined"/>
+    <CropFactorMatrix Count="14">
+      <Data x="1" y="6" z="30" a="600"/>
+      <Data x="31" y="6" z="20" a="600"/>
+      <Data x="59" y="6" z="10" a="600"/>
+      <Data x="90" y="6" z="5" a="600"/>
+      <Data x="144" y="6" z="5" a="600"/>
+      <Data x="145" y="0" z="5" a="0"/>
+      <Data x="151" y="2" z="2" a="0"/>
+      <Data x="181" y="15" z="1" a="100"/>
+      <Data x="212" y="45" z="1" a="250"/>
+      <Data x="243" y="80" z="1" a="700"/>
+      <Data x="263" y="85" z="1" a="1000"/>
+      <Data x="280" y="85" z="1" a="1200"/>
+      <Data x="300" y="6" z="45" a="600"/>
+      <Data x="365" y="6" z="30" a="600"/>
+    </CropFactorMatrix>
+    <GreenBioMassToCoverFactor>1</GreenBioMassToCoverFactor>
+    <ResidueBioMassToCoverFactor>1</ResidueBioMassToCoverFactor>
+    <RootBioMassToDepthFactor>1</RootBioMassToDepthFactor>
+    <MaxAllowTotalCover>1</MaxAllowTotalCover>
+    <MaxRootDepth>1</MaxRootDepth>
+    <WaterUseEffic>33.4</WaterUseEffic>
+    <PanHarvestIndex>0.35</PanHarvestIndex>
+  </VegetationType>
+</CoverVegTemplate>

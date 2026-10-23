@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoverVegTemplate>
+  <VegetationType href="Z:\Documents\Projects\Howleaky\Project data\HL projects\Wallumbilla2021\Vegetation\Scarify.vege" text="Scarify" Description="Scarify">
+    <ModelType index="1"/>
+    <TimeSeriesList>undefined</TimeSeriesList>
+    <PanPlantDay LastModified="15/01/2021">145</PanPlantDay>
+    <SWPropForNoStress LastModified="15/01/2021">0.2</SWPropForNoStress>
+    <DaysPlantingToHarvest LastModified="15/01/2021">150</DaysPlantingToHarvest>
+    <CoverInputOptions index="0" text="User-defined"/>
+    <CropFactorMatrix Count="13">
+      <Data x="1" y="0" z="40" a="0"/>
+      <Data x="31" y="0" z="32.3100014" a="0"/>
+      <Data x="59" y="0" z="21.5400009" a="0"/>
+      <Data x="90" y="0" z="14.6199999" a="0"/>
+      <Data x="145" y="0" z="12.3100004" a="0"/>
+      <Data x="151" y="2" z="10.7700005" a="0"/>
+      <Data x="181" y="15" z="1" a="192"/>
+      <Data x="212" y="45" z="1" a="384"/>
+      <Data x="243" y="80" z="1" a="816"/>
+      <Data x="273" y="85" z="1" a="1400"/>
+      <Data x="304" y="85" z="10" a="1500"/>
+      <Data x="334" y="5" z="40" a="1100"/>
+      <Data x="365" y="0" z="40" a="0"/>
+    </CropFactorMatrix>
+    <SourceData index="0" text="undefined"/>
+    <LinkToGreenCover index="0" text="undefined"/>
+    <GreenBioMassToCoverFactor LastModified="15/01/2021">1</GreenBioMassToCoverFactor>
+    <LinkToResidueCover index="0" text="undefined"/>
+    <ResidueBioMassToCoverFactor LastModified="15/01/2021">1</ResidueBioMassToCoverFactor>
+    <LinkToRootDepth index="0" text="undefined"/>
+    <RootBioMassToDepthFactor LastModified="15/01/2021">1</RootBioMassToDepthFactor>
+    <MaxAllowTotalCover LastModified="15/01/2021">1</MaxAllowTotalCover>
+    <MaxRootDepth LastModified="15/01/2021">1</MaxRootDepth>
+    <WaterUseEffic LastModified="15/01/2021">25</WaterUseEffic>
+    <PanHarvestIndex LastModified="15/01/2021">0.35</PanHarvestIndex>
+  </VegetationType>
+</CoverVegTemplate>

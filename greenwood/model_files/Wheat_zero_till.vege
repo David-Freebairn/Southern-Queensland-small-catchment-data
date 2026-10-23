@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoverVegTemplate>
+  <VegetationType href="\\Mac\Home\Documents\Projects\Howleaky\Project data\HL projects\Greenwood\Vegetation\Wheat zero till.vege" text="Wheat zero till" Description="Wheat zero till">
+    <ModelType index="1"/>
+    <TimeSeriesList>undefined</TimeSeriesList>
+    <PanPlantDay default="1">150</PanPlantDay>
+    <SWPropForNoStress default="0.3" LastModified="24/01/2021">0.2</SWPropForNoStress>
+    <DaysPlantingToHarvest default="365">150</DaysPlantingToHarvest>
+    <CoverInputOptions index="0" text="User-defined"/>
+    <CropFactorMatrix Count="13">
+      <Data x="1" y="0" z="80" a="0"/>
+      <Data x="31" y="0" z="75" a="0"/>
+      <Data x="59" y="0" z="70" a="0"/>
+      <Data x="90" y="0" z="67" a="0"/>
+      <Data x="120" y="0" z="65" a="0"/>
+      <Data x="152" y="0" z="55" a="0"/>
+      <Data x="162" y="0" z="40" a="0"/>
+      <Data x="212" y="30" z="20" a="450"/>
+      <Data x="243" y="85" z="15" a="1200"/>
+      <Data x="273" y="95" z="10" a="1500"/>
+      <Data x="320" y="95" z="95" a="0"/>
+      <Data x="335" y="0" z="90" a="0"/>
+      <Data x="365" y="0" z="80" a="0"/>
+    </CropFactorMatrix>
+    <SourceData index="0" text="undefined"/>
+    <LinkToGreenCover index="0" text="undefined"/>
+    <GreenBioMassToCoverFactor>1</GreenBioMassToCoverFactor>
+    <LinkToResidueCover index="0" text="undefined"/>
+    <ResidueBioMassToCoverFactor>1</ResidueBioMassToCoverFactor>
+    <LinkToRootDepth index="0" text="undefined"/>
+    <RootBioMassToDepthFactor>1</RootBioMassToDepthFactor>
+    <MaxAllowTotalCover>1</MaxAllowTotalCover>
+    <MaxRootDepth>1</MaxRootDepth>
+    <WaterUseEffic default="3" LastModified="24/01/2021">30</WaterUseEffic>
+    <PanHarvestIndex default="0.35" LastModified="24/01/2021">0.4</PanHarvestIndex>
+  </VegetationType>
+</CoverVegTemplate>

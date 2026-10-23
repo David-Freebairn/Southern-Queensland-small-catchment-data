@@ -1,0 +1,958 @@
+{
+ "name": "qld-contour-bay-catchment-benchmarks",
+ "title": "Queensland contour bay catchment benchmark data: Greenmount, Greenwood and Wallumbilla",
+ "version": "1.0-draft",
+ "created": "2026-10-23T00:00:00Z",
+ "description": "Daily climate, runoff, soil movement, suspended sediment, and episodic soil water, surface cover and wheat yield from contour bay catchments under contrasting stubble and tillage management, southern Queensland, 1976-2000.",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "title": "Creative Commons Attribution 4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "David M. Freebairn",
+   "role": "author"
+  },
+  {
+   "title": "Graeme H. Wockner",
+   "role": "author"
+  },
+  {
+   "title": "State of Queensland",
+   "role": "rightsHolder"
+  }
+ ],
+ "keywords": [
+  "runoff",
+  "erosion",
+  "sediment",
+  "soil water",
+  "tillage",
+  "stubble",
+  "Queensland"
+ ],
+ "resources": [
+  {
+   "name": "greenmount-cover",
+   "path": "greenmount/cover.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Observation date (after runoff events; cultivation; soil sampling; site visits)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment"
+     },
+     {
+      "name": "total_cover_pct",
+      "type": "number",
+      "description": "Total surface cover (green vegetation + crop residue or pasture) from 1 m2 quadrats",
+      "unit": "%"
+     },
+     {
+      "name": "roughness_1to5",
+      "type": "number",
+      "description": "Greenmount only: visual surface roughness (1 smooth - 5 rough)",
+      "unit": "class"
+     },
+     {
+      "name": "source",
+      "type": "string",
+      "description": "Greenmount only: original file the value came from (values can appear in both)"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenmount-crops",
+   "path": "greenmount/crops.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Treatment (or all crop catchments where one value applies to the site)"
+     },
+     {
+      "name": "crop",
+      "type": "string",
+      "description": "Crop grown"
+     },
+     {
+      "name": "plant_date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Sowing date",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "harvest_date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Harvest date",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "yield_t_ha",
+      "type": "number",
+      "description": "Grain yield from 400 m x 6 m commercial harvester strips",
+      "unit": "t/ha"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenmount-daily-climate",
+   "path": "greenmount/daily_climate.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Day of record (rain is 9am-to-9am ending on this date)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "tmax_c",
+      "type": "number",
+      "description": "Daily maximum temperature (SILO)",
+      "unit": "degC"
+     },
+     {
+      "name": "tmin_c",
+      "type": "number",
+      "description": "Daily minimum temperature (SILO)",
+      "unit": "degC"
+     },
+     {
+      "name": "rain_mm",
+      "type": "number",
+      "description": "Daily rainfall; site gauges during the study period with SILO elsewhere (see site.md)",
+      "unit": "mm"
+     },
+     {
+      "name": "pan_evap_mm",
+      "type": "number",
+      "description": "Class A pan evaporation (SILO)",
+      "unit": "mm"
+     },
+     {
+      "name": "radiation_mj_m2",
+      "type": "number",
+      "description": "Daily solar radiation (SILO)",
+      "unit": "MJ/m2"
+     },
+     {
+      "name": "vapour_pressure_hpa",
+      "type": "number",
+      "description": "Vapour pressure (SILO)",
+      "unit": "hPa"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenmount-events-runoff-sediment",
+   "path": "greenmount/events_runoff_sediment.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Day of runoff event (Greenwood and Greenmount; long events can span several days)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment (see site.md)"
+     },
+     {
+      "name": "rain_mm",
+      "type": "number",
+      "description": "Daily rainfall on the event day",
+      "unit": "mm"
+     },
+     {
+      "name": "runoff_mm",
+      "type": "number",
+      "description": "Event runoff depth (variable 766.23)",
+      "unit": "mm"
+     },
+     {
+      "name": "soil_movement_t_ha",
+      "type": "number",
+      "description": "Total soil movement into or through the contour channel = fan deposition + suspended load (variable 767.23)",
+      "unit": "t/ha"
+     },
+     {
+      "name": "suspended_sediment_t_ha",
+      "type": "number",
+      "description": "Suspended sediment load through the weir or flume",
+      "unit": "t/ha"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenmount-soil-layers",
+   "path": "greenmount/soil_layers.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "layer",
+      "type": "number",
+      "description": "Layer number from the surface"
+     },
+     {
+      "name": "depth_top_mm",
+      "type": "number",
+      "description": "Layer boundaries",
+      "unit": "mm"
+     },
+     {
+      "name": "depth_bottom_mm",
+      "type": "number",
+      "description": "Layer boundaries",
+      "unit": "mm"
+     },
+     {
+      "name": "air_dry_pct_vol",
+      "type": "number",
+      "description": "Air-dry water content",
+      "unit": "% vol"
+     },
+     {
+      "name": "ll_pct_vol",
+      "type": "number",
+      "description": "Lower limit (wilting point) from the driest measured profiles",
+      "unit": "% vol"
+     },
+     {
+      "name": "dul_pct_vol",
+      "type": "number",
+      "description": "Drained upper limit from the wettest measured profiles",
+      "unit": "% vol"
+     },
+     {
+      "name": "sat_pct_vol",
+      "type": "number",
+      "description": "Saturated water content (estimated)",
+      "unit": "% vol"
+     },
+     {
+      "name": "bulk_density_g_cm3",
+      "type": "number",
+      "description": "Bulk density (measured with 10 cm cores)",
+      "unit": "g/cm3"
+     },
+     {
+      "name": "pawc_mm",
+      "type": "number",
+      "description": "Plant available water capacity of the layer (DUL - LL) x thickness",
+      "unit": "mm"
+     },
+     {
+      "name": "max_drain_rate_mm_day",
+      "type": "number",
+      "description": "Model drainage parameter from the soil file (not measured)",
+      "unit": "mm/day"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenmount-soil-water",
+   "path": "greenmount/soil_water.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Sampling date (typically post-harvest Nov; mid-fallow Feb; pre-plant May)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment"
+     },
+     {
+      "name": "paw_mm",
+      "type": "number",
+      "description": "Plant available water 0-150 cm (mean of 9 cores; gravimetric x bulk density; above the bay lower limit)",
+      "unit": "mm"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenwood-cover",
+   "path": "greenwood/cover.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Observation date (after runoff events; cultivation; soil sampling; site visits)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment"
+     },
+     {
+      "name": "total_cover_pct",
+      "type": "number",
+      "description": "Total surface cover (green vegetation + crop residue or pasture) from 1 m2 quadrats",
+      "unit": "%"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenwood-crops",
+   "path": "greenwood/crops.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Treatment (or all crop catchments where one value applies to the site)"
+     },
+     {
+      "name": "crop",
+      "type": "string",
+      "description": "Crop grown"
+     },
+     {
+      "name": "plant_date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Sowing date",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "harvest_date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Harvest date",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "yield_t_ha",
+      "type": "number",
+      "description": "Grain yield from 400 m x 6 m commercial harvester strips",
+      "unit": "t/ha"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenwood-daily-climate",
+   "path": "greenwood/daily_climate.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Day of record (rain is 9am-to-9am ending on this date)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "tmax_c",
+      "type": "number",
+      "description": "Daily maximum temperature (SILO)",
+      "unit": "degC"
+     },
+     {
+      "name": "tmin_c",
+      "type": "number",
+      "description": "Daily minimum temperature (SILO)",
+      "unit": "degC"
+     },
+     {
+      "name": "rain_mm",
+      "type": "number",
+      "description": "Daily rainfall; site gauges during the study period with SILO elsewhere (see site.md)",
+      "unit": "mm"
+     },
+     {
+      "name": "pan_evap_mm",
+      "type": "number",
+      "description": "Class A pan evaporation (SILO)",
+      "unit": "mm"
+     },
+     {
+      "name": "radiation_mj_m2",
+      "type": "number",
+      "description": "Daily solar radiation (SILO)",
+      "unit": "MJ/m2"
+     },
+     {
+      "name": "vapour_pressure_hpa",
+      "type": "number",
+      "description": "Vapour pressure (SILO)",
+      "unit": "hPa"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenwood-events-runoff-sediment",
+   "path": "greenwood/events_runoff_sediment.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Day of runoff event (Greenwood and Greenmount; long events can span several days)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment (see site.md)"
+     },
+     {
+      "name": "rain_mm",
+      "type": "number",
+      "description": "Daily rainfall on the event day",
+      "unit": "mm"
+     },
+     {
+      "name": "runoff_mm",
+      "type": "number",
+      "description": "Event runoff depth (variable 766.23)",
+      "unit": "mm"
+     },
+     {
+      "name": "soil_movement_t_ha",
+      "type": "number",
+      "description": "Total soil movement into or through the contour channel = fan deposition + suspended load (variable 767.23)",
+      "unit": "t/ha"
+     },
+     {
+      "name": "sediment_conc_g_l",
+      "type": "number",
+      "description": "Flow-weighted mean suspended sediment concentration (Greenwood only; variable 769.23)",
+      "unit": "g/L"
+     },
+     {
+      "name": "suspended_sediment_t_ha",
+      "type": "number",
+      "description": "Suspended sediment load through the weir or flume",
+      "unit": "t/ha"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenwood-soil-layers",
+   "path": "greenwood/soil_layers.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "layer",
+      "type": "number",
+      "description": "Layer number from the surface"
+     },
+     {
+      "name": "depth_top_mm",
+      "type": "number",
+      "description": "Layer boundaries",
+      "unit": "mm"
+     },
+     {
+      "name": "depth_bottom_mm",
+      "type": "number",
+      "description": "Layer boundaries",
+      "unit": "mm"
+     },
+     {
+      "name": "air_dry_pct_vol",
+      "type": "number",
+      "description": "Air-dry water content",
+      "unit": "% vol"
+     },
+     {
+      "name": "ll_pct_vol",
+      "type": "number",
+      "description": "Lower limit (wilting point) from the driest measured profiles",
+      "unit": "% vol"
+     },
+     {
+      "name": "dul_pct_vol",
+      "type": "number",
+      "description": "Drained upper limit from the wettest measured profiles",
+      "unit": "% vol"
+     },
+     {
+      "name": "sat_pct_vol",
+      "type": "number",
+      "description": "Saturated water content (estimated)",
+      "unit": "% vol"
+     },
+     {
+      "name": "bulk_density_g_cm3",
+      "type": "number",
+      "description": "Bulk density (measured with 10 cm cores)",
+      "unit": "g/cm3"
+     },
+     {
+      "name": "pawc_mm",
+      "type": "number",
+      "description": "Plant available water capacity of the layer (DUL - LL) x thickness",
+      "unit": "mm"
+     },
+     {
+      "name": "max_drain_rate_mm_day",
+      "type": "number",
+      "description": "Model drainage parameter from the soil file (not measured)",
+      "unit": "mm/day"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenwood-soil-water",
+   "path": "greenwood/soil_water.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Sampling date (typically post-harvest Nov; mid-fallow Feb; pre-plant May)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment"
+     },
+     {
+      "name": "paw_adjusted_mm",
+      "type": "number",
+      "description": "PAW with catchment artefacts removed: all bays set to the site mean at the start of each fallow and then follow their own measured changes (see site.md)",
+      "unit": "mm"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "wallumbilla-cover",
+   "path": "wallumbilla/cover.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Observation date (after runoff events; cultivation; soil sampling; site visits)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment"
+     },
+     {
+      "name": "total_cover_pct",
+      "type": "number",
+      "description": "Total surface cover (green vegetation + crop residue or pasture) from 1 m2 quadrats",
+      "unit": "%"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "wallumbilla-crops",
+   "path": "wallumbilla/crops.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Treatment (or all crop catchments where one value applies to the site)"
+     },
+     {
+      "name": "crop",
+      "type": "string",
+      "description": "Crop grown"
+     },
+     {
+      "name": "plant_date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Sowing date",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "harvest_date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Harvest date",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "yield_t_ha",
+      "type": "number",
+      "description": "Grain yield from 400 m x 6 m commercial harvester strips",
+      "unit": "t/ha"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "wallumbilla-daily-climate",
+   "path": "wallumbilla/daily_climate.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Day of record (rain is 9am-to-9am ending on this date)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "tmax_c",
+      "type": "number",
+      "description": "Daily maximum temperature (SILO)",
+      "unit": "degC"
+     },
+     {
+      "name": "tmin_c",
+      "type": "number",
+      "description": "Daily minimum temperature (SILO)",
+      "unit": "degC"
+     },
+     {
+      "name": "rain_mm",
+      "type": "number",
+      "description": "Daily rainfall; site gauges during the study period with SILO elsewhere (see site.md)",
+      "unit": "mm"
+     },
+     {
+      "name": "pan_evap_mm",
+      "type": "number",
+      "description": "Class A pan evaporation (SILO)",
+      "unit": "mm"
+     },
+     {
+      "name": "radiation_mj_m2",
+      "type": "number",
+      "description": "Daily solar radiation (SILO)",
+      "unit": "MJ/m2"
+     },
+     {
+      "name": "vapour_pressure_hpa",
+      "type": "number",
+      "description": "Vapour pressure (SILO)",
+      "unit": "hPa"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "wallumbilla-daily-runoff-sediment",
+   "path": "wallumbilla/daily_runoff_sediment.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Day (Wallumbilla only; continuous daily record)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment (see site.md)"
+     },
+     {
+      "name": "rain_mm",
+      "type": "number",
+      "description": "Site daily rainfall",
+      "unit": "mm"
+     },
+     {
+      "name": "runoff_mm",
+      "type": "number",
+      "description": "Daily runoff depth from the contour bay catchment",
+      "unit": "mm"
+     },
+     {
+      "name": "suspended_sediment_t_ha",
+      "type": "number",
+      "description": "Suspended sediment load at the weir (flow-weighted mean concentration x runoff)",
+      "unit": "t/ha"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "wallumbilla-soil-layers",
+   "path": "wallumbilla/soil_layers.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "layer",
+      "type": "number",
+      "description": "Layer number from the surface"
+     },
+     {
+      "name": "depth_top_mm",
+      "type": "number",
+      "description": "Layer boundaries",
+      "unit": "mm"
+     },
+     {
+      "name": "depth_bottom_mm",
+      "type": "number",
+      "description": "Layer boundaries",
+      "unit": "mm"
+     },
+     {
+      "name": "air_dry_pct_vol",
+      "type": "number",
+      "description": "Air-dry water content",
+      "unit": "% vol"
+     },
+     {
+      "name": "ll_pct_vol",
+      "type": "number",
+      "description": "Lower limit (wilting point) from the driest measured profiles",
+      "unit": "% vol"
+     },
+     {
+      "name": "dul_pct_vol",
+      "type": "number",
+      "description": "Drained upper limit from the wettest measured profiles",
+      "unit": "% vol"
+     },
+     {
+      "name": "sat_pct_vol",
+      "type": "number",
+      "description": "Saturated water content (estimated)",
+      "unit": "% vol"
+     },
+     {
+      "name": "bulk_density_g_cm3",
+      "type": "number",
+      "description": "Bulk density (measured with 10 cm cores)",
+      "unit": "g/cm3"
+     },
+     {
+      "name": "pawc_mm",
+      "type": "number",
+      "description": "Plant available water capacity of the layer (DUL - LL) x thickness",
+      "unit": "mm"
+     },
+     {
+      "name": "max_drain_rate_mm_day",
+      "type": "number",
+      "description": "Model drainage parameter from the soil file (not measured)",
+      "unit": "mm/day"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "wallumbilla-soil-water",
+   "path": "wallumbilla/soil_water.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "format": "%Y-%m-%d",
+      "description": "Sampling date (typically post-harvest Nov; mid-fallow Feb; pre-plant May)",
+      "unit": "YYYY-MM-DD"
+     },
+     {
+      "name": "treatment",
+      "type": "string",
+      "description": "Catchment treatment"
+     },
+     {
+      "name": "implement",
+      "type": "string",
+      "description": "Wallumbilla only: tillage implement of the Tilled bay (Scarify or Chisel)"
+     },
+     {
+      "name": "paw_mm",
+      "type": "number",
+      "description": "Plant available water 0-150 cm (mean of 9 cores; gravimetric x bulk density; above the bay lower limit)",
+      "unit": "mm"
+     },
+     {
+      "name": "paw_adjusted_mm",
+      "type": "number",
+      "description": "PAW with catchment artefacts removed: all bays set to the site mean at the start of each fallow and then follow their own measured changes (see site.md)",
+      "unit": "mm"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   }
+  },
+  {
+   "name": "greenmount-corrections",
+   "path": "greenmount/corrections.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "string"
+     },
+     {
+      "name": "treatment",
+      "type": "string"
+     },
+     {
+      "name": "column",
+      "type": "string"
+     },
+     {
+      "name": "original",
+      "type": "string"
+     },
+     {
+      "name": "corrected",
+      "type": "string"
+     },
+     {
+      "name": "reason",
+      "type": "string"
+     }
+    ]
+   }
+  }
+ ],
+ "spatial": [
+  {
+   "site": "Greenmount",
+   "latitude": -27.7667,
+   "longitude": 151.9167
+  },
+  {
+   "site": "Greenwood",
+   "latitude": -27.315,
+   "longitude": 151.7353
+  },
+  {
+   "site": "Wallumbilla",
+   "latitude": -26.4667,
+   "longitude": 149.1
+  }
+ ]
+}

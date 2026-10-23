@@ -1,0 +1,85 @@
+Total soil cover % wallumbilla catchment stust 1982-2000
+//Data type: Spot observations of soil cover (total) (%). Discontinuous data on dates of observation
+//Total cover (%) is cover from green growing vegetation, crop residue or pasture
+//Used to check crop plant, havest and tillage conditions ar ebeing described by the model
+// Observation dates typically when runoff occured, soil sampling and site visits
+//
+//Data source: Data was compiled from field notes and hydrologic databases (RRUMS, Hydstra) (Graeme Wockner1_200) Queensland Department of Natural Resources 2007 and revised in 2021
+//This datafile is based on or contains data provided by the State of Queensland (Department of Environment and Resource Management) 2012.
+// (C) The State of Queensland (Department of Environment and Resource Management)
+//
+Date,Min_Till_%,Tilled_%,Pasture_%
+29/03/1983,30,16,0
+2/05/1983,22,7.5,0
+12/05/1983,22,8,0
+27/05/1983,12,5,0
+20/06/1983,12,5,0
+21/11/1983,55,55,0
+2/01/1984,60,60,0
+29/01/1984,33,11,0
+24/07/1984,8,15,0
+14/12/1984,54,18,0
+8/01/1985,54,18,0
+7/07/1985,20,10,0
+11/02/1986,25,35,0
+17/11/1986,55,55,0
+9/01/1987,25,20,0
+29/01/1987,20,15,0
+18/06/1987,5,5,0
+14/11/1987,5,5,0
+24/01/1988,2,2,0
+13/02/1988,6,6,0
+7/04/1988,2,2,0
+24/05/1988,4,4,0
+4/11/1988,50,50,0
+13/12/1988,53,17,0
+23/01/1989,53,17,0
+9/03/1989,55,10,0
+25/04/1989,55,12,0
+4/05/1989,55,15,0
+5/06/1989,20,5,0
+3/08/1989,70,70,0
+28/11/1989,80,80,0
+1/05/1990,20,10,0
+16/11/1990,50,50,50
+6/02/1991,5,5,50
+21/05/1991,5,5,50
+17/06/1991,5,5,75
+8/10/1991,50,50,50
+31/12/1991,20,20,60
+7/01/1992,20,20,30
+25/02/1992,5,5,30
+26/04/1992,2,2,50
+14/10/1992,50,50,80
+2/03/1993,10,10,8
+10/06/1993,5,5,5
+10/11/1993,50,50,60
+7/12/1993,15,15,60
+3/02/1994,15,15,85
+16/02/1994,15,15,80
+9/03/1994,15,15,85
+21/06/1994,2,2,90
+9/11/1994,25,25,60
+18/02/1995,10,10,80
+29/06/1995,5,5,90
+13/11/1995,50,40,80
+21/02/1996,10,25,95
+15/10/1996,50,50,95
+30/10/1996,65,60,95
+24/01/1997,20,40,90
+20/03/1997,90,5,95
+28/05/1997,90,30,95
+26/11/1997,75,30,70
+8/01/1998,50,7,60
+20/03/1998,45,10,80
+28/05/1998,5,2,90
+1/08/1998,60,60,90
+11/11/1998,80,80,90
+12/02/1999,80,70,80
+14/02/1999,80,40,90
+18/04/1999,70,40,90
+20/04/1999,70,10,90
+7/07/1999,30,10,85
+2/11/1999,40,40,85
+10/02/2000,30,30,70
+12/05/2000,20,20,60

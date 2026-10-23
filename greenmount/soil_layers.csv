@@ -1,0 +1,5 @@
+layer,depth_top_mm,depth_bottom_mm,air_dry_pct_vol,ll_pct_vol,dul_pct_vol,sat_pct_vol,bulk_density_g_cm3,pawc_mm,max_drain_rate_mm_day
+1,0,100,11,30,50,68,1,20,100
+2,100,300,12,35,58,68,1.2,46,50
+3,300,900,36,36,59,68,1.4,138,50
+4,900,1500,37,37,51,61,1.4,84,12

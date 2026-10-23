@@ -1,0 +1,53 @@
+treatment,crop,plant_date,harvest_date,yield_t_ha
+Burnt,wheat,1976-08-06,1976-12-08,
+Incorporated,wheat,1976-08-06,1976-12-08,
+Mulch,wheat,1976-08-06,1976-12-08,
+Zero till,wheat,1976-08-06,1976-12-08,
+Burnt,wheat,1977-06-15,1977-11-17,
+Incorporated,wheat,1977-06-15,1977-11-17,
+Mulch,wheat,1977-06-15,1977-11-17,
+Zero till,wheat,1977-06-15,1977-11-17,
+Burnt,wheat,1978-07-27,1978-12-09,
+Incorporated,wheat,1978-07-27,1978-12-09,
+Mulch,wheat,1978-07-27,1978-12-09,
+Zero till,wheat,1978-07-27,1978-12-09,
+Burnt,wheat,1979-06-04,1979-11-20,3.2
+Incorporated,wheat,1979-06-04,1979-11-20,3.3
+Mulch,wheat,1979-06-04,1979-11-20,3.5
+Zero till,wheat,1979-06-04,1979-11-20,3.2
+Burnt,wheat,1980-06-09,1980-11-01,1.98
+Incorporated,wheat,1980-06-09,1980-11-01,2.32
+Mulch,wheat,1980-06-09,1980-11-01,2.58
+Zero till,wheat,1980-06-09,1980-11-01,2.38
+Burnt,wheat,1981-06-23,1981-12-08,3.2
+Incorporated,wheat,1981-06-23,1981-12-08,3.2
+Mulch,wheat,1981-06-23,1981-12-08,2.9
+Zero till,wheat,1981-06-23,1981-12-08,3
+Burnt,wheat,1982-05-21,1982-11-16,2.87
+Incorporated,wheat,1982-05-21,1982-11-16,2.7
+Mulch,wheat,1982-05-21,1982-11-16,3.45
+Zero till,wheat,1982-05-21,1982-11-16,2.2
+Burnt,wheat,1983-06-10,1983-12-09,2.83
+Incorporated,wheat,1983-06-10,1983-12-09,2.6
+Mulch,wheat,1983-06-10,1983-12-09,3.23
+Zero till,wheat,1983-06-10,1983-12-09,3
+Burnt,wheat,1984-05-02,1984-11-22,
+Incorporated,wheat,1984-05-02,1984-11-22,
+Mulch,wheat,1984-05-02,1984-11-22,
+Zero till,wheat,1984-05-02,1984-11-22,
+Burnt,wheat,1985-06-04,1985-11-30,
+Incorporated,wheat,1985-06-04,1985-11-30,
+Mulch,wheat,1985-06-04,1985-11-30,
+Zero till,wheat,1985-06-04,1985-11-30,
+Burnt,wheat,1986-06-18,1986-11-20,
+Incorporated,wheat,1986-06-18,1986-11-20,
+Mulch,wheat,1986-06-18,1986-11-20,
+Zero till,wheat,1986-06-18,1986-11-20,
+Burnt,wheat,1987-05-26,1987-11-17,
+Incorporated,wheat,1987-05-26,1987-11-17,
+Mulch,wheat,1987-05-26,1987-11-17,
+Zero till,wheat,1987-05-26,1987-11-17,
+Burnt,wheat,1988-06-25,1988-11-14,
+Incorporated,wheat,1988-06-25,1988-11-14,
+Mulch,wheat,1988-06-25,1988-11-14,
+Zero till,wheat,1988-06-25,1988-11-14,

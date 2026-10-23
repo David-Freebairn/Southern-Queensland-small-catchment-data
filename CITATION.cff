@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite this dataset and the original site publications listed in README.md."
+title: "Queensland contour bay catchment benchmark data: Greenmount, Greenwood and Wallumbilla"
+version: "1.0-draft"
+date-released: "2026-10-23"
+type: dataset
+repository: "https://github.com/David-Freebairn/Southern-Queensland-small-catchment-data"
+license: CC-BY-4.0
+authors:
+  - family-names: Freebairn
+    given-names: David M.
+  - family-names: Wockner
+    given-names: Graeme H.
+keywords:
+  - runoff
+  - soil erosion
+  - suspended sediment
+  - soil water
+  - fallow efficiency
+  - stubble management
+  - tillage
+  - vertisol
+  - Queensland
+  - model benchmark
+references:
+  - type: article
+    authors:
+      - family-names: Freebairn
+        given-names: D. M.
+      - family-names: Wockner
+        given-names: G. H.
+    title: "A study of soil erosion on vertisols of the eastern Darling Downs, Queensland. I. Effect of surface conditions on soil movement within contour bay catchments"
+    journal: "Australian Journal of Soil Research"
+    volume: 24
+    start: 135
+    end: 158
+    year: 1986
+  - type: article
+    authors:
+      - family-names: Freebairn
+        given-names: D. M.
+      - family-names: Wockner
+        given-names: G. H.
+      - family-names: Hamilton
+        given-names: N. A.
+      - family-names: Rowland
+        given-names: P.
+    title: "Impact of soil conditions on hydrology and water quality for a brown clay in the north-eastern cereal zone of Australia"
+    journal: "Australian Journal of Soil Research"
+    volume: 47
+    start: 389
+    end: 402
+    year: 2009

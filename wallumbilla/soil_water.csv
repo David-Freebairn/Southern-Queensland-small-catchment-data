@@ -1,0 +1,162 @@
+date,treatment,implement,paw_mm,paw_adjusted_mm
+1982-11-11,Min till,,33,46
+1982-11-11,Site mean,,46,
+1982-11-11,Tilled,Chisel,68,46
+1982-11-11,Tilled,Scarify,36,46
+1983-05-12,Min till,,153,166
+1983-05-12,Site mean,,150,
+1983-05-12,Tilled,Chisel,206,184
+1983-05-12,Tilled,Scarify,175,185
+1983-11-18,Min till,,59,81
+1983-11-18,Site mean,,81,
+1983-11-18,Tilled,Chisel,124,81
+1983-11-18,Tilled,Scarify,60,81
+1984-05-08,Min till,,95,117
+1984-05-08,Site mean,,137,
+1984-05-08,Tilled,Chisel,132,89
+1984-05-08,Tilled,Scarify,124,145
+1984-11-27,Min till,,51,55
+1984-11-27,Site mean,,55,
+1984-11-27,Tilled,Chisel,95,55
+1984-11-27,Tilled,Scarify,18,55
+1985-02-21,Min till,,115,119
+1985-02-21,Site mean,,104,
+1985-02-21,Tilled,Chisel,91,51
+1985-02-21,Tilled,Scarify,105,142
+1985-05-14,Min till,,135,139
+1985-05-14,Site mean,,132,
+1985-05-14,Tilled,Chisel,130,90
+1985-05-14,Tilled,Scarify,131,168
+1985-11-21,Min till,,85,63
+1985-11-21,Site mean,,63,
+1985-11-21,Tilled,Chisel,48,63
+1985-11-21,Tilled,Scarify,55,63
+1986-02-20,Min till,,141,119
+1986-02-20,Site mean,,124,
+1986-02-20,Tilled,Chisel,,15
+1986-02-20,Tilled,Scarify,106,114
+1986-05-22,Min till,,103,81
+1986-05-22,Site mean,,104,
+1986-05-22,Tilled,Chisel,125,140
+1986-05-22,Tilled,Scarify,85,93
+1986-11-06,Min till,,5,18
+1986-11-06,Site mean,,18,
+1986-11-06,Tilled,Chisel,34,18
+1986-11-06,Tilled,Scarify,15,18
+1987-02-04,Min till,,135,148
+1987-02-04,Site mean,,91,
+1987-02-04,Tilled,Chisel,95,79
+1987-02-04,Tilled,Scarify,103,106
+1987-06-18,Min till,,77,90
+1987-06-18,Site mean,,38,
+1987-06-18,Tilled,Chisel,62,46
+1987-06-18,Tilled,Scarify,34,37
+1987-12-10,Min till,,70,66
+1987-12-10,Site mean,,66,
+1987-12-10,Tilled,Chisel,71,66
+1987-12-10,Tilled,Scarify,56,66
+1988-03-07,Site mean,,140,
+1988-03-07,Tilled,Chisel,150,145
+1988-05-24,Site mean,,155,
+1988-05-24,Tilled,Chisel,135,130
+1988-11-04,Min till,,,34
+1988-11-04,Site mean,,34,
+1988-11-04,Tilled,Chisel,34,34
+1988-11-04,Tilled,Scarify,,34
+1989-03-09,Min till,,103,137
+1989-03-09,Site mean,,91,
+1989-03-09,Tilled,Scarify,79,113
+1989-05-04,Min till,,187,221
+1989-05-04,Site mean,,150,
+1989-05-04,Tilled,Scarify,159,193
+1989-11-28,Min till,,120,113
+1989-11-28,Site mean,,113,
+1989-11-28,Tilled,Chisel,,113
+1989-11-28,Tilled,Scarify,105,113
+1990-05-01,Site mean,,149,
+1990-05-01,Tilled,Chisel,156,269
+1990-05-01,Tilled,Scarify,141,149
+1990-11-16,Min till,,,44
+1990-11-16,Site mean,,44,
+1990-11-16,Tilled,Chisel,38,44
+1990-11-16,Tilled,Scarify,50,44
+1991-02-06,Site mean,,62,
+1991-02-06,Tilled,Chisel,63,69
+1991-02-06,Tilled,Scarify,61,55
+1991-06-17,Site mean,,87,
+1991-06-17,Tilled,Chisel,77,83
+1991-06-17,Tilled,Scarify,97,91
+1991-10-08,Min till,,,63
+1991-10-08,Site mean,,63,
+1991-10-08,Tilled,Chisel,74,63
+1991-10-08,Tilled,Scarify,51,63
+1992-02-25,Min till,,52,115
+1992-02-25,Site mean,,77,
+1992-02-25,Tilled,Scarify,102,114
+1992-05-07,Min till,,70,133
+1992-05-07,Site mean,,98,
+1992-05-07,Tilled,Scarify,126,138
+1992-10-14,Min till,,34,31
+1992-10-14,Site mean,,31,
+1992-10-14,Tilled,Chisel,,31
+1992-10-14,Tilled,Scarify,27,31
+1993-03-02,Site mean,,41,
+1993-03-02,Tilled,Chisel,41,41
+1993-03-02,Tilled,Scarify,41,41
+1993-06-10,Site mean,,64,
+1993-06-10,Tilled,Chisel,54,64
+1993-06-10,Tilled,Scarify,69,73
+1993-11-10,Min till,,,27
+1993-11-10,Site mean,,27,
+1993-11-10,Tilled,Chisel,36,27
+1993-11-10,Tilled,Scarify,18,27
+1994-02-16,Site mean,,140,
+1994-02-16,Tilled,Chisel,158,149
+1994-02-16,Tilled,Scarify,142,151
+1994-06-21,Site mean,,140,
+1994-06-21,Tilled,Chisel,166,157
+1994-06-21,Tilled,Scarify,135,144
+1994-11-09,Site mean,,94,
+1994-11-09,Tilled,Chisel,89,94
+1994-11-09,Tilled,Scarify,98,94
+1995-03-15,Site mean,,112,
+1995-03-15,Tilled,Scarify,112,108
+1995-06-29,Site mean,,117,
+1995-06-29,Tilled,Scarify,117,113
+1995-11-13,Min till,,39,53
+1995-11-13,Site mean,,53,
+1995-11-13,Tilled,Chisel,,53
+1995-11-13,Tilled,Scarify,67,53
+1996-02-21,Min till,,146,160
+1996-02-21,Site mean,,142,
+1996-02-21,Tilled,Scarify,118,104
+1996-05-15,Min till,,179,193
+1996-05-15,Site mean,,151,
+1996-05-15,Tilled,Scarify,143,129
+1996-10-30,Min till,,76,70
+1996-10-30,Site mean,,70,
+1996-10-30,Tilled,Scarify,64,70
+1997-03-20,Min till,,79,73
+1997-03-20,Site mean,,95,
+1997-03-20,Tilled,Scarify,110,116
+1997-05-28,Min till,,118,112
+1997-05-28,Site mean,,118,
+1997-05-28,Tilled,Scarify,117,123
+1997-11-27,Min till,,76,75
+1997-11-27,Site mean,,75,
+1997-11-27,Tilled,Scarify,74,75
+1998-03-11,Min till,,81,80
+1998-03-11,Site mean,,77,
+1998-03-11,Tilled,Scarify,72,73
+1998-05-28,Min till,,147,146
+1998-05-28,Site mean,,144,
+1998-05-28,Tilled,Scarify,140,141
+1998-11-11,Min till,,116,90
+1998-11-11,Site mean,,90,
+1998-11-11,Tilled,Scarify,64,90
+1999-02-11,Min till,,86,60
+1999-02-11,Site mean,,66,
+1999-02-11,Tilled,Scarify,46,72
+1999-07-07,Min till,,113,87
+1999-07-07,Site mean,,105,
+1999-07-07,Tilled,Scarify,96,122

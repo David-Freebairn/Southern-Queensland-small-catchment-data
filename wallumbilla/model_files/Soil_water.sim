@@ -1,0 +1,62 @@
+Plant available water measurements (PAW (mm) Wallumbilla catchment study 1982-2000
+//Data type: Plant available water (PAW) (mm) (0-150cm) organised by tillage treatments
+//PAW based on gravimetric sampling to 150 cm in six increments. Discontinuous data on dates of observation.
+//On change-over of bays to anew treatment, the site mean PAW for that day is presented on the next day, to indicate a bay change at planting of the next winter crop. Bay number is included in this data
+//Field measured bulk density values used to convert gravimetric values (g/g) to volumetric (cc/cc)
+//Lower limit (LL) or Permanent Wilting Point (PWP) based on minimum soil moisture value for each increment (mean of 9 samples for a date) in each bay except 20.9 g/g% used for surface 0-10 cm layer all bays.
+//Adjusted meaning
+//PAW adjusted to remove treatment/catchment artefacts ( to better test water balance model for capability to estimate fallow water accumulation.
+//PAW was averaged across the site at the start of each fallow period (around Nov each year). Subsequent PAW changes used this common reference value and each individual bay’s in subsequent PAW changes were referenced to this common start value
+//
+//Data source: Data was compiled from field notes and hydrologic databases (RRUMS, Hydstra) by David Freebairn and Graeme Wockner, Queensland Department of Natural Resources 2007 and revised in 2021
+//This datafile is based on or contains data provided by the State of Queensland (Department of Environment and Resource Management) 2012.
+//© The State of Queensland (Department of Environment and Resource Management) 2012.
+Date,Site_mean_PAW_mm,Scarify_PAW_mm,Chisel_PAW_mm,Mintill_PAW_mm,Scarify_PAW_mm_adjusted,Chisel_PAW_mm_adjusted,Mintill_PAW_mm_adjusted
+11/11/1982,46,36,68,33,46,46,46
+12/05/1983,150,175,206,153,185,184,166
+18/11/1983,81,60,124,59,81,81,81
+8/05/1984,137,124,132,95,145,89,117
+27/11/1984,55,18,95,51,55,55,55
+21/02/1985,104,105,91,115,142,51,119
+14/05/1985,132,131,130,135,168,90,139
+21/11/1985,63,55,48,85,63,63,63
+20/02/1986,124,106,,141,114,15,119
+22/05/1986,104,85,125,103,93,140,81
+6/11/1986,18,15,34,5,18,18,18
+4/02/1987,91,103,95,135,106,79,148
+18/06/1987,38,34,62,77,37,46,90
+10/12/1987,66,56,71,70,66,66,66
+7/03/1988,140,,150,,,145,
+24/05/1988,155,,135,,,130,
+4/11/1988,34,,34,,34,34,34
+9/03/1989,91,79,,103,113,,137
+4/05/1989,150,159,,187,193,,221
+28/11/1989,113,105,,120,113,113,113
+1/05/1990,149,141,156,,149,269,
+16/11/1990,44,50,38,,44,44,44
+6/02/1991,62,61,63,,55,69,
+17/06/1991,87,97,77,,91,83,
+8/10/1991,63,51,74,,63,63,63
+25/02/1992,77,102,,52,114,,115
+7/05/1992,98,126,,70,138,,133
+14/10/1992,31,27,,34,31,31,31
+2/03/1993,41,41,41,,41,41,
+10/06/1993,64,69,54,,73,64,
+10/11/1993,27,18,36,,27,27,27
+16/02/1994,140,142,158,,151,149,
+21/06/1994,140,135,166,,144,157,
+9/11/1994,94,98,89,,94,94,
+15/03/1995,112,112,,,108,,
+29/06/1995,117,117,,,113,,
+13/11/1995,53,67,,39,53,53,53
+21/02/1996,142,118,,146,104,,160
+15/05/1996,151,143,,179,129,,193
+30/10/1996,70,64,,76,70,,70
+20/03/1997,95,110,,79,116,,73
+28/05/1997,118,117,,118,123,,112
+27/11/1997,75,74,,76,75,,75
+11/03/1998,77,72,,81,73,,80
+28/05/1998,144,140,,147,141,,146
+11/11/1998,90,64,,116,90,,90
+11/02/1999,66,46,,86,72,,60
+7/7/99,105,96,,113,122,,87

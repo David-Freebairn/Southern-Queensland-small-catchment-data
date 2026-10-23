@@ -1,0 +1,223 @@
+date,treatment,total_cover_pct
+1983-03-29,Min till,30
+1983-03-29,Pasture,0
+1983-03-29,Tilled,16
+1983-05-02,Min till,22
+1983-05-02,Pasture,0
+1983-05-02,Tilled,7.5
+1983-05-12,Min till,22
+1983-05-12,Pasture,0
+1983-05-12,Tilled,8
+1983-05-27,Min till,12
+1983-05-27,Pasture,0
+1983-05-27,Tilled,5
+1983-06-20,Min till,12
+1983-06-20,Pasture,0
+1983-06-20,Tilled,5
+1983-11-21,Min till,55
+1983-11-21,Pasture,0
+1983-11-21,Tilled,55
+1984-01-02,Min till,60
+1984-01-02,Pasture,0
+1984-01-02,Tilled,60
+1984-01-29,Min till,33
+1984-01-29,Pasture,0
+1984-01-29,Tilled,11
+1984-07-24,Min till,8
+1984-07-24,Pasture,0
+1984-07-24,Tilled,15
+1984-12-14,Min till,54
+1984-12-14,Pasture,0
+1984-12-14,Tilled,18
+1985-01-08,Min till,54
+1985-01-08,Pasture,0
+1985-01-08,Tilled,18
+1985-07-07,Min till,20
+1985-07-07,Pasture,0
+1985-07-07,Tilled,10
+1986-02-11,Min till,25
+1986-02-11,Pasture,0
+1986-02-11,Tilled,35
+1986-11-17,Min till,55
+1986-11-17,Pasture,0
+1986-11-17,Tilled,55
+1987-01-09,Min till,25
+1987-01-09,Pasture,0
+1987-01-09,Tilled,20
+1987-01-29,Min till,20
+1987-01-29,Pasture,0
+1987-01-29,Tilled,15
+1987-06-18,Min till,5
+1987-06-18,Pasture,0
+1987-06-18,Tilled,5
+1987-11-14,Min till,5
+1987-11-14,Pasture,0
+1987-11-14,Tilled,5
+1988-01-24,Min till,2
+1988-01-24,Pasture,0
+1988-01-24,Tilled,2
+1988-02-13,Min till,6
+1988-02-13,Pasture,0
+1988-02-13,Tilled,6
+1988-04-07,Min till,2
+1988-04-07,Pasture,0
+1988-04-07,Tilled,2
+1988-05-24,Min till,4
+1988-05-24,Pasture,0
+1988-05-24,Tilled,4
+1988-11-04,Min till,50
+1988-11-04,Pasture,0
+1988-11-04,Tilled,50
+1988-12-13,Min till,53
+1988-12-13,Pasture,0
+1988-12-13,Tilled,17
+1989-01-23,Min till,53
+1989-01-23,Pasture,0
+1989-01-23,Tilled,17
+1989-03-09,Min till,55
+1989-03-09,Pasture,0
+1989-03-09,Tilled,10
+1989-04-25,Min till,55
+1989-04-25,Pasture,0
+1989-04-25,Tilled,12
+1989-05-04,Min till,55
+1989-05-04,Pasture,0
+1989-05-04,Tilled,15
+1989-06-05,Min till,20
+1989-06-05,Pasture,0
+1989-06-05,Tilled,5
+1989-08-03,Min till,70
+1989-08-03,Pasture,0
+1989-08-03,Tilled,70
+1989-11-28,Min till,80
+1989-11-28,Pasture,0
+1989-11-28,Tilled,80
+1990-05-01,Min till,20
+1990-05-01,Pasture,0
+1990-05-01,Tilled,10
+1990-11-16,Min till,50
+1990-11-16,Pasture,50
+1990-11-16,Tilled,50
+1991-02-06,Min till,5
+1991-02-06,Pasture,50
+1991-02-06,Tilled,5
+1991-05-21,Min till,5
+1991-05-21,Pasture,50
+1991-05-21,Tilled,5
+1991-06-17,Min till,5
+1991-06-17,Pasture,75
+1991-06-17,Tilled,5
+1991-10-08,Min till,50
+1991-10-08,Pasture,50
+1991-10-08,Tilled,50
+1991-12-31,Min till,20
+1991-12-31,Pasture,60
+1991-12-31,Tilled,20
+1992-01-07,Min till,20
+1992-01-07,Pasture,30
+1992-01-07,Tilled,20
+1992-02-25,Min till,5
+1992-02-25,Pasture,30
+1992-02-25,Tilled,5
+1992-04-26,Min till,2
+1992-04-26,Pasture,50
+1992-04-26,Tilled,2
+1992-10-14,Min till,50
+1992-10-14,Pasture,80
+1992-10-14,Tilled,50
+1993-03-02,Min till,10
+1993-03-02,Pasture,8
+1993-03-02,Tilled,10
+1993-06-10,Min till,5
+1993-06-10,Pasture,5
+1993-06-10,Tilled,5
+1993-11-10,Min till,50
+1993-11-10,Pasture,60
+1993-11-10,Tilled,50
+1993-12-07,Min till,15
+1993-12-07,Pasture,60
+1993-12-07,Tilled,15
+1994-02-03,Min till,15
+1994-02-03,Pasture,85
+1994-02-03,Tilled,15
+1994-02-16,Min till,15
+1994-02-16,Pasture,80
+1994-02-16,Tilled,15
+1994-03-09,Min till,15
+1994-03-09,Pasture,85
+1994-03-09,Tilled,15
+1994-06-21,Min till,2
+1994-06-21,Pasture,90
+1994-06-21,Tilled,2
+1994-11-09,Min till,25
+1994-11-09,Pasture,60
+1994-11-09,Tilled,25
+1995-02-18,Min till,10
+1995-02-18,Pasture,80
+1995-02-18,Tilled,10
+1995-06-29,Min till,5
+1995-06-29,Pasture,90
+1995-06-29,Tilled,5
+1995-11-13,Min till,50
+1995-11-13,Pasture,80
+1995-11-13,Tilled,40
+1996-02-21,Min till,10
+1996-02-21,Pasture,95
+1996-02-21,Tilled,25
+1996-10-15,Min till,50
+1996-10-15,Pasture,95
+1996-10-15,Tilled,50
+1996-10-30,Min till,65
+1996-10-30,Pasture,95
+1996-10-30,Tilled,60
+1997-01-24,Min till,20
+1997-01-24,Pasture,90
+1997-01-24,Tilled,40
+1997-03-20,Min till,90
+1997-03-20,Pasture,95
+1997-03-20,Tilled,5
+1997-05-28,Min till,90
+1997-05-28,Pasture,95
+1997-05-28,Tilled,30
+1997-11-26,Min till,75
+1997-11-26,Pasture,70
+1997-11-26,Tilled,30
+1998-01-08,Min till,50
+1998-01-08,Pasture,60
+1998-01-08,Tilled,7
+1998-03-20,Min till,45
+1998-03-20,Pasture,80
+1998-03-20,Tilled,10
+1998-05-28,Min till,5
+1998-05-28,Pasture,90
+1998-05-28,Tilled,2
+1998-08-01,Min till,60
+1998-08-01,Pasture,90
+1998-08-01,Tilled,60
+1998-11-11,Min till,80
+1998-11-11,Pasture,90
+1998-11-11,Tilled,80
+1999-02-12,Min till,80
+1999-02-12,Pasture,80
+1999-02-12,Tilled,70
+1999-02-14,Min till,80
+1999-02-14,Pasture,90
+1999-02-14,Tilled,40
+1999-04-18,Min till,70
+1999-04-18,Pasture,90
+1999-04-18,Tilled,40
+1999-04-20,Min till,70
+1999-04-20,Pasture,90
+1999-04-20,Tilled,10
+1999-07-07,Min till,30
+1999-07-07,Pasture,85
+1999-07-07,Tilled,10
+1999-11-02,Min till,40
+1999-11-02,Pasture,85
+1999-11-02,Tilled,40
+2000-02-10,Min till,30
+2000-02-10,Pasture,70
+2000-02-10,Tilled,30
+2000-05-12,Min till,20
+2000-05-12,Pasture,60
+2000-05-12,Tilled,20

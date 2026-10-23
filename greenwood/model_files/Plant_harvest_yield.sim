@@ -1,0 +1,29 @@
+Plant harvest crop yield Greenwood catchment study 1978-84
+//Data type:  Planting and Harvest dates for cropped catchments Plant Flag =9, Harvest flag=99,  Wheat yield  kg/ha.  Discontinuous data on dates of observation 
+//Data source: Data was compiled from field notes and hydrologic databases (RRUMS, Hydstra) by David Freebairn and Graeme Wockner, Queensland Department of Natural Resources 2007 and revised in 2021
+//This datafile is based on or contains data provided by the State of Queensland (Department of Environment and Resource Management) 2012. 
+//� The State of Queensland (Department of Environment and Resource Management) 2012.
+Date,Plant_date,Harvest_date,Wheat_Yield_kg_ha
+01/01/1979,10,100,0
+24/05/1979,0,0,0
+25/05/1979,9,0,0
+17/11/1979,0,0,0
+18/11/1979,0,99,3250
+5/06/1980,0,0,0
+6/06/1980,9,0,0
+29/10/1980,0,0,0
+30/10/1980,0,99,1900
+22/06/1981,0,0,0
+23/06/1981,9,0,0
+23/11/1981,0,0,0
+24/11/1981,0,99,3430
+1/06/1982,0,0,0
+2/06/1982,9,0,0
+14/11/1982,0,0,0
+15/11/1982,0,99,1850
+5/06/1983,0,0,0
+6/06/1983,9,0,0
+8/11/1983,0,0,0
+9/11/1983,0,99,3410
+14/06/1984,0,0
+15/06/1984,9,0

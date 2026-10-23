@@ -1,0 +1,44 @@
+file,column,units,description,missing_and_zero_convention
+daily_climate.csv,date,YYYY-MM-DD,Day of record (rain is 9am-to-9am ending on this date),
+daily_climate.csv,tmax_c,degC,Daily maximum temperature (SILO),
+daily_climate.csv,tmin_c,degC,Daily minimum temperature (SILO),
+daily_climate.csv,rain_mm,mm,Daily rainfall; site gauges during the study period with SILO elsewhere (see site.md),0 = no rain
+daily_climate.csv,pan_evap_mm,mm,Class A pan evaporation (SILO),
+daily_climate.csv,radiation_mj_m2,MJ/m2,Daily solar radiation (SILO),
+daily_climate.csv,vapour_pressure_hpa,hPa,Vapour pressure (SILO),
+daily_runoff_sediment.csv,date,YYYY-MM-DD,Day (Wallumbilla only; continuous daily record),
+daily_runoff_sediment.csv,treatment,,Catchment treatment (see site.md),
+daily_runoff_sediment.csv,rain_mm,mm,Site daily rainfall,
+daily_runoff_sediment.csv,runoff_mm,mm,Daily runoff depth from the contour bay catchment,Continuous record: 0 = no runoff observed; zeros outside the reliable period of each bay are infill (see site.md)
+daily_runoff_sediment.csv,suspended_sediment_t_ha,t/ha,Suspended sediment load at the weir (flow-weighted mean concentration x runoff),0 = none observed
+events_runoff_sediment.csv,date,YYYY-MM-DD,Day of runoff event (Greenwood and Greenmount; long events can span several days),Days not listed within a treatment's measured period had no runoff
+events_runoff_sediment.csv,treatment,,Catchment treatment (see site.md),
+events_runoff_sediment.csv,rain_mm,mm,Daily rainfall on the event day,
+events_runoff_sediment.csv,runoff_mm,mm,Event runoff depth (variable 766.23),
+events_runoff_sediment.csv,soil_movement_t_ha,t/ha,Total soil movement into or through the contour channel = fan deposition + suspended load (variable 767.23),Blank = not measured
+events_runoff_sediment.csv,sediment_conc_g_l,g/L,Flow-weighted mean suspended sediment concentration (Greenwood only; variable 769.23),0 can mean not sampled
+events_runoff_sediment.csv,suspended_sediment_t_ha,t/ha,Suspended sediment load through the weir or flume,0 or blank can mean not sampled (smaller events were not always sampled)
+cover.csv,date,YYYY-MM-DD,Observation date (after runoff events; cultivation; soil sampling; site visits),
+cover.csv,treatment,,Catchment treatment,
+cover.csv,total_cover_pct,%,Total surface cover (green vegetation + crop residue or pasture) from 1 m2 quadrats,
+cover.csv,roughness_1to5,class,Greenmount only: visual surface roughness (1 smooth - 5 rough),0 or blank = not recorded
+cover.csv,source,,Greenmount only: original file the value came from (values can appear in both),
+soil_water.csv,date,YYYY-MM-DD,Sampling date (typically post-harvest Nov; mid-fallow Feb; pre-plant May),
+soil_water.csv,treatment,,Catchment treatment,
+soil_water.csv,implement,,Wallumbilla only: tillage implement of the Tilled bay (Scarify or Chisel); both bays are the Tilled treatment,Blank for other treatments
+soil_water.csv,paw_mm,mm,Plant available water 0-150 cm (mean of 9 cores; gravimetric x bulk density; above the bay lower limit),
+soil_water.csv,paw_adjusted_mm,mm,PAW with catchment artefacts removed: all bays set to the site mean at the start of each fallow and then follow their own measured changes (see site.md),
+crops.csv,treatment,,Treatment (or all crop catchments where one value applies to the site),
+crops.csv,crop,,Crop grown,
+crops.csv,plant_date,YYYY-MM-DD,Sowing date,
+crops.csv,harvest_date,YYYY-MM-DD,Harvest date,Blank = crop failed or not harvested
+crops.csv,yield_t_ha,t/ha,Grain yield from 400 m x 6 m commercial harvester strips,Blank = not recorded
+soil_layers.csv,layer,,Layer number from the surface,
+soil_layers.csv,depth_top_mm / depth_bottom_mm,mm,Layer boundaries,
+soil_layers.csv,air_dry_pct_vol,% vol,Air-dry water content,
+soil_layers.csv,ll_pct_vol,% vol,Lower limit (wilting point) from the driest measured profiles,
+soil_layers.csv,dul_pct_vol,% vol,Drained upper limit from the wettest measured profiles,
+soil_layers.csv,sat_pct_vol,% vol,Saturated water content (estimated),
+soil_layers.csv,bulk_density_g_cm3,g/cm3,Bulk density (measured with 10 cm cores),
+soil_layers.csv,pawc_mm,mm,Plant available water capacity of the layer (DUL - LL) x thickness,
+soil_layers.csv,max_drain_rate_mm_day,mm/day,Model drainage parameter from the soil file (not measured),

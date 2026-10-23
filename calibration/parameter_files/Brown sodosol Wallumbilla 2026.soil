@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoilDataTemplate>
+  <SoilType href="\\Mac\Home\Documents\Projects\Howleaky\Project data\HL projects\Wallumbilla\Soil\Brown sodosol.soil" text="Brown clay" Description="Brown clay" Comments="Brown Soodosol  Reference soil description - cropped catchment Wallumbilla catchment study &#xA;Best bet PAW description based on new LL and density from base file (.xls)&#xA;CN  of 85 and CN cover response of 10 best good fit&#xA;K factor 0.4 for the site, &#xA;Delivery ratio  0.4 - larger catchment, higher channel transport resulting in higher proportion being fines&#xA;Freebairn et al 2011, Aust. J Soil Research DMF  24/2/2018, 15/1/2021&#xA;Oct 2026: Watbal2026 calibration with Wheat fallow slower roots vege, pooled tilled + min-till Wallumbilla 1983-1999, runoff and sediment P:O = 1 (AMC howleaky, bottom drain, kl, CN2, CN cover reduction, Cona, U, K)&#xA;">
+    <HorizonCount>6</HorizonCount>
+    <SoilCaptions>Lay1</SoilCaptions>
+    <LayerDepth Count="6" value1="100" value2="300" value3="600" value4="900" value5="1200" value6="1500" Units="mm"/>
+    <InSituAirDryMoist Count="6" value1="7" value2="7" value3="21.8" value4="24.6" value5="26.6" value6="26" Units="%Vol"/>
+    <WiltingPoint Count="6" value1="15.7" value2="18.9" value3="21.8" value4="24.6" value5="26.6" value6="26" Units="%Vol" LastModified="12/07/2018"/>
+    <FieldCapacity Count="6" value1="39" value2="39" value3="36.5" value4="34" value5="32" value6="32" Units="%Vol" LastModified="12/07/2018"/>
+    <SatWaterCont Count="6" value1="52" value2="44" value3="41.5" value4="39" value5="37" value6="37" Units="%Vol" LastModified="12/07/2018"/>
+    <MaxDailyDrainRate Count="6" value1="100" value2="100" value3="100" value4="100" value5="100" value6="0.14" Units="mm/day" LastModified="12/02/2018"/>
+    <BulkDensity Count="6" value1="1.2" value2="1.4" value3="1.5" value4="1.6" value5="1.6" value6="1.6" Units="g/cm^3"/>
+    <PAWC Count="6" value1="23.3" value2="40.2" value3="44.1" default3="44.1" value4="28.2" default4="28.2" value5="16.2" default5="16.2" value6="18" Units="mm" Comments=" (Total = 170mm)"/>
+    <MaxDailyDrainVolume Count="6" value1="13" value2="10" value3="15" value4="15" value5="15" value6="15" Units="mm"/>
+    <Stage2SoilEvap_Cona LastModified="10/01/2021">3.33</Stage2SoilEvap_Cona>
+    <Stage1SoilEvap_U LastModified="10/01/2021">4.8</Stage1SoilEvap_U>
+    <RunoffCurveNumber default="85" LastModified="15/01/2021">92.2</RunoffCurveNumber>
+    <RedInCNAtFullCover LastModified="10/01/2021">8.0</RedInCNAtFullCover>
+    <MaxRedInCNDueToTill LastModified="10/01/2021">0</MaxRedInCNDueToTill>
+    <RainToRemoveRough LastModified="10/01/2021">0</RainToRemoveRough>
+    <USLE_K LastModified="10/01/2021">0.149</USLE_K>
+    <USLE_P LastModified="10/01/2021">1</USLE_P>
+    <FieldSlope LastModified="10/01/2021">2</FieldSlope>
+    <SlopeLength LastModified="10/01/2021">100</SlopeLength>
+    <RillRatio LastModified="10/01/2021">1</RillRatio>
+    <SoilCrack state="false"/>
+    <AMCMode>howleaky</AMCMode>
+    <RootExtractionKl>0.037</RootExtractionKl>
+    <MaxInfiltIntoCracks LastModified="10/01/2021">25</MaxInfiltIntoCracks>
+    <SedDelivRatio LastModified="10/01/2021">0.4</SedDelivRatio>
+    <OrganicCarbon LastModified="10/01/2021">0</OrganicCarbon>
+    <CarbonNitrogenRatio LastModified="10/01/2021">0</CarbonNitrogenRatio>
+    <NitrateMineralisationCoefficient LastModified="10/01/2021">0</NitrateMineralisationCoefficient>
+  </SoilType>
+</SoilDataTemplate>

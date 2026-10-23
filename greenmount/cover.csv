@@ -1,0 +1,702 @@
+date,treatment,total_cover_pct,roughness_1to5,source
+1976-04-25,Burnt,0,,Greenmount_Burnt.sim
+1976-04-25,Burnt,0,,Greenmount_cover.sim
+1976-04-25,Incorporated,0,0,Greenmount_Incorporated.sim
+1976-04-25,Incorporated,0,,Greenmount_cover.sim
+1976-04-25,Mulch,,,Greenmount_cover.sim
+1976-04-25,Pasture,,,Greenmount_cover.sim
+1976-04-25,Zero till,,,Greenmount_cover.sim
+1976-10-26,Burnt,5,,Greenmount_Burnt.sim
+1976-10-26,Burnt,5,,Greenmount_cover.sim
+1976-10-26,Incorporated,8,4,Greenmount_Incorporated.sim
+1976-10-26,Incorporated,8,,Greenmount_cover.sim
+1976-10-26,Mulch,,,Greenmount_cover.sim
+1976-10-26,Pasture,,,Greenmount_cover.sim
+1976-10-26,Zero till,,,Greenmount_cover.sim
+1976-10-31,Burnt,25,,Greenmount_Burnt.sim
+1976-10-31,Burnt,25,,Greenmount_cover.sim
+1976-10-31,Incorporated,8,3,Greenmount_Incorporated.sim
+1976-10-31,Incorporated,8,,Greenmount_cover.sim
+1976-10-31,Mulch,,,Greenmount_cover.sim
+1976-10-31,Pasture,,,Greenmount_cover.sim
+1976-10-31,Zero till,,,Greenmount_cover.sim
+1976-11-09,Burnt,25,,Greenmount_Burnt.sim
+1976-11-09,Burnt,25,,Greenmount_cover.sim
+1976-11-09,Incorporated,12,1,Greenmount_Incorporated.sim
+1976-11-09,Incorporated,12,,Greenmount_cover.sim
+1976-11-09,Mulch,,,Greenmount_cover.sim
+1976-11-09,Pasture,,,Greenmount_cover.sim
+1976-11-09,Zero till,,,Greenmount_cover.sim
+1976-11-10,Burnt,,,Greenmount_cover.sim
+1976-11-10,Incorporated,12,1,Greenmount_Incorporated.sim
+1976-11-10,Incorporated,12,,Greenmount_cover.sim
+1976-11-10,Mulch,,,Greenmount_cover.sim
+1976-11-10,Pasture,,,Greenmount_cover.sim
+1976-11-10,Zero till,,,Greenmount_cover.sim
+1976-11-14,Burnt,,,Greenmount_cover.sim
+1976-11-14,Incorporated,12,1,Greenmount_Incorporated.sim
+1976-11-14,Incorporated,12,,Greenmount_cover.sim
+1976-11-14,Mulch,,,Greenmount_cover.sim
+1976-11-14,Pasture,,,Greenmount_cover.sim
+1976-11-14,Zero till,,,Greenmount_cover.sim
+1976-11-21,Burnt,,,Greenmount_cover.sim
+1976-11-21,Incorporated,15,1,Greenmount_Incorporated.sim
+1976-11-21,Incorporated,15,,Greenmount_cover.sim
+1976-11-21,Mulch,,,Greenmount_cover.sim
+1976-11-21,Pasture,,,Greenmount_cover.sim
+1976-11-21,Zero till,,,Greenmount_cover.sim
+1977-01-16,Burnt,,,Greenmount_cover.sim
+1977-01-16,Incorporated,10,1,Greenmount_Incorporated.sim
+1977-01-16,Incorporated,10,,Greenmount_cover.sim
+1977-01-16,Mulch,,,Greenmount_cover.sim
+1977-01-16,Pasture,,,Greenmount_cover.sim
+1977-01-16,Zero till,,,Greenmount_cover.sim
+1977-05-14,Burnt,10,,Greenmount_Burnt.sim
+1977-05-14,Burnt,10,,Greenmount_cover.sim
+1977-05-14,Incorporated,60,1,Greenmount_Incorporated.sim
+1977-05-14,Incorporated,60,,Greenmount_cover.sim
+1977-05-14,Mulch,,,Greenmount_cover.sim
+1977-05-14,Pasture,,,Greenmount_cover.sim
+1977-05-14,Zero till,,,Greenmount_cover.sim
+1977-05-15,Burnt,10,,Greenmount_Burnt.sim
+1977-05-15,Burnt,10,,Greenmount_cover.sim
+1977-05-15,Incorporated,,,Greenmount_cover.sim
+1977-05-15,Mulch,,,Greenmount_cover.sim
+1977-05-15,Pasture,,,Greenmount_cover.sim
+1977-05-15,Zero till,,,Greenmount_cover.sim
+1978-03-28,Burnt,25,,Greenmount_Burnt.sim
+1978-03-28,Burnt,25,,Greenmount_cover.sim
+1978-03-28,Incorporated,50,1,Greenmount_Incorporated.sim
+1978-03-28,Incorporated,50,,Greenmount_cover.sim
+1978-03-28,Mulch,,,Greenmount_cover.sim
+1978-03-28,Pasture,,,Greenmount_cover.sim
+1978-03-28,Zero till,,,Greenmount_cover.sim
+1978-07-02,Burnt,,,Greenmount_cover.sim
+1978-07-02,Incorporated,20,1,Greenmount_Incorporated.sim
+1978-07-02,Incorporated,20,,Greenmount_cover.sim
+1978-07-02,Mulch,,,Greenmount_cover.sim
+1978-07-02,Pasture,,,Greenmount_cover.sim
+1978-07-02,Zero till,,,Greenmount_cover.sim
+1978-07-09,Burnt,,,Greenmount_cover.sim
+1978-07-09,Incorporated,20,1,Greenmount_Incorporated.sim
+1978-07-09,Incorporated,20,,Greenmount_cover.sim
+1978-07-09,Mulch,,,Greenmount_cover.sim
+1978-07-09,Pasture,,,Greenmount_cover.sim
+1978-07-09,Zero till,,,Greenmount_cover.sim
+1978-09-06,Burnt,,,Greenmount_cover.sim
+1978-09-06,Incorporated,15,1,Greenmount_Incorporated.sim
+1978-09-06,Incorporated,15,,Greenmount_cover.sim
+1978-09-06,Mulch,20,3,Greenmount_Mulch.sim
+1978-09-06,Mulch,20,,Greenmount_cover.sim
+1978-09-06,Pasture,,,Greenmount_cover.sim
+1978-09-06,Zero till,,,Greenmount_cover.sim
+1978-12-23,Burnt,12,,Greenmount_Burnt.sim
+1978-12-23,Burnt,12,,Greenmount_cover.sim
+1978-12-23,Incorporated,55,3,Greenmount_Incorporated.sim
+1978-12-23,Incorporated,55,,Greenmount_cover.sim
+1978-12-23,Mulch,65,2,Greenmount_Mulch.sim
+1978-12-23,Mulch,65,,Greenmount_cover.sim
+1978-12-23,Pasture,,,Greenmount_cover.sim
+1978-12-23,Zero till,,,Greenmount_cover.sim
+1978-12-29,Burnt,12,,Greenmount_Burnt.sim
+1978-12-29,Burnt,12,,Greenmount_cover.sim
+1978-12-29,Incorporated,55,2,Greenmount_Incorporated.sim
+1978-12-29,Incorporated,55,,Greenmount_cover.sim
+1978-12-29,Mulch,65,2,Greenmount_Mulch.sim
+1978-12-29,Mulch,65,,Greenmount_cover.sim
+1978-12-29,Pasture,,,Greenmount_cover.sim
+1978-12-29,Zero till,,,Greenmount_cover.sim
+1979-03-03,Burnt,5,,Greenmount_Burnt.sim
+1979-03-03,Burnt,5,,Greenmount_cover.sim
+1979-03-03,Incorporated,,,Greenmount_cover.sim
+1979-03-03,Mulch,,,Greenmount_cover.sim
+1979-03-03,Pasture,,,Greenmount_cover.sim
+1979-03-03,Zero till,,,Greenmount_cover.sim
+1979-03-04,Burnt,5,,Greenmount_Burnt.sim
+1979-03-04,Burnt,5,,Greenmount_cover.sim
+1979-03-04,Incorporated,35,2,Greenmount_Incorporated.sim
+1979-03-04,Incorporated,35,,Greenmount_cover.sim
+1979-03-04,Mulch,50,3,Greenmount_Mulch.sim
+1979-03-04,Mulch,50,,Greenmount_cover.sim
+1979-03-04,Pasture,,,Greenmount_cover.sim
+1979-03-04,Zero till,,,Greenmount_cover.sim
+1979-03-15,Burnt,5,,Greenmount_Burnt.sim
+1979-03-15,Burnt,5,,Greenmount_cover.sim
+1979-03-15,Incorporated,35,1,Greenmount_Incorporated.sim
+1979-03-15,Incorporated,35,,Greenmount_cover.sim
+1979-03-15,Mulch,50,1,Greenmount_Mulch.sim
+1979-03-15,Mulch,50,,Greenmount_cover.sim
+1979-03-15,Pasture,,,Greenmount_cover.sim
+1979-03-15,Zero till,,,Greenmount_cover.sim
+1979-06-20,Burnt,10,,Greenmount_Burnt.sim
+1979-06-20,Burnt,10,,Greenmount_cover.sim
+1979-06-20,Incorporated,25,1,Greenmount_Incorporated.sim
+1979-06-20,Incorporated,25,,Greenmount_cover.sim
+1979-06-20,Mulch,40,1,Greenmount_Mulch.sim
+1979-06-20,Mulch,40,,Greenmount_cover.sim
+1979-06-20,Pasture,,,Greenmount_cover.sim
+1979-06-20,Zero till,,,Greenmount_cover.sim
+1979-06-21,Burnt,10,,Greenmount_Burnt.sim
+1979-06-21,Burnt,10,,Greenmount_cover.sim
+1979-06-21,Incorporated,,,Greenmount_cover.sim
+1979-06-21,Mulch,,,Greenmount_cover.sim
+1979-06-21,Pasture,,,Greenmount_cover.sim
+1979-06-21,Zero till,,,Greenmount_cover.sim
+1979-12-21,Burnt,2,,Greenmount_Burnt.sim
+1979-12-21,Burnt,2,,Greenmount_cover.sim
+1979-12-21,Incorporated,50,2,Greenmount_Incorporated.sim
+1979-12-21,Incorporated,50,,Greenmount_cover.sim
+1979-12-21,Mulch,60,2,Greenmount_Mulch.sim
+1979-12-21,Mulch,60,,Greenmount_cover.sim
+1979-12-21,Pasture,,,Greenmount_cover.sim
+1979-12-21,Zero till,70,1,Greenmount_Zero till.sim
+1979-12-21,Zero till,70,,Greenmount_cover.sim
+1980-01-27,Burnt,2,,Greenmount_Burnt.sim
+1980-01-27,Burnt,2,,Greenmount_cover.sim
+1980-01-27,Incorporated,40,3,Greenmount_Incorporated.sim
+1980-01-27,Incorporated,40,,Greenmount_cover.sim
+1980-01-27,Mulch,55,3,Greenmount_Mulch.sim
+1980-01-27,Mulch,55,,Greenmount_cover.sim
+1980-01-27,Pasture,,,Greenmount_cover.sim
+1980-01-27,Zero till,70,1,Greenmount_Zero till.sim
+1980-01-27,Zero till,70,,Greenmount_cover.sim
+1980-01-28,Burnt,2,,Greenmount_Burnt.sim
+1980-01-28,Burnt,2,,Greenmount_cover.sim
+1980-01-28,Incorporated,40,2,Greenmount_Incorporated.sim
+1980-01-28,Incorporated,40,,Greenmount_cover.sim
+1980-01-28,Mulch,55,2,Greenmount_Mulch.sim
+1980-01-28,Mulch,55,,Greenmount_cover.sim
+1980-01-28,Pasture,,,Greenmount_cover.sim
+1980-01-28,Zero till,70,1,Greenmount_Zero till.sim
+1980-01-28,Zero till,70,,Greenmount_cover.sim
+1980-02-05,Burnt,2,,Greenmount_Burnt.sim
+1980-02-05,Burnt,2,,Greenmount_cover.sim
+1980-02-05,Incorporated,40,2,Greenmount_Incorporated.sim
+1980-02-05,Incorporated,40,,Greenmount_cover.sim
+1980-02-05,Mulch,55,2,Greenmount_Mulch.sim
+1980-02-05,Mulch,55,,Greenmount_cover.sim
+1980-02-05,Pasture,,,Greenmount_cover.sim
+1980-02-05,Zero till,75,1,Greenmount_Zero till.sim
+1980-02-05,Zero till,75,,Greenmount_cover.sim
+1981-02-05,Burnt,5,,Greenmount_Burnt.sim
+1981-02-05,Burnt,5,,Greenmount_cover.sim
+1981-02-05,Incorporated,21,5,Greenmount_Incorporated.sim
+1981-02-05,Incorporated,21,,Greenmount_cover.sim
+1981-02-05,Mulch,42,5,Greenmount_Mulch.sim
+1981-02-05,Mulch,42,,Greenmount_cover.sim
+1981-02-05,Pasture,,,Greenmount_cover.sim
+1981-02-05,Zero till,70,1,Greenmount_Zero till.sim
+1981-02-05,Zero till,70,,Greenmount_cover.sim
+1981-02-06,Burnt,5,,Greenmount_Burnt.sim
+1981-02-06,Burnt,5,,Greenmount_cover.sim
+1981-02-06,Incorporated,21,2,Greenmount_Incorporated.sim
+1981-02-06,Incorporated,21,,Greenmount_cover.sim
+1981-02-06,Mulch,42,2,Greenmount_Mulch.sim
+1981-02-06,Mulch,42,,Greenmount_cover.sim
+1981-02-06,Pasture,,,Greenmount_cover.sim
+1981-02-06,Zero till,70,1,Greenmount_Zero till.sim
+1981-02-06,Zero till,70,,Greenmount_cover.sim
+1981-02-07,Burnt,5,,Greenmount_Burnt.sim
+1981-02-07,Burnt,5,,Greenmount_cover.sim
+1981-02-07,Incorporated,,,Greenmount_cover.sim
+1981-02-07,Mulch,,,Greenmount_cover.sim
+1981-02-07,Pasture,,,Greenmount_cover.sim
+1981-02-07,Zero till,,,Greenmount_cover.sim
+1981-02-09,Burnt,5,,Greenmount_Burnt.sim
+1981-02-09,Burnt,5,,Greenmount_cover.sim
+1981-02-09,Incorporated,21,1,Greenmount_Incorporated.sim
+1981-02-09,Incorporated,21,,Greenmount_cover.sim
+1981-02-09,Mulch,42,1,Greenmount_Mulch.sim
+1981-02-09,Mulch,42,,Greenmount_cover.sim
+1981-02-09,Pasture,,,Greenmount_cover.sim
+1981-02-09,Zero till,70,1,Greenmount_Zero till.sim
+1981-02-09,Zero till,70,,Greenmount_cover.sim
+1981-04-01,Burnt,4,,Greenmount_Burnt.sim
+1981-04-01,Burnt,4,,Greenmount_cover.sim
+1981-04-01,Incorporated,12,3,Greenmount_Incorporated.sim
+1981-04-01,Incorporated,12,,Greenmount_cover.sim
+1981-04-01,Mulch,30,3,Greenmount_Mulch.sim
+1981-04-01,Mulch,30,,Greenmount_cover.sim
+1981-04-01,Pasture,,,Greenmount_cover.sim
+1981-04-01,Zero till,65,1,Greenmount_Zero till.sim
+1981-04-01,Zero till,65,,Greenmount_cover.sim
+1981-04-04,Burnt,4,,Greenmount_Burnt.sim
+1981-04-04,Burnt,4,,Greenmount_cover.sim
+1981-04-04,Incorporated,12,2,Greenmount_Incorporated.sim
+1981-04-04,Incorporated,12,,Greenmount_cover.sim
+1981-04-04,Mulch,30,2,Greenmount_Mulch.sim
+1981-04-04,Mulch,30,,Greenmount_cover.sim
+1981-04-04,Pasture,,,Greenmount_cover.sim
+1981-04-04,Zero till,65,1,Greenmount_Zero till.sim
+1981-04-04,Zero till,65,,Greenmount_cover.sim
+1981-04-05,Burnt,4,,Greenmount_Burnt.sim
+1981-04-05,Burnt,4,,Greenmount_cover.sim
+1981-04-05,Incorporated,,,Greenmount_cover.sim
+1981-04-05,Mulch,,,Greenmount_cover.sim
+1981-04-05,Pasture,,,Greenmount_cover.sim
+1981-04-05,Zero till,,,Greenmount_cover.sim
+1981-04-07,Burnt,4,,Greenmount_Burnt.sim
+1981-04-07,Burnt,4,,Greenmount_cover.sim
+1981-04-07,Incorporated,12,1,Greenmount_Incorporated.sim
+1981-04-07,Incorporated,12,,Greenmount_cover.sim
+1981-04-07,Mulch,30,1,Greenmount_Mulch.sim
+1981-04-07,Mulch,30,,Greenmount_cover.sim
+1981-04-07,Pasture,,,Greenmount_cover.sim
+1981-04-07,Zero till,65,1,Greenmount_Zero till.sim
+1981-04-07,Zero till,65,,Greenmount_cover.sim
+1981-09-20,Burnt,90,,Greenmount_cover.sim
+1981-09-20,Incorporated,90,1,Greenmount_Incorporated.sim
+1981-09-20,Incorporated,90,,Greenmount_cover.sim
+1981-09-20,Mulch,90,1,Greenmount_Mulch.sim
+1981-09-20,Mulch,90,,Greenmount_cover.sim
+1981-09-20,Pasture,,,Greenmount_cover.sim
+1981-09-20,Zero till,90,1,Greenmount_Zero till.sim
+1981-09-20,Zero till,90,,Greenmount_cover.sim
+1981-11-03,Burnt,90,,Greenmount_cover.sim
+1981-11-03,Incorporated,90,1,Greenmount_Incorporated.sim
+1981-11-03,Incorporated,90,,Greenmount_cover.sim
+1981-11-03,Mulch,90,1,Greenmount_Mulch.sim
+1981-11-03,Mulch,90,,Greenmount_cover.sim
+1981-11-03,Pasture,,,Greenmount_cover.sim
+1981-11-03,Zero till,90,1,Greenmount_Zero till.sim
+1981-11-03,Zero till,90,,Greenmount_cover.sim
+1981-12-02,Burnt,80,,Greenmount_cover.sim
+1981-12-02,Incorporated,80,1,Greenmount_Incorporated.sim
+1981-12-02,Incorporated,80,,Greenmount_cover.sim
+1981-12-02,Mulch,80,1,Greenmount_Mulch.sim
+1981-12-02,Mulch,80,,Greenmount_cover.sim
+1981-12-02,Pasture,,,Greenmount_cover.sim
+1981-12-02,Zero till,80,1,Greenmount_Zero till.sim
+1981-12-02,Zero till,80,,Greenmount_cover.sim
+1981-12-03,Burnt,80,,Greenmount_cover.sim
+1981-12-03,Incorporated,80,1,Greenmount_Incorporated.sim
+1981-12-03,Incorporated,80,,Greenmount_cover.sim
+1981-12-03,Mulch,80,1,Greenmount_Mulch.sim
+1981-12-03,Mulch,80,,Greenmount_cover.sim
+1981-12-03,Pasture,,,Greenmount_cover.sim
+1981-12-03,Zero till,80,1,Greenmount_Zero till.sim
+1981-12-03,Zero till,80,,Greenmount_cover.sim
+1981-12-20,Burnt,10,,Greenmount_Burnt.sim
+1981-12-20,Burnt,10,,Greenmount_cover.sim
+1981-12-20,Incorporated,75,1,Greenmount_Incorporated.sim
+1981-12-20,Incorporated,75,,Greenmount_cover.sim
+1981-12-20,Mulch,55,5,Greenmount_Mulch.sim
+1981-12-20,Mulch,55,,Greenmount_cover.sim
+1981-12-20,Pasture,,,Greenmount_cover.sim
+1981-12-20,Zero till,75,1,Greenmount_Zero till.sim
+1981-12-20,Zero till,75,,Greenmount_cover.sim
+1981-12-23,Burnt,10,,Greenmount_Burnt.sim
+1981-12-23,Burnt,10,,Greenmount_cover.sim
+1981-12-23,Incorporated,75,1,Greenmount_Incorporated.sim
+1981-12-23,Incorporated,75,,Greenmount_cover.sim
+1981-12-23,Mulch,55,5,Greenmount_Mulch.sim
+1981-12-23,Mulch,55,,Greenmount_cover.sim
+1981-12-23,Pasture,,,Greenmount_cover.sim
+1981-12-23,Zero till,75,1,Greenmount_Zero till.sim
+1981-12-23,Zero till,75,,Greenmount_cover.sim
+1982-02-01,Burnt,5,,Greenmount_Burnt.sim
+1982-02-01,Burnt,5,,Greenmount_cover.sim
+1982-02-01,Incorporated,40,3,Greenmount_Incorporated.sim
+1982-02-01,Incorporated,40,,Greenmount_cover.sim
+1982-02-01,Mulch,40,3,Greenmount_Mulch.sim
+1982-02-01,Mulch,40,,Greenmount_cover.sim
+1982-02-01,Pasture,,,Greenmount_cover.sim
+1982-02-01,Zero till,80,1,Greenmount_Zero till.sim
+1982-02-01,Zero till,80,,Greenmount_cover.sim
+1982-02-24,Burnt,5,,Greenmount_Burnt.sim
+1982-02-24,Burnt,5,,Greenmount_cover.sim
+1982-02-24,Incorporated,25,5,Greenmount_Incorporated.sim
+1982-02-24,Incorporated,25,,Greenmount_cover.sim
+1982-02-24,Mulch,36,3,Greenmount_Mulch.sim
+1982-02-24,Mulch,36,,Greenmount_cover.sim
+1982-02-24,Pasture,,,Greenmount_cover.sim
+1982-02-24,Zero till,60,1,Greenmount_Zero till.sim
+1982-02-24,Zero till,60,,Greenmount_cover.sim
+1982-02-25,Burnt,5,,Greenmount_Burnt.sim
+1982-02-27,Burnt,5,,Greenmount_cover.sim
+1982-02-27,Incorporated,24,4,Greenmount_Incorporated.sim
+1982-02-27,Incorporated,24,,Greenmount_cover.sim
+1982-02-27,Mulch,36,3,Greenmount_Mulch.sim
+1982-02-27,Mulch,36,,Greenmount_cover.sim
+1982-02-27,Pasture,,,Greenmount_cover.sim
+1982-02-27,Zero till,60,1,Greenmount_Zero till.sim
+1982-02-27,Zero till,60,,Greenmount_cover.sim
+1982-02-28,Incorporated,22,3,Greenmount_Incorporated.sim
+1982-02-28,Mulch,36,2,Greenmount_Mulch.sim
+1982-02-28,Zero till,60,1,Greenmount_Zero till.sim
+1982-03-01,Burnt,5,,Greenmount_Burnt.sim
+1982-03-01,Burnt,5,,Greenmount_cover.sim
+1982-03-01,Incorporated,22,2,Greenmount_Incorporated.sim
+1982-03-01,Incorporated,22,,Greenmount_cover.sim
+1982-03-01,Mulch,36,1,Greenmount_Mulch.sim
+1982-03-01,Mulch,36,,Greenmount_cover.sim
+1982-03-01,Pasture,,,Greenmount_cover.sim
+1982-03-01,Zero till,60,1,Greenmount_Zero till.sim
+1982-03-01,Zero till,60,,Greenmount_cover.sim
+1982-03-04,Burnt,5,,Greenmount_Burnt.sim
+1982-03-04,Burnt,5,,Greenmount_cover.sim
+1982-03-04,Incorporated,21,1,Greenmount_Incorporated.sim
+1982-03-04,Incorporated,21,,Greenmount_cover.sim
+1982-03-04,Mulch,36,1,Greenmount_Mulch.sim
+1982-03-04,Mulch,36,,Greenmount_cover.sim
+1982-03-04,Pasture,,,Greenmount_cover.sim
+1982-03-04,Zero till,60,1,Greenmount_Zero till.sim
+1982-03-04,Zero till,60,,Greenmount_cover.sim
+1982-03-05,Burnt,5,,Greenmount_Burnt.sim
+1982-03-05,Burnt,5,,Greenmount_cover.sim
+1982-03-05,Incorporated,21,1,Greenmount_Incorporated.sim
+1982-03-05,Incorporated,21,,Greenmount_cover.sim
+1982-03-05,Mulch,36,1,Greenmount_Mulch.sim
+1982-03-05,Mulch,36,,Greenmount_cover.sim
+1982-03-05,Pasture,,,Greenmount_cover.sim
+1982-03-05,Zero till,60,1,Greenmount_Zero till.sim
+1982-03-05,Zero till,60,,Greenmount_cover.sim
+1982-03-06,Burnt,5,,Greenmount_Burnt.sim
+1982-03-06,Burnt,5,,Greenmount_cover.sim
+1982-03-06,Incorporated,21,1,Greenmount_Incorporated.sim
+1982-03-06,Incorporated,21,,Greenmount_cover.sim
+1982-03-06,Mulch,36,1,Greenmount_Mulch.sim
+1982-03-06,Mulch,36,,Greenmount_cover.sim
+1982-03-06,Pasture,,,Greenmount_cover.sim
+1982-03-06,Zero till,60,1,Greenmount_Zero till.sim
+1982-03-06,Zero till,60,,Greenmount_cover.sim
+1982-03-07,Burnt,5,,Greenmount_Burnt.sim
+1982-03-07,Burnt,5,,Greenmount_cover.sim
+1982-03-07,Incorporated,21,1,Greenmount_Incorporated.sim
+1982-03-07,Incorporated,21,,Greenmount_cover.sim
+1982-03-07,Mulch,36,1,Greenmount_Mulch.sim
+1982-03-07,Mulch,36,,Greenmount_cover.sim
+1982-03-07,Pasture,,,Greenmount_cover.sim
+1982-03-07,Zero till,60,1,Greenmount_Zero till.sim
+1982-03-07,Zero till,60,,Greenmount_cover.sim
+1982-03-10,Burnt,5,,Greenmount_Burnt.sim
+1982-03-10,Burnt,5,,Greenmount_cover.sim
+1982-03-10,Incorporated,21,1,Greenmount_Incorporated.sim
+1982-03-10,Incorporated,21,,Greenmount_cover.sim
+1982-03-10,Mulch,36,1,Greenmount_Mulch.sim
+1982-03-10,Mulch,36,,Greenmount_cover.sim
+1982-03-10,Pasture,,,Greenmount_cover.sim
+1982-03-10,Zero till,60,1,Greenmount_Zero till.sim
+1982-03-10,Zero till,60,,Greenmount_cover.sim
+1982-03-11,Burnt,5,,Greenmount_Burnt.sim
+1982-04-27,Burnt,5,,Greenmount_Burnt.sim
+1982-04-27,Burnt,5,,Greenmount_cover.sim
+1982-04-27,Incorporated,14,3,Greenmount_Incorporated.sim
+1982-04-27,Incorporated,14,,Greenmount_cover.sim
+1982-04-27,Mulch,25,4,Greenmount_Mulch.sim
+1982-04-27,Mulch,25,,Greenmount_cover.sim
+1982-04-27,Pasture,,,Greenmount_cover.sim
+1982-04-27,Zero till,70,1,Greenmount_Zero till.sim
+1982-04-27,Zero till,70,,Greenmount_cover.sim
+1982-10-31,Burnt,90,,Greenmount_cover.sim
+1982-10-31,Incorporated,90,1,Greenmount_Incorporated.sim
+1982-10-31,Incorporated,90,,Greenmount_cover.sim
+1982-10-31,Mulch,90,1,Greenmount_Mulch.sim
+1982-10-31,Mulch,90,,Greenmount_cover.sim
+1982-10-31,Pasture,,,Greenmount_cover.sim
+1982-10-31,Zero till,90,1,Greenmount_Zero till.sim
+1982-10-31,Zero till,90,,Greenmount_cover.sim
+1983-05-01,Burnt,2,,Greenmount_Burnt.sim
+1983-05-01,Burnt,2,,Greenmount_cover.sim
+1983-05-01,Incorporated,10,3,Greenmount_Incorporated.sim
+1983-05-01,Incorporated,10,,Greenmount_cover.sim
+1983-05-01,Mulch,25,3,Greenmount_Mulch.sim
+1983-05-01,Mulch,25,,Greenmount_cover.sim
+1983-05-01,Pasture,,,Greenmount_cover.sim
+1983-05-01,Zero till,57,1,Greenmount_Zero till.sim
+1983-05-01,Zero till,57,,Greenmount_cover.sim
+1983-05-02,Burnt,2,,Greenmount_Burnt.sim
+1983-05-02,Burnt,2,,Greenmount_cover.sim
+1983-05-02,Incorporated,10,1,Greenmount_Incorporated.sim
+1983-05-02,Incorporated,10,,Greenmount_cover.sim
+1983-05-02,Mulch,25,1,Greenmount_Mulch.sim
+1983-05-02,Mulch,25,,Greenmount_cover.sim
+1983-05-02,Pasture,,,Greenmount_cover.sim
+1983-05-02,Zero till,57,1,Greenmount_Zero till.sim
+1983-05-02,Zero till,57,,Greenmount_cover.sim
+1983-05-03,Burnt,2,,Greenmount_Burnt.sim
+1983-05-27,Burnt,2,,Greenmount_Burnt.sim
+1983-05-27,Burnt,2,,Greenmount_cover.sim
+1983-05-27,Incorporated,7,4,Greenmount_Incorporated.sim
+1983-05-27,Incorporated,7,,Greenmount_cover.sim
+1983-05-27,Mulch,15,4,Greenmount_Mulch.sim
+1983-05-27,Mulch,15,,Greenmount_cover.sim
+1983-05-27,Pasture,,,Greenmount_cover.sim
+1983-05-27,Zero till,50,1,Greenmount_Zero till.sim
+1983-05-27,Zero till,50,,Greenmount_cover.sim
+1983-06-21,Burnt,2,,Greenmount_Burnt.sim
+1983-06-21,Burnt,2,,Greenmount_cover.sim
+1983-06-21,Incorporated,5,2,Greenmount_Incorporated.sim
+1983-06-21,Incorporated,5,,Greenmount_cover.sim
+1983-06-21,Mulch,10,2,Greenmount_Mulch.sim
+1983-06-21,Mulch,10,,Greenmount_cover.sim
+1983-06-21,Pasture,,,Greenmount_cover.sim
+1983-06-21,Zero till,30,2,Greenmount_Zero till.sim
+1983-06-21,Zero till,30,,Greenmount_cover.sim
+1983-06-22,Burnt,2,,Greenmount_Burnt.sim
+1984-02-15,Burnt,2,,Greenmount_cover.sim
+1984-02-15,Incorporated,23,3,Greenmount_Incorporated.sim
+1984-02-15,Incorporated,23,,Greenmount_cover.sim
+1984-02-15,Mulch,35,5,Greenmount_Mulch.sim
+1984-02-15,Mulch,35,,Greenmount_cover.sim
+1984-02-15,Pasture,,,Greenmount_cover.sim
+1984-02-15,Zero till,63,1,Greenmount_Zero till.sim
+1984-02-15,Zero till,63,,Greenmount_cover.sim
+1984-03-09,Burnt,2,,Greenmount_Burnt.sim
+1984-03-09,Burnt,2,,Greenmount_cover.sim
+1984-03-09,Incorporated,23,2,Greenmount_Incorporated.sim
+1984-03-09,Incorporated,23,,Greenmount_cover.sim
+1984-03-09,Mulch,35,2,Greenmount_Mulch.sim
+1984-03-09,Mulch,35,,Greenmount_cover.sim
+1984-03-09,Pasture,,,Greenmount_cover.sim
+1984-03-09,Zero till,63,1,Greenmount_Zero till.sim
+1984-03-09,Zero till,63,,Greenmount_cover.sim
+1984-04-07,Burnt,2,,Greenmount_Burnt.sim
+1984-04-07,Burnt,2,,Greenmount_cover.sim
+1984-04-07,Incorporated,20,3,Greenmount_Incorporated.sim
+1984-04-07,Incorporated,20,,Greenmount_cover.sim
+1984-04-07,Mulch,25,3,Greenmount_Mulch.sim
+1984-04-07,Mulch,25,,Greenmount_cover.sim
+1984-04-07,Pasture,,,Greenmount_cover.sim
+1984-04-07,Zero till,60,1,Greenmount_Zero till.sim
+1984-04-07,Zero till,60,,Greenmount_cover.sim
+1984-04-08,Burnt,2,,Greenmount_Burnt.sim
+1984-04-21,Burnt,,,Greenmount_cover.sim
+1984-04-21,Incorporated,20,2,Greenmount_Incorporated.sim
+1984-04-21,Incorporated,20,,Greenmount_cover.sim
+1984-04-21,Mulch,25,2,Greenmount_Mulch.sim
+1984-04-21,Mulch,25,,Greenmount_cover.sim
+1984-04-21,Pasture,,,Greenmount_cover.sim
+1984-04-21,Zero till,60,1,Greenmount_Zero till.sim
+1984-04-21,Zero till,60,,Greenmount_cover.sim
+1984-04-22,Burnt,2,,Greenmount_Burnt.sim
+1984-04-22,Burnt,2,,Greenmount_cover.sim
+1984-04-22,Incorporated,,,Greenmount_cover.sim
+1984-04-22,Mulch,,,Greenmount_cover.sim
+1984-04-22,Pasture,,,Greenmount_cover.sim
+1984-04-22,Zero till,,,Greenmount_cover.sim
+1984-07-25,Burnt,90,,Greenmount_Burnt.sim
+1984-07-25,Burnt,90,,Greenmount_cover.sim
+1984-07-25,Incorporated,90,1,Greenmount_Incorporated.sim
+1984-07-25,Incorporated,90,,Greenmount_cover.sim
+1984-07-25,Mulch,90,1,Greenmount_Mulch.sim
+1984-07-25,Mulch,90,,Greenmount_cover.sim
+1984-07-25,Pasture,,,Greenmount_cover.sim
+1984-07-25,Zero till,90,1,Greenmount_Zero till.sim
+1984-07-25,Zero till,90,,Greenmount_cover.sim
+1984-07-26,Burnt,90,,Greenmount_Burnt.sim
+1984-07-27,Burnt,90,,Greenmount_Burnt.sim
+1984-12-18,Burnt,5,,Greenmount_Burnt.sim
+1984-12-18,Burnt,5,,Greenmount_cover.sim
+1984-12-18,Incorporated,,,Greenmount_cover.sim
+1984-12-18,Mulch,,,Greenmount_cover.sim
+1984-12-18,Pasture,,,Greenmount_cover.sim
+1984-12-18,Zero till,,,Greenmount_cover.sim
+1986-01-24,Burnt,10,,Greenmount_Burnt.sim
+1986-01-24,Burnt,10,,Greenmount_cover.sim
+1986-01-24,Incorporated,,,Greenmount_cover.sim
+1986-01-24,Mulch,,,Greenmount_cover.sim
+1986-01-24,Pasture,,,Greenmount_cover.sim
+1986-01-24,Zero till,,,Greenmount_cover.sim
+1986-02-07,Burnt,10,,Greenmount_Burnt.sim
+1986-02-07,Burnt,10,,Greenmount_cover.sim
+1986-02-07,Incorporated,,,Greenmount_cover.sim
+1986-02-07,Mulch,,,Greenmount_cover.sim
+1986-02-07,Pasture,,,Greenmount_cover.sim
+1986-02-07,Zero till,,,Greenmount_cover.sim
+1986-02-24,Burnt,8,,Greenmount_Burnt.sim
+1986-02-24,Burnt,8,,Greenmount_cover.sim
+1986-02-24,Incorporated,,,Greenmount_cover.sim
+1986-02-24,Mulch,,,Greenmount_cover.sim
+1986-02-24,Pasture,,,Greenmount_cover.sim
+1986-02-24,Zero till,,,Greenmount_cover.sim
+1986-11-12,Burnt,,,Greenmount_cover.sim
+1986-11-12,Incorporated,85,1,Greenmount_Incorporated.sim
+1986-11-12,Incorporated,85,,Greenmount_cover.sim
+1986-11-12,Mulch,85,1,Greenmount_Mulch.sim
+1986-11-12,Mulch,85,,Greenmount_cover.sim
+1986-11-12,Pasture,30,,Greenmount_cover.sim
+1986-11-12,Zero till,90,1,Greenmount_Zero till.sim
+1986-11-12,Zero till,90,,Greenmount_cover.sim
+1987-01-19,Burnt,5,,Greenmount_Burnt.sim
+1987-01-19,Burnt,5,,Greenmount_cover.sim
+1987-01-19,Incorporated,40,2,Greenmount_Incorporated.sim
+1987-01-19,Incorporated,40,,Greenmount_cover.sim
+1987-01-19,Mulch,60,3,Greenmount_Mulch.sim
+1987-01-19,Mulch,60,,Greenmount_cover.sim
+1987-01-19,Pasture,90,,Greenmount_cover.sim
+1987-01-19,Zero till,90,1,Greenmount_Zero till.sim
+1987-01-19,Zero till,90,,Greenmount_cover.sim
+1987-12-01,Burnt,15,,Greenmount_Burnt.sim
+1987-12-01,Burnt,15,,Greenmount_cover.sim
+1987-12-01,Incorporated,20,2,Greenmount_Incorporated.sim
+1987-12-01,Incorporated,20,,Greenmount_cover.sim
+1987-12-01,Mulch,57.5,3,Greenmount_Mulch.sim
+1987-12-01,Mulch,57.5,,Greenmount_cover.sim
+1987-12-01,Pasture,60,,Greenmount_cover.sim
+1987-12-01,Zero till,,,Greenmount_cover.sim
+1987-12-10,Burnt,20,,Greenmount_Burnt.sim
+1987-12-10,Burnt,20,,Greenmount_cover.sim
+1987-12-10,Incorporated,20,2,Greenmount_Incorporated.sim
+1987-12-10,Incorporated,20,,Greenmount_cover.sim
+1987-12-10,Mulch,62.5,3,Greenmount_Mulch.sim
+1987-12-10,Mulch,62.5,,Greenmount_cover.sim
+1987-12-10,Pasture,65,,Greenmount_cover.sim
+1987-12-10,Zero till,,,Greenmount_cover.sim
+1988-01-19,Burnt,10,,Greenmount_Burnt.sim
+1988-01-19,Burnt,10,,Greenmount_cover.sim
+1988-01-19,Incorporated,,,Greenmount_cover.sim
+1988-01-19,Mulch,35,2,Greenmount_Mulch.sim
+1988-01-19,Mulch,35,,Greenmount_cover.sim
+1988-01-19,Pasture,90,,Greenmount_cover.sim
+1988-01-19,Zero till,,,Greenmount_cover.sim
+1988-02-12,Burnt,10,,Greenmount_Burnt.sim
+1988-02-12,Burnt,10,,Greenmount_cover.sim
+1988-02-12,Incorporated,35,,Greenmount_Incorporated.sim
+1988-02-12,Incorporated,35,,Greenmount_cover.sim
+1988-02-12,Mulch,35,1,Greenmount_Mulch.sim
+1988-02-12,Mulch,35,,Greenmount_cover.sim
+1988-02-12,Pasture,90,,Greenmount_cover.sim
+1988-02-12,Zero till,,,Greenmount_cover.sim
+1988-02-13,Burnt,10,,Greenmount_Burnt.sim
+1988-02-13,Burnt,10,,Greenmount_cover.sim
+1988-02-13,Incorporated,35,,Greenmount_Incorporated.sim
+1988-02-13,Incorporated,35,,Greenmount_cover.sim
+1988-02-13,Mulch,35,1,Greenmount_Mulch.sim
+1988-02-13,Mulch,35,,Greenmount_cover.sim
+1988-02-13,Pasture,90,,Greenmount_cover.sim
+1988-02-13,Zero till,,,Greenmount_cover.sim
+1988-03-31,Burnt,5,,Greenmount_Burnt.sim
+1988-03-31,Burnt,5,,Greenmount_cover.sim
+1988-03-31,Incorporated,30,3,Greenmount_Incorporated.sim
+1988-03-31,Incorporated,30,,Greenmount_cover.sim
+1988-03-31,Mulch,29,3,Greenmount_Mulch.sim
+1988-03-31,Mulch,29,,Greenmount_cover.sim
+1988-03-31,Pasture,100,,Greenmount_cover.sim
+1988-03-31,Zero till,,,Greenmount_cover.sim
+1988-04-03,Burnt,5,,Greenmount_Burnt.sim
+1988-04-03,Burnt,5,,Greenmount_cover.sim
+1988-04-03,Incorporated,28,,Greenmount_Incorporated.sim
+1988-04-03,Incorporated,28,,Greenmount_cover.sim
+1988-04-03,Mulch,27,1,Greenmount_Mulch.sim
+1988-04-03,Mulch,27,,Greenmount_cover.sim
+1988-04-03,Pasture,100,,Greenmount_cover.sim
+1988-04-03,Zero till,,,Greenmount_cover.sim
+1988-04-04,Burnt,5,,Greenmount_Burnt.sim
+1988-04-04,Burnt,5,,Greenmount_cover.sim
+1988-04-04,Incorporated,,,Greenmount_cover.sim
+1988-04-04,Mulch,27,1,Greenmount_Mulch.sim
+1988-04-04,Mulch,27,,Greenmount_cover.sim
+1988-04-04,Pasture,100,,Greenmount_cover.sim
+1988-04-04,Zero till,,,Greenmount_cover.sim
+1988-04-05,Burnt,5,,Greenmount_Burnt.sim
+1988-04-06,Burnt,5,,Greenmount_Burnt.sim
+1988-04-06,Burnt,5,,Greenmount_cover.sim
+1988-04-06,Incorporated,,,Greenmount_cover.sim
+1988-04-06,Mulch,27,1,Greenmount_Mulch.sim
+1988-04-06,Mulch,27,,Greenmount_cover.sim
+1988-04-06,Pasture,100,,Greenmount_cover.sim
+1988-04-06,Zero till,,,Greenmount_cover.sim
+1988-04-07,Burnt,5,,Greenmount_Burnt.sim
+1988-04-07,Burnt,5,,Greenmount_cover.sim
+1988-04-07,Incorporated,,,Greenmount_cover.sim
+1988-04-07,Mulch,27,1,Greenmount_Mulch.sim
+1988-04-07,Mulch,27,,Greenmount_cover.sim
+1988-04-07,Pasture,100,,Greenmount_cover.sim
+1988-04-07,Zero till,,,Greenmount_cover.sim
+1988-04-10,Burnt,5,,Greenmount_Burnt.sim
+1988-04-10,Burnt,5,,Greenmount_cover.sim
+1988-04-10,Incorporated,27,1,Greenmount_Incorporated.sim
+1988-04-10,Incorporated,27,,Greenmount_cover.sim
+1988-04-10,Mulch,27,1,Greenmount_Mulch.sim
+1988-04-10,Mulch,27,,Greenmount_cover.sim
+1988-04-10,Pasture,100,,Greenmount_cover.sim
+1988-04-10,Zero till,,,Greenmount_cover.sim
+1988-04-12,Mulch,27,1,Greenmount_Mulch.sim
+1988-06-04,Burnt,10,,Greenmount_Burnt.sim
+1988-06-04,Burnt,10,,Greenmount_cover.sim
+1988-06-04,Incorporated,30,1,Greenmount_Incorporated.sim
+1988-06-04,Incorporated,30,,Greenmount_cover.sim
+1988-06-04,Mulch,30,1,Greenmount_Mulch.sim
+1988-06-04,Mulch,30,,Greenmount_cover.sim
+1988-06-04,Pasture,60,,Greenmount_cover.sim
+1988-06-04,Zero till,,,Greenmount_cover.sim
+1988-06-05,Burnt,10,,Greenmount_Burnt.sim
+1988-06-05,Burnt,10,,Greenmount_cover.sim
+1988-06-05,Incorporated,,,Greenmount_cover.sim
+1988-06-05,Mulch,,,Greenmount_cover.sim
+1988-06-05,Pasture,,,Greenmount_cover.sim
+1988-06-05,Zero till,,,Greenmount_cover.sim
+1989-01-07,Burnt,,,Greenmount_cover.sim
+1989-01-07,Incorporated,30,3,Greenmount_Incorporated.sim
+1989-01-07,Incorporated,30,,Greenmount_cover.sim
+1989-01-07,Mulch,52,3,Greenmount_Mulch.sim
+1989-01-07,Mulch,52,,Greenmount_cover.sim
+1989-01-07,Pasture,95,,Greenmount_cover.sim
+1989-01-07,Zero till,54,1,Greenmount_Zero till.sim
+1989-01-07,Zero till,54,,Greenmount_cover.sim
+1989-03-28,Burnt,,,Greenmount_cover.sim
+1989-03-28,Incorporated,,,Greenmount_cover.sim
+1989-03-28,Mulch,46,3,Greenmount_Mulch.sim
+1989-03-28,Mulch,46,,Greenmount_cover.sim
+1989-03-28,Pasture,100,,Greenmount_cover.sim
+1989-03-28,Zero till,51.5,1,Greenmount_Zero till.sim
+1989-03-28,Zero till,51.5,,Greenmount_cover.sim
+1989-04-25,Burnt,,,Greenmount_cover.sim
+1989-04-25,Incorporated,46,,Greenmount_Incorporated.sim
+1989-04-25,Incorporated,46,,Greenmount_cover.sim
+1989-04-25,Mulch,41.5,1.5,Greenmount_Mulch.sim
+1989-04-25,Mulch,41.5,,Greenmount_cover.sim
+1989-04-25,Pasture,100,,Greenmount_cover.sim
+1989-04-25,Zero till,66,1,Greenmount_Zero till.sim
+1989-04-25,Zero till,66,,Greenmount_cover.sim
+1990-01-15,Burnt,10,,Greenmount_Burnt.sim
+1990-01-15,Burnt,10,,Greenmount_cover.sim
+1990-01-15,Incorporated,80,3,Greenmount_Incorporated.sim
+1990-01-15,Incorporated,80,,Greenmount_cover.sim
+1990-01-15,Mulch,90,3,Greenmount_Mulch.sim
+1990-01-15,Mulch,90,,Greenmount_cover.sim
+1990-01-15,Pasture,95,,Greenmount_cover.sim
+1990-01-15,Zero till,85,1,Greenmount_Zero till.sim
+1990-01-15,Zero till,85,,Greenmount_cover.sim
+1990-04-20,Burnt,7,,Greenmount_Burnt.sim
+1990-04-20,Burnt,7,,Greenmount_cover.sim
+1990-04-20,Incorporated,40,2,Greenmount_Incorporated.sim
+1990-04-20,Incorporated,40,,Greenmount_cover.sim
+1990-04-20,Mulch,60,2,Greenmount_Mulch.sim
+1990-04-20,Mulch,60,,Greenmount_cover.sim
+1990-04-20,Pasture,95,,Greenmount_cover.sim
+1990-04-20,Zero till,80,1,Greenmount_Zero till.sim
+1990-04-20,Zero till,80,,Greenmount_cover.sim
+1990-05-22,Burnt,7,,Greenmount_Burnt.sim
+1990-05-22,Burnt,7,,Greenmount_cover.sim
+1990-05-22,Incorporated,20,2,Greenmount_Incorporated.sim
+1990-05-22,Incorporated,20,,Greenmount_cover.sim
+1990-05-22,Mulch,30,2,Greenmount_Mulch.sim
+1990-05-22,Mulch,30,,Greenmount_cover.sim
+1990-05-22,Pasture,95,,Greenmount_cover.sim
+1990-05-22,Zero till,75,1,Greenmount_Zero till.sim
+1990-05-22,Zero till,75,,Greenmount_cover.sim
+1990-05-27,Burnt,7,,Greenmount_Burnt.sim
+1990-05-27,Burnt,7,,Greenmount_cover.sim
+1990-05-27,Incorporated,20,1,Greenmount_Incorporated.sim
+1990-05-27,Incorporated,20,,Greenmount_cover.sim
+1990-05-27,Mulch,30,1,Greenmount_Mulch.sim
+1990-05-27,Mulch,30,,Greenmount_cover.sim
+1990-05-27,Pasture,95,,Greenmount_cover.sim
+1990-05-27,Zero till,75,1,Greenmount_Zero till.sim
+1990-05-27,Zero till,75,,Greenmount_cover.sim
+1991-02-07,Burnt,,,Greenmount_cover.sim
+1991-02-07,Incorporated,50,2,Greenmount_Incorporated.sim
+1991-02-07,Incorporated,50,,Greenmount_cover.sim
+1991-02-07,Mulch,,,Greenmount_cover.sim
+1991-02-07,Pasture,,,Greenmount_cover.sim
+1991-02-07,Zero till,50,2,Greenmount_Zero till.sim
+1991-02-07,Zero till,50,,Greenmount_cover.sim
+1993-09-17,Burnt,0,,Greenmount_Burnt.sim
+1993-09-17,Burnt,0,,Greenmount_cover.sim
+1993-09-17,Incorporated,0,0,Greenmount_Incorporated.sim
+1993-09-17,Incorporated,0,,Greenmount_cover.sim
+1993-09-17,Mulch,0,,Greenmount_cover.sim
+1993-09-17,Pasture,0,,Greenmount_cover.sim
+1993-09-17,Zero till,0,,Greenmount_cover.sim
