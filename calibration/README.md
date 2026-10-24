@@ -68,7 +68,7 @@ The Greenmount fit was run before two corrections to the observed data (see `gre
 - **No intensity data.** Event-level sediment is not expected to match closely without rainfall-intensity inputs. The target was P:O near 1.
 
 ## Files
-- `Watbal2026_three_site_calibration_summary.xlsx`: parameters, fit statistics, crop and soil water.
+- `Watbal2026_three_site_calibration_summary.xlsx`: parameters, original vs optimised parameters, fit statistics, crop and soil water.
 - `parameter_files/`:
   - Wallumbilla 2026 soil and vege files;
   - Greenwood and Greenmount fitted parameter sets in JSON. Greenmount includes its fit statistics.
