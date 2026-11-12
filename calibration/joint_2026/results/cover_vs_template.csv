@@ -1,0 +1,613 @@
+date,treatment,total_cover_pct,templ,green_t,m,site,trt,diff,phase
+1976-04-25,Burnt,0.0,2.0,0.0,4,Greenmount,Burnt,2.0,fallow
+1976-10-26,Burnt,5.0,97.77127659574468,95.0,10,Greenmount,Burnt,92.77127659574468,crop
+1976-10-31,Burnt,25.0,98.2659574468085,95.0,10,Greenmount,Burnt,73.2659574468085,crop
+1976-11-09,Burnt,25.0,99.1563829787234,95.0,11,Greenmount,Burnt,74.1563829787234,crop
+1976-11-10,Burnt,,99.25531914893617,95.0,11,Greenmount,Burnt,,crop
+1976-11-14,Burnt,,99.65106382978723,95.0,11,Greenmount,Burnt,,crop
+1976-11-21,Burnt,,81.854,57.00000000000001,11,Greenmount,Burnt,,crop
+1977-01-16,Burnt,,2.0,0.0,1,Greenmount,Burnt,,fallow
+1977-05-14,Burnt,10.0,2.0,0.0,5,Greenmount,Burnt,-8.0,fallow
+1977-05-15,Burnt,10.0,2.0,0.0,5,Greenmount,Burnt,-8.0,fallow
+1978-03-28,Burnt,25.0,2.0,0.0,3,Greenmount,Burnt,-23.0,fallow
+1978-07-02,Burnt,,14.347999999999999,12.6,7,Greenmount,Burnt,,crop
+1978-07-09,Burnt,,18.464,16.8,7,Greenmount,Burnt,,crop
+1978-09-06,Burnt,,87.26,87.0,9,Greenmount,Burnt,,crop
+1978-12-23,Burnt,12.0,2.0,0.0,12,Greenmount,Burnt,-10.0,fallow
+1978-12-29,Burnt,12.0,2.0,0.0,12,Greenmount,Burnt,-10.0,fallow
+1979-03-03,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1979-03-04,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1979-03-15,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1979-06-20,Burnt,10.0,7.292,5.4,6,Greenmount,Burnt,-2.708,crop
+1979-06-21,Burnt,10.0,7.88,6.0,6,Greenmount,Burnt,-2.12,crop
+1979-12-21,Burnt,2.0,2.0,0.0,12,Greenmount,Burnt,0.0,fallow
+1980-01-27,Burnt,2.0,2.0,0.0,1,Greenmount,Burnt,0.0,fallow
+1980-01-28,Burnt,2.0,2.0,0.0,1,Greenmount,Burnt,0.0,fallow
+1980-02-05,Burnt,2.0,2.0,0.0,2,Greenmount,Burnt,0.0,fallow
+1981-02-05,Burnt,5.0,2.0,0.0,2,Greenmount,Burnt,-3.0,fallow
+1981-02-06,Burnt,5.0,2.0,0.0,2,Greenmount,Burnt,-3.0,fallow
+1981-02-07,Burnt,5.0,2.0,0.0,2,Greenmount,Burnt,-3.0,fallow
+1981-02-09,Burnt,5.0,2.0,0.0,2,Greenmount,Burnt,-3.0,fallow
+1981-04-01,Burnt,4.0,2.0,0.0,4,Greenmount,Burnt,-2.0,fallow
+1981-04-04,Burnt,4.0,2.0,0.0,4,Greenmount,Burnt,-2.0,fallow
+1981-04-05,Burnt,4.0,2.0,0.0,4,Greenmount,Burnt,-2.0,fallow
+1981-04-07,Burnt,4.0,2.0,0.0,4,Greenmount,Burnt,-2.0,fallow
+1981-09-20,Burnt,90.0,91.83333333333333,91.66666666666666,9,Greenmount,Burnt,1.8333333333333286,crop
+1981-11-03,Burnt,90.0,98.46382978723403,95.0,11,Greenmount,Burnt,8.463829787234033,crop
+1981-12-02,Burnt,80.0,2.0,0.0,12,Greenmount,Burnt,-78.0,fallow
+1981-12-03,Burnt,80.0,2.0,0.0,12,Greenmount,Burnt,-78.0,fallow
+1981-12-20,Burnt,10.0,2.0,0.0,12,Greenmount,Burnt,-8.0,fallow
+1981-12-23,Burnt,10.0,2.0,0.0,12,Greenmount,Burnt,-8.0,fallow
+1982-02-01,Burnt,5.0,2.0,0.0,2,Greenmount,Burnt,-3.0,fallow
+1982-02-24,Burnt,5.0,2.0,0.0,2,Greenmount,Burnt,-3.0,fallow
+1982-02-25,Burnt,5.0,2.0,0.0,2,Greenmount,Burnt,-3.0,fallow
+1982-02-27,Burnt,5.0,2.0,0.0,2,Greenmount,Burnt,-3.0,fallow
+1982-03-01,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1982-03-04,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1982-03-05,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1982-03-06,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1982-03-07,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1982-03-10,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1982-03-11,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1982-04-27,Burnt,5.0,2.0,0.0,4,Greenmount,Burnt,-3.0,fallow
+1982-10-31,Burnt,90.0,98.16702127659575,95.0,10,Greenmount,Burnt,8.167021276595747,crop
+1983-05-01,Burnt,2.0,2.0,0.0,5,Greenmount,Burnt,0.0,fallow
+1983-05-02,Burnt,2.0,2.0,0.0,5,Greenmount,Burnt,0.0,fallow
+1983-05-03,Burnt,2.0,2.0,0.0,5,Greenmount,Burnt,0.0,fallow
+1983-05-27,Burnt,2.0,2.0,0.0,5,Greenmount,Burnt,0.0,fallow
+1983-06-21,Burnt,2.0,7.88,6.0,6,Greenmount,Burnt,5.88,crop
+1983-06-22,Burnt,2.0,8.468,6.6000000000000005,6,Greenmount,Burnt,6.468,crop
+1984-02-15,Burnt,2.0,2.0,0.0,2,Greenmount,Burnt,0.0,fallow
+1984-03-09,Burnt,2.0,2.0,0.0,3,Greenmount,Burnt,0.0,fallow
+1984-04-07,Burnt,2.0,2.0,0.0,4,Greenmount,Burnt,0.0,fallow
+1984-04-08,Burnt,2.0,2.0,0.0,4,Greenmount,Burnt,0.0,fallow
+1984-04-21,Burnt,,2.0,0.0,4,Greenmount,Burnt,,fallow
+1984-04-22,Burnt,2.0,2.0,0.0,4,Greenmount,Burnt,0.0,fallow
+1984-07-25,Burnt,90.0,28.46,27.0,7,Greenmount,Burnt,-61.54,crop
+1984-07-26,Burnt,90.0,29.048000000000002,27.6,7,Greenmount,Burnt,-60.952,crop
+1984-07-27,Burnt,90.0,29.636000000000003,28.200000000000003,7,Greenmount,Burnt,-60.364,crop
+1984-12-18,Burnt,5.0,2.0,0.0,12,Greenmount,Burnt,-3.0,fallow
+1986-01-24,Burnt,10.0,2.0,0.0,1,Greenmount,Burnt,-8.0,fallow
+1986-02-07,Burnt,10.0,2.0,0.0,2,Greenmount,Burnt,-8.0,fallow
+1986-02-24,Burnt,8.0,2.0,0.0,2,Greenmount,Burnt,-6.0,fallow
+1986-11-12,Burnt,,99.35425531914893,95.0,11,Greenmount,Burnt,,crop
+1987-01-19,Burnt,5.0,2.0,0.0,1,Greenmount,Burnt,-3.0,fallow
+1987-12-01,Burnt,15.0,2.0,0.0,12,Greenmount,Burnt,-13.0,fallow
+1987-12-10,Burnt,20.0,2.0,0.0,12,Greenmount,Burnt,-18.0,fallow
+1988-01-19,Burnt,10.0,2.0,0.0,1,Greenmount,Burnt,-8.0,fallow
+1988-02-12,Burnt,10.0,2.0,0.0,2,Greenmount,Burnt,-8.0,fallow
+1988-02-13,Burnt,10.0,2.0,0.0,2,Greenmount,Burnt,-8.0,fallow
+1988-03-31,Burnt,5.0,2.0,0.0,3,Greenmount,Burnt,-3.0,fallow
+1988-04-03,Burnt,5.0,2.0,0.0,4,Greenmount,Burnt,-3.0,fallow
+1988-04-04,Burnt,5.0,2.0,0.0,4,Greenmount,Burnt,-3.0,fallow
+1988-04-05,Burnt,5.0,2.0,0.0,4,Greenmount,Burnt,-3.0,fallow
+1988-04-06,Burnt,5.0,2.0,0.0,4,Greenmount,Burnt,-3.0,fallow
+1988-04-07,Burnt,5.0,2.0,0.0,4,Greenmount,Burnt,-3.0,fallow
+1988-04-10,Burnt,5.0,2.0,0.0,4,Greenmount,Burnt,-3.0,fallow
+1988-06-04,Burnt,10.0,2.0,0.0,6,Greenmount,Burnt,-8.0,fallow
+1988-06-05,Burnt,10.0,2.0,0.0,6,Greenmount,Burnt,-8.0,fallow
+1989-01-07,Burnt,,2.0,0.0,1,Greenmount,Burnt,,fallow
+1989-03-28,Burnt,,2.0,0.0,3,Greenmount,Burnt,,fallow
+1989-04-25,Burnt,,2.0,0.0,4,Greenmount,Burnt,,fallow
+1990-01-15,Burnt,10.0,2.0,0.0,1,Greenmount,Burnt,-8.0,fallow
+1990-04-20,Burnt,7.0,2.0,0.0,4,Greenmount,Burnt,-5.0,fallow
+1990-05-22,Burnt,7.0,2.0,0.0,5,Greenmount,Burnt,-5.0,fallow
+1990-05-27,Burnt,7.0,2.0,0.0,5,Greenmount,Burnt,-5.0,fallow
+1991-02-07,Burnt,,2.0,0.0,2,Greenmount,Burnt,,fallow
+1993-09-17,Burnt,0.0,90.85333333333332,90.66666666666666,9,Greenmount,Burnt,90.85333333333332,crop
+1976-04-25,Incorporated,0.0,10.666666666666666,0.0,4,Greenmount,Incorporated,10.666666666666666,fallow
+1976-10-26,Incorporated,8.0,97.75,95.0,10,Greenmount,Incorporated,89.75,crop
+1976-10-31,Incorporated,8.0,98.25,95.0,10,Greenmount,Incorporated,90.25,crop
+1976-11-09,Incorporated,12.0,99.15,95.0,11,Greenmount,Incorporated,87.15,crop
+1976-11-10,Incorporated,12.0,99.25,95.0,11,Greenmount,Incorporated,87.25,crop
+1976-11-14,Incorporated,12.0,99.64999999999999,95.0,11,Greenmount,Incorporated,87.64999999999999,crop
+1976-11-21,Incorporated,15.0,87.53,57.00000000000001,11,Greenmount,Incorporated,72.53,crop
+1977-01-16,Incorporated,10.0,27.500000000000004,0.0,1,Greenmount,Incorporated,17.500000000000004,fallow
+1977-05-14,Incorporated,60.0,8.6875,0.0,5,Greenmount,Incorporated,-51.3125,fallow
+1977-05-15,Incorporated,,8.59375,0.0,5,Greenmount,Incorporated,,fallow
+1978-03-28,Incorporated,50.0,15.483870967741936,0.0,3,Greenmount,Incorporated,-34.516129032258064,fallow
+1978-07-02,Incorporated,20.0,15.50168,12.6,7,Greenmount,Incorporated,-4.49832,crop
+1978-07-09,Incorporated,20.0,19.09632,16.8,7,Greenmount,Incorporated,-0.9036800000000014,crop
+1978-09-06,Incorporated,15.0,87.13,87.0,9,Greenmount,Incorporated,72.13,crop
+1978-12-23,Incorporated,55.0,31.33333333333333,0.0,12,Greenmount,Incorporated,-23.66666666666667,fallow
+1978-12-29,Incorporated,55.0,30.333333333333336,0.0,12,Greenmount,Incorporated,-24.666666666666664,fallow
+1979-03-03,Incorporated,,19.516129032258064,0.0,3,Greenmount,Incorporated,,fallow
+1979-03-04,Incorporated,35.0,19.35483870967742,0.0,3,Greenmount,Incorporated,-15.64516129032258,fallow
+1979-03-15,Incorporated,35.0,17.580645161290324,0.0,3,Greenmount,Incorporated,-17.419354838709676,fallow
+1979-06-20,Incorporated,25.0,9.44888,5.4,6,Greenmount,Incorporated,-15.55112,crop
+1979-06-21,Incorporated,,9.948,6.0,6,Greenmount,Incorporated,,crop
+1979-12-21,Incorporated,50.0,31.666666666666664,0.0,12,Greenmount,Incorporated,-18.333333333333336,fallow
+1980-01-27,Incorporated,40.0,25.666666666666664,0.0,1,Greenmount,Incorporated,-14.333333333333336,fallow
+1980-01-28,Incorporated,40.0,25.5,0.0,1,Greenmount,Incorporated,-14.5,fallow
+1980-02-05,Incorporated,40.0,24.107142857142858,0.0,2,Greenmount,Incorporated,-15.892857142857142,fallow
+1981-02-05,Incorporated,21.0,24.107142857142858,0.0,2,Greenmount,Incorporated,3.1071428571428577,fallow
+1981-02-06,Incorporated,21.0,23.92857142857143,0.0,2,Greenmount,Incorporated,2.9285714285714306,fallow
+1981-02-07,Incorporated,,23.75,0.0,2,Greenmount,Incorporated,,fallow
+1981-02-09,Incorporated,21.0,23.392857142857142,0.0,2,Greenmount,Incorporated,2.3928571428571423,fallow
+1981-04-01,Incorporated,12.0,14.833333333333332,0.0,4,Greenmount,Incorporated,2.833333333333332,fallow
+1981-04-04,Incorporated,12.0,14.333333333333334,0.0,4,Greenmount,Incorporated,2.333333333333334,fallow
+1981-04-05,Incorporated,,14.166666666666666,0.0,4,Greenmount,Incorporated,,fallow
+1981-04-07,Incorporated,12.0,13.833333333333334,0.0,4,Greenmount,Incorporated,1.833333333333334,fallow
+1981-09-20,Incorporated,90.0,91.75,91.66666666666666,9,Greenmount,Incorporated,1.75,crop
+1981-11-03,Incorporated,90.0,98.44999999999999,95.0,11,Greenmount,Incorporated,8.449999999999989,crop
+1981-12-02,Incorporated,80.0,34.833333333333336,0.0,12,Greenmount,Incorporated,-45.166666666666664,fallow
+1981-12-03,Incorporated,80.0,34.666666666666664,0.0,12,Greenmount,Incorporated,-45.333333333333336,fallow
+1981-12-20,Incorporated,75.0,31.83333333333333,0.0,12,Greenmount,Incorporated,-43.16666666666667,fallow
+1981-12-23,Incorporated,75.0,31.33333333333333,0.0,12,Greenmount,Incorporated,-43.66666666666667,fallow
+1982-02-01,Incorporated,40.0,24.821428571428573,0.0,2,Greenmount,Incorporated,-15.178571428571427,fallow
+1982-02-24,Incorporated,25.0,20.714285714285715,0.0,2,Greenmount,Incorporated,-4.285714285714285,fallow
+1982-02-27,Incorporated,24.0,20.17857142857143,0.0,2,Greenmount,Incorporated,-3.8214285714285694,fallow
+1982-02-28,Incorporated,22.0,20.0,0.0,2,Greenmount,Incorporated,-2.0,fallow
+1982-03-01,Incorporated,22.0,19.838709677419356,0.0,3,Greenmount,Incorporated,-2.161290322580644,fallow
+1982-03-04,Incorporated,21.0,19.35483870967742,0.0,3,Greenmount,Incorporated,-1.64516129032258,fallow
+1982-03-05,Incorporated,21.0,19.193548387096776,0.0,3,Greenmount,Incorporated,-1.8064516129032242,fallow
+1982-03-06,Incorporated,21.0,19.03225806451613,0.0,3,Greenmount,Incorporated,-1.9677419354838683,fallow
+1982-03-07,Incorporated,21.0,18.870967741935484,0.0,3,Greenmount,Incorporated,-2.129032258064516,fallow
+1982-03-10,Incorporated,21.0,18.387096774193548,0.0,3,Greenmount,Incorporated,-2.612903225806452,fallow
+1982-04-27,Incorporated,14.0,10.500000000000002,0.0,4,Greenmount,Incorporated,-3.4999999999999982,fallow
+1982-10-31,Incorporated,90.0,98.15,95.0,10,Greenmount,Incorporated,8.150000000000006,crop
+1983-05-01,Incorporated,10.0,9.906250000000002,0.0,5,Greenmount,Incorporated,-0.09374999999999822,fallow
+1983-05-02,Incorporated,10.0,9.8125,0.0,5,Greenmount,Incorporated,-0.1875,fallow
+1983-05-27,Incorporated,7.0,7.46875,0.0,5,Greenmount,Incorporated,0.46875,fallow
+1983-06-21,Incorporated,5.0,9.948,6.0,6,Greenmount,Incorporated,4.948,crop
+1984-02-15,Incorporated,23.0,22.321428571428573,0.0,2,Greenmount,Incorporated,-0.678571428571427,fallow
+1984-03-09,Incorporated,23.0,18.387096774193548,0.0,3,Greenmount,Incorporated,-4.612903225806452,fallow
+1984-04-07,Incorporated,20.0,13.666666666666666,0.0,4,Greenmount,Incorporated,-6.333333333333334,fallow
+1984-04-21,Incorporated,20.0,11.333333333333334,0.0,4,Greenmount,Incorporated,-8.666666666666666,fallow
+1984-04-22,Incorporated,,11.166666666666666,0.0,4,Greenmount,Incorporated,,fallow
+1984-07-25,Incorporated,90.0,28.022000000000002,27.0,7,Greenmount,Incorporated,-61.977999999999994,crop
+1984-12-18,Incorporated,,32.0,0.0,12,Greenmount,Incorporated,,fallow
+1986-01-24,Incorporated,,26.166666666666664,0.0,1,Greenmount,Incorporated,,fallow
+1986-02-07,Incorporated,,23.75,0.0,2,Greenmount,Incorporated,,fallow
+1986-02-24,Incorporated,,20.714285714285715,0.0,2,Greenmount,Incorporated,,fallow
+1986-11-12,Incorporated,85.0,99.35000000000001,95.0,11,Greenmount,Incorporated,14.350000000000009,crop
+1987-01-19,Incorporated,40.0,27.0,0.0,1,Greenmount,Incorporated,-13.0,fallow
+1987-12-01,Incorporated,20.0,35.0,0.0,12,Greenmount,Incorporated,15.0,fallow
+1987-12-10,Incorporated,20.0,33.5,0.0,12,Greenmount,Incorporated,13.5,fallow
+1988-01-19,Incorporated,,27.0,0.0,1,Greenmount,Incorporated,,fallow
+1988-02-12,Incorporated,35.0,22.857142857142858,0.0,2,Greenmount,Incorporated,-12.142857142857142,fallow
+1988-02-13,Incorporated,35.0,22.678571428571427,0.0,2,Greenmount,Incorporated,-12.321428571428573,fallow
+1988-03-31,Incorporated,30.0,14.833333333333332,0.0,3,Greenmount,Incorporated,-15.166666666666668,fallow
+1988-04-03,Incorporated,28.0,14.333333333333334,0.0,4,Greenmount,Incorporated,-13.666666666666666,fallow
+1988-04-04,Incorporated,,14.166666666666666,0.0,4,Greenmount,Incorporated,,fallow
+1988-04-06,Incorporated,,13.833333333333334,0.0,4,Greenmount,Incorporated,,fallow
+1988-04-07,Incorporated,,13.666666666666666,0.0,4,Greenmount,Incorporated,,fallow
+1988-04-10,Incorporated,27.0,13.166666666666666,0.0,4,Greenmount,Incorporated,-13.833333333333334,fallow
+1988-06-04,Incorporated,30.0,6.200000000000001,0.0,6,Greenmount,Incorporated,-23.799999999999997,fallow
+1988-06-05,Incorporated,,6.000000000000001,0.0,6,Greenmount,Incorporated,,fallow
+1989-01-07,Incorporated,30.0,28.999999999999996,0.0,1,Greenmount,Incorporated,-1.0000000000000036,fallow
+1989-03-28,Incorporated,,15.483870967741936,0.0,3,Greenmount,Incorporated,,fallow
+1989-04-25,Incorporated,46.0,10.833333333333334,0.0,4,Greenmount,Incorporated,-35.166666666666664,fallow
+1990-01-15,Incorporated,80.0,27.666666666666668,0.0,1,Greenmount,Incorporated,-52.33333333333333,fallow
+1990-04-20,Incorporated,40.0,11.666666666666666,0.0,4,Greenmount,Incorporated,-28.333333333333336,fallow
+1990-05-22,Incorporated,20.0,7.9375,0.0,5,Greenmount,Incorporated,-12.0625,fallow
+1990-05-27,Incorporated,20.0,7.46875,0.0,5,Greenmount,Incorporated,-12.53125,fallow
+1991-02-07,Incorporated,50.0,23.75,0.0,2,Greenmount,Incorporated,-26.25,fallow
+1993-09-17,Incorporated,0.0,90.75999999999999,90.66666666666666,9,Greenmount,Incorporated,90.75999999999999,crop
+1976-04-25,Mulch,,30.666666666666664,0.0,4,Greenmount,Mulch,,fallow
+1976-10-26,Mulch,,97.69148936170212,95.0,10,Greenmount,Mulch,,crop
+1976-10-31,Mulch,,98.1436170212766,95.0,10,Greenmount,Mulch,,crop
+1976-11-09,Mulch,,98.95744680851064,95.0,11,Greenmount,Mulch,,crop
+1976-11-10,Mulch,,99.04787234042554,95.0,11,Greenmount,Mulch,,crop
+1976-11-14,Mulch,,99.40957446808511,95.0,11,Greenmount,Mulch,,crop
+1976-11-21,Mulch,,91.4,57.00000000000001,11,Greenmount,Mulch,,crop
+1977-01-16,Mulch,,55.00000000000001,0.0,1,Greenmount,Mulch,,fallow
+1977-05-14,Mulch,,27.8125,0.0,5,Greenmount,Mulch,,fallow
+1977-05-15,Mulch,,27.65625,0.0,5,Greenmount,Mulch,,fallow
+1978-03-28,Mulch,,35.48387096774193,0.0,3,Greenmount,Mulch,,fallow
+1978-07-02,Mulch,,22.039199999999997,12.6,7,Greenmount,Mulch,,crop
+1978-07-09,Mulch,,24.620800000000003,16.8,7,Greenmount,Mulch,,crop
+1978-09-06,Mulch,20.0,87.64999999999999,87.0,9,Greenmount,Mulch,67.64999999999999,crop
+1978-12-23,Mulch,65.0,61.33333333333333,0.0,12,Greenmount,Mulch,-3.6666666666666714,fallow
+1978-12-29,Mulch,65.0,60.33333333333333,0.0,12,Greenmount,Mulch,-4.666666666666671,fallow
+1979-03-03,Mulch,,39.51612903225807,0.0,3,Greenmount,Mulch,,fallow
+1979-03-04,Mulch,50.0,39.35483870967742,0.0,3,Greenmount,Mulch,-10.645161290322577,fallow
+1979-03-15,Mulch,50.0,37.58064516129032,0.0,3,Greenmount,Mulch,-12.41935483870968,fallow
+1979-06-20,Mulch,40.0,17.8872,5.4,6,Greenmount,Mulch,-22.1128,crop
+1979-06-21,Mulch,,18.22,6.0,6,Greenmount,Mulch,,crop
+1979-12-21,Mulch,60.0,61.66666666666667,0.0,12,Greenmount,Mulch,1.6666666666666714,fallow
+1980-01-27,Mulch,55.0,51.33333333333333,0.0,1,Greenmount,Mulch,-3.6666666666666714,fallow
+1980-01-28,Mulch,55.0,51.0,0.0,1,Greenmount,Mulch,-4.0,fallow
+1980-02-05,Mulch,55.0,48.214285714285715,0.0,2,Greenmount,Mulch,-6.785714285714285,fallow
+1981-02-05,Mulch,42.0,48.214285714285715,0.0,2,Greenmount,Mulch,6.214285714285715,fallow
+1981-02-06,Mulch,42.0,47.85714285714286,0.0,2,Greenmount,Mulch,5.857142857142861,fallow
+1981-02-07,Mulch,,47.5,0.0,2,Greenmount,Mulch,,fallow
+1981-02-09,Mulch,42.0,46.785714285714285,0.0,2,Greenmount,Mulch,4.785714285714285,fallow
+1981-04-01,Mulch,30.0,34.833333333333336,0.0,4,Greenmount,Mulch,4.833333333333336,fallow
+1981-04-04,Mulch,30.0,34.333333333333336,0.0,4,Greenmount,Mulch,4.333333333333336,fallow
+1981-04-05,Mulch,,34.166666666666664,0.0,4,Greenmount,Mulch,,fallow
+1981-04-07,Mulch,30.0,33.83333333333333,0.0,4,Greenmount,Mulch,3.8333333333333286,fallow
+1981-09-20,Mulch,90.0,92.08333333333333,91.66666666666666,9,Greenmount,Mulch,2.0833333333333286,crop
+1981-11-03,Mulch,90.0,98.32446808510637,95.0,11,Greenmount,Mulch,8.324468085106375,crop
+1981-12-02,Mulch,80.0,64.83333333333333,0.0,12,Greenmount,Mulch,-15.166666666666671,fallow
+1981-12-03,Mulch,80.0,64.66666666666667,0.0,12,Greenmount,Mulch,-15.333333333333329,fallow
+1981-12-20,Mulch,55.0,61.83333333333333,0.0,12,Greenmount,Mulch,6.833333333333329,fallow
+1981-12-23,Mulch,55.0,61.33333333333333,0.0,12,Greenmount,Mulch,6.333333333333329,fallow
+1982-02-01,Mulch,40.0,49.642857142857146,0.0,2,Greenmount,Mulch,9.642857142857146,fallow
+1982-02-24,Mulch,36.0,41.42857142857143,0.0,2,Greenmount,Mulch,5.428571428571431,fallow
+1982-02-27,Mulch,36.0,40.35714285714286,0.0,2,Greenmount,Mulch,4.357142857142861,fallow
+1982-02-28,Mulch,36.0,40.0,0.0,2,Greenmount,Mulch,4.0,fallow
+1982-03-01,Mulch,36.0,39.83870967741936,0.0,3,Greenmount,Mulch,3.8387096774193594,fallow
+1982-03-04,Mulch,36.0,39.35483870967742,0.0,3,Greenmount,Mulch,3.3548387096774235,fallow
+1982-03-05,Mulch,36.0,39.193548387096776,0.0,3,Greenmount,Mulch,3.193548387096776,fallow
+1982-03-06,Mulch,36.0,39.03225806451613,0.0,3,Greenmount,Mulch,3.032258064516128,fallow
+1982-03-07,Mulch,36.0,38.87096774193549,0.0,3,Greenmount,Mulch,2.8709677419354875,fallow
+1982-03-10,Mulch,36.0,38.38709677419355,0.0,3,Greenmount,Mulch,2.3870967741935516,fallow
+1982-04-27,Mulch,25.0,30.5,0.0,4,Greenmount,Mulch,5.5,fallow
+1982-10-31,Mulch,90.0,98.05319148936171,95.0,10,Greenmount,Mulch,8.053191489361708,crop
+1983-05-01,Mulch,25.0,29.843749999999996,0.0,5,Greenmount,Mulch,4.8437499999999964,fallow
+1983-05-02,Mulch,25.0,29.6875,0.0,5,Greenmount,Mulch,4.6875,fallow
+1983-05-27,Mulch,15.0,25.78125,0.0,5,Greenmount,Mulch,10.78125,fallow
+1983-06-21,Mulch,10.0,18.22,6.0,6,Greenmount,Mulch,8.219999999999999,crop
+1984-02-15,Mulch,35.0,44.642857142857146,0.0,2,Greenmount,Mulch,9.642857142857146,fallow
+1984-03-09,Mulch,35.0,38.38709677419355,0.0,3,Greenmount,Mulch,3.3870967741935516,fallow
+1984-04-07,Mulch,25.0,33.666666666666664,0.0,4,Greenmount,Mulch,8.666666666666664,fallow
+1984-04-21,Mulch,25.0,31.33333333333333,0.0,4,Greenmount,Mulch,6.333333333333329,fallow
+1984-04-22,Mulch,,31.166666666666664,0.0,4,Greenmount,Mulch,,fallow
+1984-07-25,Mulch,90.0,31.380000000000003,27.0,7,Greenmount,Mulch,-58.62,crop
+1984-12-18,Mulch,,62.0,0.0,12,Greenmount,Mulch,,fallow
+1986-01-24,Mulch,,52.33333333333333,0.0,1,Greenmount,Mulch,,fallow
+1986-02-07,Mulch,,47.5,0.0,2,Greenmount,Mulch,,fallow
+1986-02-24,Mulch,,41.42857142857143,0.0,2,Greenmount,Mulch,,fallow
+1986-11-12,Mulch,85.0,99.13829787234042,95.0,11,Greenmount,Mulch,14.138297872340416,crop
+1987-01-19,Mulch,60.0,54.0,0.0,1,Greenmount,Mulch,-6.0,fallow
+1987-12-01,Mulch,57.5,65.0,0.0,12,Greenmount,Mulch,7.5,fallow
+1987-12-10,Mulch,62.5,63.5,0.0,12,Greenmount,Mulch,1.0,fallow
+1988-01-19,Mulch,35.0,54.0,0.0,1,Greenmount,Mulch,19.0,fallow
+1988-02-12,Mulch,35.0,45.714285714285715,0.0,2,Greenmount,Mulch,10.714285714285715,fallow
+1988-02-13,Mulch,35.0,45.357142857142854,0.0,2,Greenmount,Mulch,10.357142857142854,fallow
+1988-03-31,Mulch,29.0,34.833333333333336,0.0,3,Greenmount,Mulch,5.833333333333336,fallow
+1988-04-03,Mulch,27.0,34.333333333333336,0.0,4,Greenmount,Mulch,7.333333333333336,fallow
+1988-04-04,Mulch,27.0,34.166666666666664,0.0,4,Greenmount,Mulch,7.166666666666664,fallow
+1988-04-06,Mulch,27.0,33.83333333333333,0.0,4,Greenmount,Mulch,6.833333333333329,fallow
+1988-04-07,Mulch,27.0,33.666666666666664,0.0,4,Greenmount,Mulch,6.666666666666664,fallow
+1988-04-10,Mulch,27.0,33.166666666666664,0.0,4,Greenmount,Mulch,6.166666666666664,fallow
+1988-04-12,Mulch,27.0,32.83333333333333,0.0,4,Greenmount,Mulch,5.833333333333329,fallow
+1988-06-04,Mulch,30.0,21.0,0.0,6,Greenmount,Mulch,-9.0,fallow
+1988-06-05,Mulch,,20.0,0.0,6,Greenmount,Mulch,,fallow
+1989-01-07,Mulch,52.0,57.99999999999999,0.0,1,Greenmount,Mulch,5.999999999999993,fallow
+1989-03-28,Mulch,46.0,35.48387096774193,0.0,3,Greenmount,Mulch,-10.516129032258071,fallow
+1989-04-25,Mulch,41.5,30.833333333333336,0.0,4,Greenmount,Mulch,-10.666666666666664,fallow
+1990-01-15,Mulch,90.0,55.333333333333336,0.0,1,Greenmount,Mulch,-34.666666666666664,fallow
+1990-04-20,Mulch,60.0,31.666666666666664,0.0,4,Greenmount,Mulch,-28.333333333333336,fallow
+1990-05-22,Mulch,30.0,26.5625,0.0,5,Greenmount,Mulch,-3.4375,fallow
+1990-05-27,Mulch,30.0,25.78125,0.0,5,Greenmount,Mulch,-4.21875,fallow
+1991-02-07,Mulch,,47.5,0.0,2,Greenmount,Mulch,,fallow
+1993-09-17,Mulch,0.0,91.13333333333333,90.66666666666666,9,Greenmount,Mulch,91.13333333333333,crop
+1976-04-25,Zero till,,65.26666666666668,0.0,4,Greenmount,Zero till,,fallow
+1976-10-26,Zero till,,97.94148936170212,95.0,10,Greenmount,Zero till,,crop
+1976-10-31,Zero till,,98.3936170212766,95.0,10,Greenmount,Zero till,,crop
+1976-11-09,Zero till,,99.20744680851064,95.0,11,Greenmount,Zero till,,crop
+1976-11-10,Zero till,,99.29787234042553,95.0,11,Greenmount,Zero till,,crop
+1976-11-14,Zero till,,99.65957446808511,95.0,11,Greenmount,Zero till,,crop
+1976-11-21,Zero till,,96.99,57.00000000000001,11,Greenmount,Zero till,,crop
+1977-01-16,Zero till,,77.5,0.0,1,Greenmount,Zero till,,fallow
+1977-05-14,Zero till,,60.62500000000001,0.0,5,Greenmount,Zero till,,fallow
+1977-05-15,Zero till,,60.3125,0.0,5,Greenmount,Zero till,,fallow
+1978-03-28,Zero till,,67.29032258064517,0.0,3,Greenmount,Zero till,,fallow
+1978-07-02,Zero till,,40.218399999999995,12.6,7,Greenmount,Zero till,,crop
+1978-07-09,Zero till,,40.7616,16.8,7,Greenmount,Zero till,,crop
+1978-09-06,Zero till,,88.82,87.0,9,Greenmount,Zero till,,crop
+1978-12-23,Zero till,,82.66666666666667,0.0,12,Greenmount,Zero till,,fallow
+1978-12-29,Zero till,,80.66666666666667,0.0,12,Greenmount,Zero till,,fallow
+1979-03-03,Zero till,,69.70967741935483,0.0,3,Greenmount,Zero till,,fallow
+1979-03-04,Zero till,,69.61290322580645,0.0,3,Greenmount,Zero till,,fallow
+1979-03-15,Zero till,,68.54838709677419,0.0,3,Greenmount,Zero till,,fallow
+1979-06-20,Zero till,,39.834399999999995,5.4,6,Greenmount,Zero till,,crop
+1979-06-21,Zero till,,39.84,6.0,6,Greenmount,Zero till,,crop
+1979-12-21,Zero till,70.0,83.33333333333334,0.0,12,Greenmount,Zero till,13.333333333333343,fallow
+1980-01-27,Zero till,70.0,75.66666666666667,0.0,1,Greenmount,Zero till,5.666666666666671,fallow
+1980-01-28,Zero till,70.0,75.5,0.0,1,Greenmount,Zero till,5.5,fallow
+1980-02-05,Zero till,75.0,74.10714285714286,0.0,2,Greenmount,Zero till,-0.8928571428571388,fallow
+1981-02-05,Zero till,70.0,74.10714285714286,0.0,2,Greenmount,Zero till,4.107142857142861,fallow
+1981-02-06,Zero till,70.0,73.92857142857143,0.0,2,Greenmount,Zero till,3.9285714285714306,fallow
+1981-02-07,Zero till,,73.75,0.0,2,Greenmount,Zero till,,fallow
+1981-02-09,Zero till,70.0,73.39285714285714,0.0,2,Greenmount,Zero till,3.392857142857139,fallow
+1981-04-01,Zero till,65.0,66.93333333333334,0.0,4,Greenmount,Zero till,1.9333333333333371,fallow
+1981-04-04,Zero till,65.0,66.73333333333333,0.0,4,Greenmount,Zero till,1.7333333333333343,fallow
+1981-04-05,Zero till,,66.66666666666667,0.0,4,Greenmount,Zero till,,fallow
+1981-04-07,Zero till,65.0,66.53333333333333,0.0,4,Greenmount,Zero till,1.5333333333333314,fallow
+1981-09-20,Zero till,90.0,92.63888888888889,91.66666666666666,9,Greenmount,Zero till,2.6388888888888857,crop
+1981-11-03,Zero till,90.0,98.57446808510637,95.0,11,Greenmount,Zero till,8.574468085106375,crop
+1981-12-02,Zero till,80.0,89.66666666666667,0.0,12,Greenmount,Zero till,9.666666666666671,fallow
+1981-12-03,Zero till,80.0,89.33333333333333,0.0,12,Greenmount,Zero till,9.333333333333329,fallow
+1981-12-20,Zero till,75.0,83.66666666666667,0.0,12,Greenmount,Zero till,8.666666666666671,fallow
+1981-12-23,Zero till,75.0,82.66666666666667,0.0,12,Greenmount,Zero till,7.666666666666671,fallow
+1982-02-01,Zero till,80.0,74.82142857142857,0.0,2,Greenmount,Zero till,-5.178571428571431,fallow
+1982-02-24,Zero till,60.0,70.71428571428571,0.0,2,Greenmount,Zero till,10.714285714285708,fallow
+1982-02-27,Zero till,60.0,70.17857142857142,0.0,2,Greenmount,Zero till,10.178571428571416,fallow
+1982-02-28,Zero till,60.0,70.0,0.0,2,Greenmount,Zero till,10.0,fallow
+1982-03-01,Zero till,60.0,69.9032258064516,0.0,3,Greenmount,Zero till,9.903225806451601,fallow
+1982-03-04,Zero till,60.0,69.61290322580645,0.0,3,Greenmount,Zero till,9.612903225806448,fallow
+1982-03-05,Zero till,60.0,69.51612903225805,0.0,3,Greenmount,Zero till,9.51612903225805,fallow
+1982-03-06,Zero till,60.0,69.41935483870968,0.0,3,Greenmount,Zero till,9.41935483870968,fallow
+1982-03-07,Zero till,60.0,69.3225806451613,0.0,3,Greenmount,Zero till,9.322580645161295,fallow
+1982-03-10,Zero till,60.0,69.03225806451613,0.0,3,Greenmount,Zero till,9.032258064516128,fallow
+1982-04-27,Zero till,70.0,65.2,0.0,4,Greenmount,Zero till,-4.799999999999997,fallow
+1982-10-31,Zero till,90.0,98.3031914893617,95.0,10,Greenmount,Zero till,8.303191489361694,crop
+1983-05-01,Zero till,57.0,64.6875,0.0,5,Greenmount,Zero till,7.6875,fallow
+1983-05-02,Zero till,57.0,64.375,0.0,5,Greenmount,Zero till,7.375,fallow
+1983-05-27,Zero till,50.0,56.56250000000001,0.0,5,Greenmount,Zero till,6.562500000000007,fallow
+1983-06-21,Zero till,30.0,39.84,6.0,6,Greenmount,Zero till,9.840000000000003,crop
+1984-02-15,Zero till,63.0,72.32142857142857,0.0,2,Greenmount,Zero till,9.32142857142857,fallow
+1984-03-09,Zero till,63.0,69.03225806451613,0.0,3,Greenmount,Zero till,6.032258064516128,fallow
+1984-04-07,Zero till,60.0,66.46666666666667,0.0,4,Greenmount,Zero till,6.466666666666669,fallow
+1984-04-21,Zero till,60.0,65.53333333333333,0.0,4,Greenmount,Zero till,5.533333333333331,fallow
+1984-04-22,Zero till,,65.46666666666667,0.0,4,Greenmount,Zero till,,fallow
+1984-07-25,Zero till,90.0,43.06,27.0,7,Greenmount,Zero till,-46.94,crop
+1984-12-18,Zero till,,84.00000000000001,0.0,12,Greenmount,Zero till,,fallow
+1986-01-24,Zero till,,76.16666666666667,0.0,1,Greenmount,Zero till,,fallow
+1986-02-07,Zero till,,73.75,0.0,2,Greenmount,Zero till,,fallow
+1986-02-24,Zero till,,70.71428571428571,0.0,2,Greenmount,Zero till,,fallow
+1986-11-12,Zero till,90.0,99.38829787234043,95.0,11,Greenmount,Zero till,9.38829787234043,crop
+1987-01-19,Zero till,90.0,77.0,0.0,1,Greenmount,Zero till,-13.0,fallow
+1987-12-01,Zero till,,90.0,0.0,12,Greenmount,Zero till,,fallow
+1987-12-10,Zero till,,87.0,0.0,12,Greenmount,Zero till,,fallow
+1988-01-19,Zero till,,77.0,0.0,1,Greenmount,Zero till,,fallow
+1988-02-12,Zero till,,72.85714285714285,0.0,2,Greenmount,Zero till,,fallow
+1988-02-13,Zero till,,72.67857142857143,0.0,2,Greenmount,Zero till,,fallow
+1988-03-31,Zero till,,66.93333333333334,0.0,3,Greenmount,Zero till,,fallow
+1988-04-03,Zero till,,66.73333333333333,0.0,4,Greenmount,Zero till,,fallow
+1988-04-04,Zero till,,66.66666666666667,0.0,4,Greenmount,Zero till,,fallow
+1988-04-06,Zero till,,66.53333333333333,0.0,4,Greenmount,Zero till,,fallow
+1988-04-07,Zero till,,66.46666666666667,0.0,4,Greenmount,Zero till,,fallow
+1988-04-10,Zero till,,66.26666666666668,0.0,4,Greenmount,Zero till,,fallow
+1988-06-04,Zero till,,49.00000000000001,0.0,6,Greenmount,Zero till,,fallow
+1988-06-05,Zero till,,47.5,0.0,6,Greenmount,Zero till,,fallow
+1989-01-07,Zero till,54.0,79.0,0.0,1,Greenmount,Zero till,25.0,fallow
+1989-03-28,Zero till,51.5,67.29032258064517,0.0,3,Greenmount,Zero till,15.790322580645167,fallow
+1989-04-25,Zero till,66.0,65.33333333333333,0.0,4,Greenmount,Zero till,-0.6666666666666714,fallow
+1990-01-15,Zero till,85.0,77.66666666666667,0.0,1,Greenmount,Zero till,-7.333333333333329,fallow
+1990-04-20,Zero till,80.0,65.66666666666667,0.0,4,Greenmount,Zero till,-14.333333333333329,fallow
+1990-05-22,Zero till,75.0,58.12500000000001,0.0,5,Greenmount,Zero till,-16.874999999999993,fallow
+1990-05-27,Zero till,75.0,56.56250000000001,0.0,5,Greenmount,Zero till,-18.437499999999993,fallow
+1991-02-07,Zero till,50.0,73.75,0.0,2,Greenmount,Zero till,23.75,fallow
+1993-09-17,Zero till,0.0,91.80222222222221,90.66666666666666,9,Greenmount,Zero till,91.80222222222221,crop
+1978-09-07,Burnt,60.0,87.58666666666667,87.33333333333333,9,Greenwood,Burnt,27.586666666666673,crop
+1978-12-26,Burnt,2.0,2.0,0.0,12,Greenwood,Burnt,0.0,fallow
+1979-03-16,Burnt,5.0,2.0,0.0,3,Greenwood,Burnt,-3.0,fallow
+1979-03-19,Burnt,5.0,2.0,0.0,3,Greenwood,Burnt,-3.0,fallow
+1979-06-21,Burnt,15.0,7.88,6.0,6,Greenwood,Burnt,-7.12,crop
+1979-11-24,Burnt,2.0,69.606,44.333333333333336,11,Greenwood,Burnt,67.606,crop
+1980-01-27,Burnt,5.0,2.0,0.0,1,Greenwood,Burnt,-3.0,fallow
+1980-02-05,Burnt,5.0,2.0,0.0,2,Greenwood,Burnt,-3.0,fallow
+1980-11-25,Burnt,2.0,54.21666666666667,31.666666666666664,11,Greenwood,Burnt,52.21666666666667,crop
+1980-12-06,Burnt,2.0,2.0,0.0,12,Greenwood,Burnt,0.0,fallow
+1980-12-31,Burnt,2.0,2.0,0.0,12,Greenwood,Burnt,0.0,fallow
+1981-02-05,Burnt,2.0,2.0,0.0,2,Greenwood,Burnt,0.0,fallow
+1981-04-04,Burnt,2.0,2.0,0.0,4,Greenwood,Burnt,0.0,fallow
+1981-06-01,Burnt,2.0,2.0,0.0,6,Greenwood,Burnt,0.0,fallow
+1981-11-30,Burnt,5.0,14.014000000000019,6.333333333333346,11,Greenwood,Burnt,9.014000000000019,crop
+1981-12-20,Burnt,5.0,2.0,0.0,12,Greenwood,Burnt,-3.0,fallow
+1981-12-24,Burnt,10.0,2.0,0.0,12,Greenwood,Burnt,-8.0,fallow
+1982-10-13,Burnt,80.0,96.38617021276595,95.0,10,Greenwood,Burnt,16.386170212765947,crop
+1982-12-01,Burnt,5.0,2.0,0.0,12,Greenwood,Burnt,-3.0,fallow
+1982-12-19,Burnt,10.0,2.0,0.0,12,Greenwood,Burnt,-8.0,fallow
+1983-04-27,Burnt,2.0,2.0,0.0,4,Greenwood,Burnt,0.0,fallow
+1983-05-27,Burnt,4.0,2.0,0.0,5,Greenwood,Burnt,-2.0,fallow
+1983-06-21,Burnt,3.0,7.88,6.0,6,Greenwood,Burnt,4.88,crop
+1983-10-24,Burnt,90.0,97.47446808510638,95.0,10,Greenwood,Burnt,7.4744680851063805,crop
+1983-11-16,Burnt,80.0,99.75,95.0,11,Greenwood,Burnt,19.75,crop
+1983-12-10,Burnt,80.0,2.0,0.0,12,Greenwood,Burnt,-78.0,fallow
+1984-04-08,Burnt,2.0,2.0,0.0,4,Greenwood,Burnt,0.0,fallow
+1978-09-07,Incorporated,60.0,87.46,87.33333333333333,9,Greenwood,Incorporated,27.459999999999994,crop
+1978-12-26,Incorporated,45.0,30.833333333333336,0.0,12,Greenwood,Incorporated,-14.166666666666664,fallow
+1979-03-16,Incorporated,40.0,17.419354838709676,0.0,3,Greenwood,Incorporated,-22.580645161290324,fallow
+1979-03-19,Incorporated,40.0,16.935483870967744,0.0,3,Greenwood,Incorporated,-23.064516129032256,fallow
+1979-06-21,Incorporated,5.0,9.948,6.0,6,Greenwood,Incorporated,4.948,crop
+1979-11-24,Incorporated,50.0,79.40333333333332,44.333333333333336,11,Greenwood,Incorporated,29.40333333333332,crop
+1980-01-27,Incorporated,25.0,25.666666666666664,0.0,1,Greenwood,Incorporated,0.6666666666666643,fallow
+1980-02-05,Incorporated,25.0,24.107142857142858,0.0,2,Greenwood,Incorporated,-0.8928571428571423,fallow
+1980-11-25,Incorporated,35.0,69.24999999999999,31.666666666666664,11,Greenwood,Incorporated,34.249999999999986,crop
+1980-12-06,Incorporated,35.0,34.0,0.0,12,Greenwood,Incorporated,-1.0,fallow
+1980-12-31,Incorporated,20.0,30.0,0.0,12,Greenwood,Incorporated,10.0,fallow
+1981-02-05,Incorporated,10.0,24.107142857142858,0.0,2,Greenwood,Incorporated,14.107142857142858,fallow
+1981-04-04,Incorporated,8.0,14.333333333333334,0.0,4,Greenwood,Incorporated,6.333333333333334,fallow
+1981-06-01,Incorporated,5.0,7.000000000000001,0.0,6,Greenwood,Incorporated,2.000000000000001,fallow
+1981-11-30,Incorporated,25.0,42.86333333333333,6.333333333333346,11,Greenwood,Incorporated,17.86333333333333,crop
+1981-12-20,Incorporated,40.0,31.83333333333333,0.0,12,Greenwood,Incorporated,-8.166666666666671,fallow
+1981-12-24,Incorporated,41.0,31.166666666666664,0.0,12,Greenwood,Incorporated,-9.833333333333336,fallow
+1982-10-13,Incorporated,80.0,96.35000000000001,95.0,10,Greenwood,Incorporated,16.35000000000001,crop
+1982-12-01,Incorporated,26.0,35.0,0.0,12,Greenwood,Incorporated,9.0,fallow
+1982-12-19,Incorporated,30.0,32.0,0.0,12,Greenwood,Incorporated,2.0,fallow
+1983-04-27,Incorporated,6.0,10.500000000000002,0.0,4,Greenwood,Incorporated,4.500000000000002,fallow
+1983-05-27,Incorporated,2.0,7.46875,0.0,5,Greenwood,Incorporated,5.46875,fallow
+1983-06-21,Incorporated,2.0,9.948,6.0,6,Greenwood,Incorporated,7.948,crop
+1983-10-24,Incorporated,90.0,97.44999999999999,95.0,10,Greenwood,Incorporated,7.449999999999989,crop
+1983-11-16,Incorporated,80.0,99.75,95.0,11,Greenwood,Incorporated,19.75,crop
+1983-12-10,Incorporated,80.0,33.5,0.0,12,Greenwood,Incorporated,-46.5,fallow
+1984-04-08,Incorporated,20.0,13.5,0.0,4,Greenwood,Incorporated,-6.5,fallow
+1978-09-07,Mulch,60.0,87.96666666666665,87.33333333333333,9,Greenwood,Mulch,27.966666666666654,crop
+1978-12-26,Mulch,60.0,60.83333333333333,0.0,12,Greenwood,Mulch,0.8333333333333286,fallow
+1979-03-16,Mulch,65.0,37.41935483870968,0.0,3,Greenwood,Mulch,-27.58064516129032,fallow
+1979-03-19,Mulch,65.0,36.93548387096774,0.0,3,Greenwood,Mulch,-28.064516129032263,fallow
+1979-06-21,Mulch,15.0,18.22,6.0,6,Greenwood,Mulch,3.219999999999999,crop
+1979-11-24,Mulch,70.0,87.01111111111112,44.333333333333336,11,Greenwood,Mulch,17.01111111111112,crop
+1980-01-27,Mulch,55.0,51.33333333333333,0.0,1,Greenwood,Mulch,-3.6666666666666714,fallow
+1980-02-05,Mulch,55.0,48.214285714285715,0.0,2,Greenwood,Mulch,-6.785714285714285,fallow
+1980-11-25,Mulch,50.0,81.77777777777779,31.666666666666664,11,Greenwood,Mulch,31.777777777777786,crop
+1980-12-06,Mulch,50.0,64.0,0.0,12,Greenwood,Mulch,14.0,fallow
+1980-12-31,Mulch,40.0,60.0,0.0,12,Greenwood,Mulch,20.0,fallow
+1981-02-05,Mulch,20.0,48.214285714285715,0.0,2,Greenwood,Mulch,28.214285714285715,fallow
+1981-04-04,Mulch,15.0,34.333333333333336,0.0,4,Greenwood,Mulch,19.333333333333336,fallow
+1981-06-01,Mulch,8.0,25.0,0.0,6,Greenwood,Mulch,17.0,fallow
+1981-11-30,Mulch,40.0,68.7777777777778,6.333333333333346,11,Greenwood,Mulch,28.7777777777778,crop
+1981-12-20,Mulch,50.0,61.83333333333333,0.0,12,Greenwood,Mulch,11.833333333333329,fallow
+1981-12-24,Mulch,53.0,61.16666666666667,0.0,12,Greenwood,Mulch,8.166666666666671,fallow
+1982-10-13,Mulch,80.0,96.42553191489361,95.0,10,Greenwood,Mulch,16.42553191489361,crop
+1982-12-01,Mulch,42.0,65.0,0.0,12,Greenwood,Mulch,23.0,fallow
+1982-12-19,Mulch,45.0,62.0,0.0,12,Greenwood,Mulch,17.0,fallow
+1983-04-27,Mulch,11.0,30.5,0.0,4,Greenwood,Mulch,19.5,fallow
+1983-05-27,Mulch,55.0,25.78125,0.0,5,Greenwood,Mulch,-29.21875,fallow
+1983-06-21,Mulch,30.0,18.22,6.0,6,Greenwood,Mulch,-11.780000000000001,crop
+1983-10-24,Mulch,90.0,97.42021276595744,95.0,10,Greenwood,Mulch,7.420212765957444,crop
+1983-11-16,Mulch,80.0,99.5,95.0,11,Greenwood,Mulch,19.5,crop
+1983-12-10,Mulch,90.0,63.5,0.0,12,Greenwood,Mulch,-26.5,fallow
+1984-04-08,Mulch,20.0,33.5,0.0,4,Greenwood,Mulch,13.5,fallow
+1980-11-25,Zero till,56.0,94.30555555555556,31.666666666666664,11,Greenwood,Zero till,38.30555555555556,crop
+1980-12-06,Zero till,56.0,88.0,0.0,12,Greenwood,Zero till,32.0,fallow
+1980-12-31,Zero till,56.0,80.0,0.0,12,Greenwood,Zero till,24.0,fallow
+1981-02-05,Zero till,24.0,74.10714285714286,0.0,2,Greenwood,Zero till,50.10714285714286,fallow
+1981-04-04,Zero till,25.0,66.73333333333333,0.0,4,Greenwood,Zero till,41.733333333333334,fallow
+1981-06-01,Zero till,25.0,55.00000000000001,0.0,6,Greenwood,Zero till,30.000000000000007,fallow
+1981-11-30,Zero till,56.0,90.94555555555556,6.333333333333346,11,Greenwood,Zero till,34.94555555555556,crop
+1981-12-20,Zero till,56.0,83.66666666666667,0.0,12,Greenwood,Zero till,27.66666666666667,fallow
+1981-12-24,Zero till,56.0,82.33333333333334,0.0,12,Greenwood,Zero till,26.333333333333343,fallow
+1982-10-13,Zero till,80.0,96.67553191489361,95.0,10,Greenwood,Zero till,16.67553191489361,crop
+1982-12-01,Zero till,54.0,90.0,0.0,12,Greenwood,Zero till,36.0,fallow
+1982-12-19,Zero till,54.0,84.00000000000001,0.0,12,Greenwood,Zero till,30.000000000000014,fallow
+1983-04-27,Zero till,58.0,65.2,0.0,4,Greenwood,Zero till,7.200000000000003,fallow
+1983-05-27,Zero till,55.0,56.56250000000001,0.0,5,Greenwood,Zero till,1.562500000000007,fallow
+1983-06-21,Zero till,30.0,39.84,6.0,6,Greenwood,Zero till,9.840000000000003,crop
+1983-10-24,Zero till,90.0,97.67021276595744,95.0,10,Greenwood,Zero till,7.670212765957444,crop
+1983-11-16,Zero till,80.0,99.75,95.0,11,Greenwood,Zero till,19.75,crop
+1983-12-10,Zero till,80.0,87.0,0.0,12,Greenwood,Zero till,7.0,fallow
+1984-04-08,Zero till,60.0,66.4,0.0,4,Greenwood,Zero till,6.400000000000006,fallow
+1983-03-29,Tilled,16.0,5.322580645161291,0.0,3,Wallumbilla,Tilled,-10.677419354838708,fallow
+1983-05-02,Tilled,7.5,5.0,0.0,5,Wallumbilla,Tilled,-2.5,fallow
+1983-05-12,Tilled,8.0,5.0,0.0,5,Wallumbilla,Tilled,-3.0,fallow
+1983-05-27,Tilled,5.0,4.640000000000001,0.6666666666666667,5,Wallumbilla,Tilled,-0.35999999999999943,crop
+1983-06-20,Tilled,5.0,11.857777777777779,10.666666666666668,6,Wallumbilla,Tilled,6.857777777777779,crop
+1983-11-21,Tilled,55.0,38.61538461538461,0.0,11,Wallumbilla,Tilled,-16.384615384615387,fallow
+1984-01-02,Tilled,60.0,29.666666666666664,0.0,1,Wallumbilla,Tilled,-30.333333333333336,fallow
+1984-01-29,Tilled,11.0,20.666666666666668,0.0,1,Wallumbilla,Tilled,9.666666666666668,fallow
+1984-07-24,Tilled,15.0,39.80161290322581,39.193548387096776,7,Wallumbilla,Tilled,24.80161290322581,crop
+1984-12-14,Tilled,18.0,33.44615384615385,0.0,12,Wallumbilla,Tilled,15.446153846153848,fallow
+1985-01-08,Tilled,18.0,27.666666666666668,0.0,1,Wallumbilla,Tilled,9.666666666666668,fallow
+1985-07-07,Tilled,10.0,22.556451612903228,21.7741935483871,7,Wallumbilla,Tilled,12.556451612903228,crop
+1986-02-11,Tilled,35.0,16.071428571428573,0.0,2,Wallumbilla,Tilled,-18.928571428571427,fallow
+1986-11-17,Tilled,55.0,39.47692307692308,0.0,11,Wallumbilla,Tilled,-15.523076923076921,fallow
+1987-01-09,Tilled,20.0,27.333333333333332,0.0,1,Wallumbilla,Tilled,7.333333333333332,fallow
+1987-01-29,Tilled,15.0,20.666666666666668,0.0,1,Wallumbilla,Tilled,5.666666666666668,fallow
+1987-06-18,Tilled,5.0,11.062800000000001,9.8,6,Wallumbilla,Tilled,6.062800000000001,crop
+1987-11-14,Tilled,5.0,40.12307692307692,0.0,11,Wallumbilla,Tilled,35.12307692307692,fallow
+1988-01-24,Tilled,2.0,22.333333333333332,0.0,1,Wallumbilla,Tilled,20.333333333333332,fallow
+1988-02-13,Tilled,6.0,15.357142857142858,0.0,2,Wallumbilla,Tilled,9.357142857142858,fallow
+1988-04-07,Tilled,2.0,5.0,0.0,4,Wallumbilla,Tilled,3.0,fallow
+1988-05-24,Tilled,4.0,5.0,0.0,5,Wallumbilla,Tilled,1.0,fallow
+1988-11-04,Tilled,50.0,42.06153846153846,0.0,11,Wallumbilla,Tilled,-7.938461538461539,fallow
+1988-12-13,Tilled,17.0,33.66153846153846,0.0,12,Wallumbilla,Tilled,16.661538461538463,fallow
+1989-01-23,Tilled,17.0,22.666666666666668,0.0,1,Wallumbilla,Tilled,5.666666666666668,fallow
+1989-03-09,Tilled,10.0,8.548387096774194,0.0,3,Wallumbilla,Tilled,-1.451612903225806,fallow
+1989-04-25,Tilled,12.0,5.0,0.0,4,Wallumbilla,Tilled,-7.0,fallow
+1989-05-04,Tilled,15.0,5.0,0.0,5,Wallumbilla,Tilled,-10.0,fallow
+1989-06-05,Tilled,5.0,5.923611111111112,4.166666666666667,6,Wallumbilla,Tilled,0.9236111111111116,crop
+1989-08-03,Tilled,70.0,48.903225806451616,48.38709677419355,8,Wallumbilla,Tilled,-21.096774193548384,crop
+1989-11-28,Tilled,80.0,37.10769230769231,0.0,11,Wallumbilla,Tilled,-42.89230769230769,fallow
+1990-05-01,Tilled,10.0,5.0,0.0,5,Wallumbilla,Tilled,-5.0,fallow
+1990-11-16,Tilled,50.0,39.69230769230769,0.0,11,Wallumbilla,Tilled,-10.307692307692307,fallow
+1991-02-06,Tilled,5.0,17.857142857142858,0.0,2,Wallumbilla,Tilled,12.857142857142858,fallow
+1991-05-21,Tilled,5.0,5.0,0.0,5,Wallumbilla,Tilled,0.0,fallow
+1991-06-17,Tilled,5.0,10.665744444444444,9.366666666666665,6,Wallumbilla,Tilled,5.665744444444444,crop
+1991-10-08,Tilled,50.0,83.00225,80.75,10,Wallumbilla,Tilled,33.002250000000004,crop
+1991-12-31,Tilled,20.0,30.0,0.0,12,Wallumbilla,Tilled,10.0,fallow
+1992-01-07,Tilled,20.0,27.999999999999996,0.0,1,Wallumbilla,Tilled,7.9999999999999964,fallow
+1992-02-25,Tilled,5.0,11.071428571428573,0.0,2,Wallumbilla,Tilled,6.071428571428573,fallow
+1992-04-26,Tilled,2.0,5.0,0.0,4,Wallumbilla,Tilled,3.0,fallow
+1992-10-14,Tilled,50.0,62.564,51.0,10,Wallumbilla,Tilled,12.564,crop
+1993-03-02,Tilled,10.0,9.67741935483871,0.0,3,Wallumbilla,Tilled,-0.32258064516129004,fallow
+1993-06-10,Tilled,5.0,7.894444444444446,6.333333333333334,6,Wallumbilla,Tilled,2.8944444444444457,crop
+1993-11-10,Tilled,50.0,40.98461538461539,0.0,11,Wallumbilla,Tilled,-9.015384615384612,fallow
+1993-12-07,Tilled,15.0,35.16923076923077,0.0,12,Wallumbilla,Tilled,20.169230769230772,fallow
+1994-02-03,Tilled,15.0,18.92857142857143,0.0,2,Wallumbilla,Tilled,3.9285714285714306,fallow
+1994-02-16,Tilled,15.0,14.285714285714285,0.0,2,Wallumbilla,Tilled,-0.7142857142857153,fallow
+1994-03-09,Tilled,15.0,8.548387096774194,0.0,3,Wallumbilla,Tilled,-6.451612903225806,fallow
+1994-06-21,Tilled,2.0,12.2557,11.1,6,Wallumbilla,Tilled,10.2557,crop
+1994-11-09,Tilled,25.0,41.199999999999996,0.0,11,Wallumbilla,Tilled,16.199999999999996,fallow
+1995-02-18,Tilled,10.0,13.571428571428573,0.0,2,Wallumbilla,Tilled,3.571428571428573,fallow
+1995-06-29,Tilled,5.0,15.449477777777776,14.566666666666665,6,Wallumbilla,Tilled,10.449477777777776,crop
+1995-11-13,Tilled,40.0,40.33846153846154,0.0,11,Wallumbilla,Tilled,0.33846153846153726,fallow
+1996-02-21,Tilled,25.0,12.5,0.0,2,Wallumbilla,Tilled,-12.5,fallow
+1996-10-15,Tilled,50.0,60.22225,46.75,10,Wallumbilla,Tilled,10.222250000000003,crop
+1996-10-30,Tilled,60.0,43.138461538461534,0.0,10,Wallumbilla,Tilled,-16.861538461538466,fallow
+1997-01-24,Tilled,40.0,22.333333333333332,0.0,1,Wallumbilla,Tilled,-17.666666666666668,fallow
+1997-03-20,Tilled,5.0,6.774193548387098,0.0,3,Wallumbilla,Tilled,1.7741935483870979,fallow
+1997-05-28,Tilled,30.0,4.465,1.0,5,Wallumbilla,Tilled,-25.535,crop
+1997-11-26,Tilled,30.0,37.53846153846154,0.0,11,Wallumbilla,Tilled,7.53846153846154,fallow
+1998-01-08,Tilled,7.0,27.666666666666668,0.0,1,Wallumbilla,Tilled,20.666666666666668,fallow
+1998-03-20,Tilled,10.0,6.774193548387098,0.0,3,Wallumbilla,Tilled,-3.225806451612902,fallow
+1998-05-28,Tilled,2.0,4.465,1.0,5,Wallumbilla,Tilled,2.465,crop
+1998-08-01,Tilled,60.0,46.66774193548387,46.12903225806452,8,Wallumbilla,Tilled,-13.332258064516132,crop
+1998-11-11,Tilled,80.0,40.76923076923077,0.0,11,Wallumbilla,Tilled,-39.23076923076923,fallow
+1999-02-12,Tilled,70.0,15.714285714285714,0.0,2,Wallumbilla,Tilled,-54.285714285714285,fallow
+1999-02-14,Tilled,40.0,15.000000000000002,0.0,2,Wallumbilla,Tilled,-25.0,fallow
+1999-04-18,Tilled,40.0,5.0,0.0,4,Wallumbilla,Tilled,-35.0,fallow
+1999-04-20,Tilled,10.0,5.0,0.0,4,Wallumbilla,Tilled,-5.0,fallow
+1999-07-07,Tilled,10.0,22.556451612903228,21.7741935483871,7,Wallumbilla,Tilled,12.556451612903228,crop
+1999-11-02,Tilled,40.0,42.707692307692305,0.0,11,Wallumbilla,Tilled,2.707692307692305,fallow
+2000-02-10,Tilled,30.0,16.428571428571427,0.0,2,Wallumbilla,Tilled,-13.571428571428573,fallow
+2000-05-12,Tilled,20.0,5.0,0.0,5,Wallumbilla,Tilled,-15.0,fallow
+1983-03-29,Min till,30.0,40.645161290322584,0.0,3,Wallumbilla,Min till,10.645161290322584,fallow
+1983-05-02,Min till,22.0,28.363636363636367,0.0,5,Wallumbilla,Min till,6.363636363636367,fallow
+1983-05-12,Min till,22.0,24.727272727272727,0.0,5,Wallumbilla,Min till,2.7272727272727266,fallow
+1983-05-27,Min till,12.0,17.22222222222222,0.6666666666666667,5,Wallumbilla,Min till,5.222222222222221,crop
+1983-06-20,Min till,12.0,16.622222222222224,10.666666666666668,6,Wallumbilla,Min till,4.622222222222224,crop
+1983-11-21,Min till,55.0,70.0,0.0,11,Wallumbilla,Min till,15.0,fallow
+1984-01-02,Min till,60.0,69.66666666666667,0.0,1,Wallumbilla,Min till,9.666666666666671,fallow
+1984-01-29,Min till,33.0,60.66666666666667,0.0,1,Wallumbilla,Min till,27.66666666666667,fallow
+1984-07-24,Min till,8.0,42.233870967741936,39.193548387096776,7,Wallumbilla,Min till,34.233870967741936,crop
+1984-12-14,Min till,54.0,70.0,0.0,12,Wallumbilla,Min till,16.0,fallow
+1985-01-08,Min till,54.0,67.66666666666666,0.0,1,Wallumbilla,Min till,13.666666666666657,fallow
+1985-07-07,Min till,20.0,25.685483870967747,21.7741935483871,7,Wallumbilla,Min till,5.685483870967747,crop
+1986-02-11,Min till,25.0,56.07142857142857,0.0,2,Wallumbilla,Min till,31.07142857142857,fallow
+1986-11-17,Min till,55.0,70.0,0.0,11,Wallumbilla,Min till,15.0,fallow
+1987-01-09,Min till,25.0,67.33333333333333,0.0,1,Wallumbilla,Min till,42.33333333333333,fallow
+1987-01-29,Min till,20.0,60.66666666666667,0.0,1,Wallumbilla,Min till,40.66666666666667,fallow
+1987-06-18,Min till,5.0,16.114,9.8,6,Wallumbilla,Min till,11.114,crop
+1987-11-14,Min till,5.0,70.0,0.0,11,Wallumbilla,Min till,65.0,fallow
+1988-01-24,Min till,2.0,62.33333333333333,0.0,1,Wallumbilla,Min till,60.33333333333333,fallow
+1988-02-13,Min till,6.0,55.35714285714286,0.0,2,Wallumbilla,Min till,49.35714285714286,fallow
+1988-04-07,Min till,2.0,37.09090909090909,0.0,4,Wallumbilla,Min till,35.09090909090909,fallow
+1988-05-24,Min till,4.0,20.0,0.0,5,Wallumbilla,Min till,16.0,fallow
+1988-11-04,Min till,50.0,70.0,0.0,11,Wallumbilla,Min till,20.0,fallow
+1988-12-13,Min till,53.0,70.0,0.0,12,Wallumbilla,Min till,17.0,fallow
+1989-01-23,Min till,53.0,62.66666666666666,0.0,1,Wallumbilla,Min till,9.666666666666657,fallow
+1989-03-09,Min till,55.0,47.096774193548384,0.0,3,Wallumbilla,Min till,-7.903225806451616,fallow
+1989-04-25,Min till,55.0,30.909090909090907,0.0,4,Wallumbilla,Min till,-24.090909090909093,fallow
+1989-05-04,Min till,55.0,27.636363636363637,0.0,5,Wallumbilla,Min till,-27.363636363636363,fallow
+1989-06-05,Min till,20.0,12.95138888888889,4.166666666666667,6,Wallumbilla,Min till,-7.048611111111111,crop
+1989-08-03,Min till,70.0,50.967741935483865,48.38709677419355,8,Wallumbilla,Min till,-19.032258064516135,crop
+1989-11-28,Min till,80.0,70.0,0.0,11,Wallumbilla,Min till,-10.0,fallow
+1990-05-01,Min till,20.0,28.72727272727273,0.0,5,Wallumbilla,Min till,8.72727272727273,fallow
+1990-11-16,Min till,50.0,70.0,0.0,11,Wallumbilla,Min till,20.0,fallow
+1991-02-06,Min till,5.0,57.857142857142854,0.0,2,Wallumbilla,Min till,52.857142857142854,fallow
+1991-05-21,Min till,5.0,21.454545454545457,0.0,5,Wallumbilla,Min till,16.454545454545457,fallow
+1991-06-17,Min till,5.0,15.862055555555553,9.366666666666665,6,Wallumbilla,Min till,10.862055555555553,crop
+1991-10-08,Min till,50.0,82.33812499999999,80.75,10,Wallumbilla,Min till,32.33812499999999,crop
+1991-12-31,Min till,20.0,70.0,0.0,12,Wallumbilla,Min till,50.0,fallow
+1992-01-07,Min till,20.0,68.0,0.0,1,Wallumbilla,Min till,48.0,fallow
+1992-02-25,Min till,5.0,51.07142857142857,0.0,2,Wallumbilla,Min till,46.07142857142857,fallow
+1992-04-26,Min till,2.0,30.181818181818187,0.0,4,Wallumbilla,Min till,28.181818181818187,fallow
+1992-10-14,Min till,50.0,66.19,51.0,10,Wallumbilla,Min till,16.189999999999998,crop
+1993-03-02,Min till,10.0,49.354838709677416,0.0,3,Wallumbilla,Min till,39.354838709677416,fallow
+1993-06-10,Min till,5.0,14.13888888888889,6.333333333333334,6,Wallumbilla,Min till,9.13888888888889,crop
+1993-11-10,Min till,50.0,70.0,0.0,11,Wallumbilla,Min till,20.0,fallow
+1993-12-07,Min till,15.0,70.0,0.0,12,Wallumbilla,Min till,55.0,fallow
+1994-02-03,Min till,15.0,58.92857142857143,0.0,2,Wallumbilla,Min till,43.92857142857143,fallow
+1994-02-16,Min till,15.0,54.285714285714285,0.0,2,Wallumbilla,Min till,39.285714285714285,fallow
+1994-03-09,Min till,15.0,47.096774193548384,0.0,3,Wallumbilla,Min till,32.096774193548384,fallow
+1994-06-21,Min till,2.0,16.878500000000003,11.1,6,Wallumbilla,Min till,14.878500000000003,crop
+1994-11-09,Min till,25.0,70.0,0.0,11,Wallumbilla,Min till,45.0,fallow
+1995-02-18,Min till,10.0,53.57142857142857,0.0,2,Wallumbilla,Min till,43.57142857142857,fallow
+1995-06-29,Min till,5.0,18.98072222222222,14.566666666666665,6,Wallumbilla,Min till,13.98072222222222,crop
+1995-11-13,Min till,50.0,70.0,0.0,11,Wallumbilla,Min till,20.0,fallow
+1996-02-21,Min till,10.0,52.5,0.0,2,Wallumbilla,Min till,42.5,fallow
+1996-10-15,Min till,50.0,64.988125,46.75,10,Wallumbilla,Min till,14.988124999999997,crop
+1996-10-30,Min till,65.0,70.0,0.0,10,Wallumbilla,Min till,5.0,fallow
+1997-01-24,Min till,20.0,62.33333333333333,0.0,1,Wallumbilla,Min till,42.33333333333333,fallow
+1997-03-20,Min till,90.0,43.54838709677419,0.0,3,Wallumbilla,Min till,-46.45161290322581,fallow
+1997-05-28,Min till,90.0,15.850000000000003,1.0,5,Wallumbilla,Min till,-74.14999999999999,crop
+1997-11-26,Min till,75.0,70.0,0.0,11,Wallumbilla,Min till,-5.0,fallow
+1998-01-08,Min till,50.0,67.66666666666666,0.0,1,Wallumbilla,Min till,17.666666666666657,fallow
+1998-03-20,Min till,45.0,43.54838709677419,0.0,3,Wallumbilla,Min till,-1.4516129032258078,fallow
+1998-05-28,Min till,5.0,15.850000000000003,1.0,5,Wallumbilla,Min till,10.850000000000003,crop
+1998-08-01,Min till,60.0,48.82258064516129,46.12903225806452,8,Wallumbilla,Min till,-11.177419354838712,crop
+1998-11-11,Min till,80.0,70.0,0.0,11,Wallumbilla,Min till,-10.0,fallow
+1999-02-12,Min till,80.0,55.714285714285715,0.0,2,Wallumbilla,Min till,-24.285714285714285,fallow
+1999-02-14,Min till,80.0,55.00000000000001,0.0,2,Wallumbilla,Min till,-24.999999999999993,fallow
+1999-04-18,Min till,70.0,33.45454545454546,0.0,4,Wallumbilla,Min till,-36.54545454545454,fallow
+1999-04-20,Min till,70.0,32.72727272727273,0.0,4,Wallumbilla,Min till,-37.27272727272727,fallow
+1999-07-07,Min till,30.0,25.685483870967747,21.7741935483871,7,Wallumbilla,Min till,-4.314516129032253,crop
+1999-11-02,Min till,40.0,70.0,0.0,11,Wallumbilla,Min till,30.0,fallow
+2000-02-10,Min till,30.0,56.42857142857143,0.0,2,Wallumbilla,Min till,26.42857142857143,fallow
+2000-05-12,Min till,20.0,24.363636363636367,0.0,5,Wallumbilla,Min till,4.363636363636367,fallow

@@ -1,0 +1,131 @@
+site,treatment,file,doy,green,residue_old,residue_new,fallow_knot
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,1,0.0,2.0,9.0,True
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,31,0.0,2.0,6.0,True
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,59,0.0,2.0,6.0,True
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,90,0.0,2.0,5.0,True
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,120,0.0,2.0,5.0,True
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,152,0.0,2.0,5.0,True
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,162,0.0,2.0,5.0,True
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,212,30.0,2.0,2.0,False
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,243,85.0,2.0,2.0,False
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,273,95.0,2.0,2.0,False
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,320,95.0,95.0,95.0,False
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,335,0.0,2.0,58.0,True
+Greenmount,Burnt,Greenmount_wheat_stubble_burnt.vege,365,0.0,2.0,9.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,1,0.0,30.0,55.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,31,0.0,25.0,34.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,59,0.0,20.0,26.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,90,0.0,15.0,25.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,120,0.0,10.0,19.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,152,0.0,7.0,19.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,162,0.0,5.0,19.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,212,30.0,1.0,1.0,False
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,243,85.0,1.0,1.0,False
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,273,95.0,1.0,1.0,False
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,320,95.0,95.0,95.0,False
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,335,0.0,35.0,60.0,True
+Greenmount,Incorporated,Greenmount_wheat_stubble_incorporated.vege,365,0.0,30.0,55.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,1,0.0,60.0,63.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,31,0.0,50.0,47.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,59,0.0,40.0,38.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,90,0.0,35.0,33.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,120,0.0,30.0,26.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,152,0.0,25.0,25.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,162,0.0,15.0,25.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,212,30.0,5.0,5.0,False
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,243,85.0,5.0,5.0,False
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,273,95.0,5.0,5.0,False
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,320,95.0,90.0,90.0,False
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,335,0.0,65.0,72.0,True
+Greenmount,Mulch,Greenmount_wheat_stubble_mulch.vege,365,0.0,60.0,63.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,1,0.0,80.0,75.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,31,0.0,75.0,73.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,59,0.0,70.0,62.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,90,0.0,67.0,62.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,120,0.0,65.0,62.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,152,0.0,55.0,62.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,162,0.0,40.0,62.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,212,30.0,20.0,20.0,False
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,243,85.0,15.0,15.0,False
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,273,95.0,10.0,10.0,False
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,320,95.0,95.0,95.0,False
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,335,0.0,90.0,80.0,True
+Greenmount,Zero till,Greenmount_Wheat_zero_till.vege,365,0.0,80.0,75.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,1,0.0,2.0,4.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,31,0.0,2.0,4.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,59,0.0,2.0,4.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,90,0.0,2.0,3.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,120,0.0,2.0,2.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,152,0.0,2.0,2.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,162,0.0,2.0,2.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,212,30.0,2.0,2.0,False
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,243,85.0,2.0,2.0,False
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,273,95.0,2.0,2.0,False
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,320,95.0,95.0,95.0,False
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,335,0.0,2.0,29.0,True
+Greenwood,Burnt,Greenwood_wheat_stubble_burnt.vege,365,0.0,2.0,4.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,1,0.0,30.0,27.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,31,0.0,25.0,27.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,59,0.0,20.0,27.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,90,0.0,15.0,17.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,120,0.0,10.0,6.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,152,0.0,7.0,4.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,162,0.0,5.0,4.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,212,30.0,1.0,1.0,False
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,243,85.0,1.0,1.0,False
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,273,95.0,1.0,1.0,False
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,320,95.0,95.0,95.0,False
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,335,0.0,35.0,47.0,True
+Greenwood,Incorporated,Greenwood_wheat_stubble_incorporated.vege,365,0.0,30.0,29.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,1,0.0,60.0,50.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,31,0.0,50.0,50.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,59,0.0,40.0,50.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,90,0.0,35.0,31.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,120,0.0,30.0,25.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,152,0.0,25.0,8.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,162,0.0,15.0,8.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,212,30.0,5.0,5.0,False
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,243,85.0,5.0,5.0,False
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,273,95.0,5.0,5.0,False
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,320,95.0,90.0,90.0,False
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,335,0.0,65.0,61.0,True
+Greenwood,Mulch,Greenwood_wheat_stubble_mulch.vege,365,0.0,60.0,50.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,1,0.0,80.0,56.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,31,0.0,75.0,46.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,59,0.0,70.0,44.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,90,0.0,67.0,44.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,120,0.0,65.0,44.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,152,0.0,55.0,25.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,162,0.0,40.0,25.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,212,30.0,20.0,20.0,False
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,243,85.0,15.0,15.0,False
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,273,95.0,10.0,10.0,False
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,320,95.0,95.0,95.0,False
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,335,0.0,90.0,63.0,True
+Greenwood,Zero till,Greenwood_Wheat_zero_till.vege,365,0.0,80.0,56.0,True
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,1,0.0,30.0,26.0,True
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,31,0.0,20.0,22.0,True
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,59,0.0,10.0,13.0,True
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,90,0.0,5.0,13.0,True
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,145,0.0,5.0,4.0,True
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,151,2.0,2.0,2.0,False
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,181,15.0,1.0,1.0,False
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,212,45.0,1.0,1.0,False
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,243,80.0,1.0,1.0,False
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,263,85.0,1.0,1.0,False
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,280,85.0,10.0,10.0,False
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,300,0.0,44.0,60.0,True
+Wallumbilla,Tilled,Wallumbilla_chisel.vege,365,0.0,30.0,26.0,True
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,1,0.0,70.0,41.0,True
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,31,0.0,60.0,32.0,True
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,59,0.0,50.0,32.0,True
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,90,0.0,40.0,32.0,True
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,145,0.0,20.0,4.0,True
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,151,2.0,10.0,10.0,False
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,181,15.0,5.0,5.0,False
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,212,45.0,5.0,5.0,False
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,243,80.0,5.0,5.0,False
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,263,85.0,5.0,5.0,False
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,280,85.0,5.0,5.0,False
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,300,0.0,70.0,65.0,True
+Wallumbilla,Min till,Wallumbilla_Minimum_tillage.vege,365,0.0,70.0,41.0,True

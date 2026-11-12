@@ -77,3 +77,6 @@ The Greenmount fit was run before two corrections to the observed data (see `gre
   - `setup_data.py`, `pooled*.py`: Wallumbilla.
   - `gw_*`: Greenwood.
   - `gm_*`: Greenmount.
+
+## Joint calibration and model test (November 2026)
+See `joint_2026/`: one shared parameter set across all three sites, tested from soil and vege input files (revised vege files included), with original vs new model results and the event analysis.

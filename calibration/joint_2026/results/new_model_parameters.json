@@ -1,0 +1,90 @@
+{
+ "description": "Watbal2026 new model, joint three-site fit on cumulative P:O (Nov 2026). Input-file mode: revised vege files, no soil water resets, vege planting dates, 50% PAWC start, no fallow weeds.",
+ "shared": {
+  "cn_reduction_full_cover": 14.77,
+  "zero_till_cn2_offset": 5.41,
+  "amc_mode": "howleaky",
+  "sediment_cover_coef_b": 0.0572,
+  "sediment_bare_conc_g_L": 16.52,
+  "suspended_cover_coef_b": 0.0388,
+  "sediment_season_factor": "off",
+  "sediment_runoff_threshold_mm": 1
+ },
+ "site": {
+  "Greenmount": {
+   "cn2": 91.42,
+   "K": 0.483,
+   "suspended_bare_conc_g_L": 8.41,
+   "LS": 1.427
+  },
+  "Greenwood": {
+   "cn2": 94.2,
+   "K": 0.374,
+   "suspended_bare_conc_g_L": 7.0,
+   "LS": 0.716
+  },
+  "Wallumbilla": {
+   "cn2": 85.41,
+   "K": null,
+   "suspended_bare_conc_g_L": 14.06,
+   "LS": 0.45
+  }
+ },
+ "site_soil_water_from_reference_calibration": {
+  "Greenmount": {
+   "cona": 6.96,
+   "U": 0.01,
+   "bottom_drain_mm_day": 12
+  },
+  "Greenwood": {
+   "cona": 5.1,
+   "U": 4.68,
+   "bottom_drain_mm_day": 12
+  },
+  "Wallumbilla": {
+   "cona": 3.33,
+   "U": 4.8,
+   "bottom_drain_mm_day": 0.14,
+   "kl": 0.037
+  }
+ },
+ "forms": {
+  "soil_movement_t_ha": "16.52*exp(-b*cover%)*LS*K*P*runoff/10 for runoff > 1 mm",
+  "suspended_t_ha": "conc_bare*exp(-b_ss*cover%)*runoff/100 (conc in g/L) for runoff > 1 mm"
+ },
+ "original_model_soil_files": {
+  "Greenmount": {
+   "cn2": 83.0,
+   "cn_red": 15.0,
+   "U": 4.0,
+   "cona": 4.0,
+   "K": 0.35,
+   "ksat_bot": 12.0,
+   "amc_mode": "capped",
+   "kl": null,
+   "zt_cn2_offset": 0.0
+  },
+  "Greenwood": {
+   "cn2": 86.0,
+   "cn_red": 15.0,
+   "U": 0.0,
+   "cona": 6.0,
+   "K": 0.4,
+   "ksat_bot": 12.0,
+   "amc_mode": "capped",
+   "kl": null,
+   "zt_cn2_offset": 0.0
+  },
+  "Wallumbilla": {
+   "cn2": 86.0,
+   "cn_red": 10.0,
+   "U": 4.0,
+   "cona": 4.0,
+   "K": 0.4,
+   "ksat_bot": 0.1,
+   "amc_mode": "capped",
+   "kl": null,
+   "zt_cn2_offset": 0.0
+  }
+ }
+}

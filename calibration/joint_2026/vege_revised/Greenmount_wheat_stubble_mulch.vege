@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoverVegTemplate>
+  <VegetationType href="\\Mac\Home\Documents\Projects\Howleaky\Project data\HL projects\Greenmount 2020\Vegetation\wheat stubble mulch.vege" text="Wheat stubble mulch (residue revised Nov 2026)" Description="Wheat stubble mulch: fallow residue fitted to measured cover, Greenmount Mulch">
+    <ModelType index="1"/>
+    <TimeSeriesList>undefined</TimeSeriesList>
+    <PanPlantDay LastModified="24/01/2021">150</PanPlantDay>
+    <SWPropForNoStress LastModified="24/01/2021">0.2</SWPropForNoStress>
+    <DaysPlantingToHarvest LastModified="24/01/2021">150</DaysPlantingToHarvest>
+    <CoverInputOptions index="0" text="User-defined"/>
+    <CropFactorMatrix Count="13">
+      <Data x="1" y="0" z="63" a="0"/>
+      <Data x="31" y="0" z="47" a="0"/>
+      <Data x="59" y="0" z="38" a="0"/>
+      <Data x="90" y="0" z="33" a="0"/>
+      <Data x="120" y="0" z="26" a="0"/>
+      <Data x="152" y="0" z="25" a="0"/>
+      <Data x="162" y="0" z="25" a="0"/>
+      <Data x="212" y="30" z="5" a="450"/>
+      <Data x="243" y="85" z="5" a="1200"/>
+      <Data x="273" y="95" z="5" a="1500"/>
+      <Data x="320" y="95" z="90" a="1500"/>
+      <Data x="335" y="0" z="72" a="0"/>
+      <Data x="365" y="0" z="63" a="0"/>
+    </CropFactorMatrix>
+    <SourceData index="0" text="undefined"/>
+    <LinkToGreenCover index="0" text="undefined"/>
+    <GreenBioMassToCoverFactor LastModified="24/01/2021">1</GreenBioMassToCoverFactor>
+    <LinkToResidueCover index="0" text="undefined"/>
+    <ResidueBioMassToCoverFactor LastModified="28/01/2021">1</ResidueBioMassToCoverFactor>
+    <LinkToRootDepth index="0" text="undefined"/>
+    <RootBioMassToDepthFactor LastModified="24/01/2021">1</RootBioMassToDepthFactor>
+    <MaxAllowTotalCover LastModified="24/01/2021">1</MaxAllowTotalCover>
+    <MaxRootDepth LastModified="24/01/2021">1</MaxRootDepth>
+    <WaterUseEffic LastModified="24/01/2021">30</WaterUseEffic>
+    <PanHarvestIndex LastModified="24/01/2021">0.4</PanHarvestIndex>
+  </VegetationType>
+</CoverVegTemplate>
